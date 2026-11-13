@@ -1,0 +1,139 @@
+qcat,scat,records,pairs,flavor_pct,nutrient_pct
+dairy,plant derivative,782,31,0.402,0.459
+plant derivative,dairy,252,23,0.596,0.646
+alcoholic beverage,meat,146,11,0.263,0.628
+vegetable,cereal/crop,113,51,0.63,0.651
+meat,vegetable,112,60,0.564,0.59
+plant derivative,fruit,106,20,0.537,0.739
+herb,vegetable,92,39,0.485,0.835
+animal product,plant derivative,86,12,0.308,0.504
+cereal/crop,plant derivative,82,8,0.401,0.307
+meat,fish/seafood,81,24,0.726,0.835
+dairy,meat,79,24,0.766,0.827
+vegetable,herb,79,42,0.399,0.661
+dairy,fruit,76,34,0.518,0.586
+fruit,plant derivative,69,13,0.507,0.498
+vegetable,fruit,67,49,0.518,0.694
+dairy,vegetable,66,43,0.497,0.595
+cereal/crop,vegetable,64,33,0.613,0.731
+vegetable,meat,63,48,0.665,0.365
+nut/seed/pulse,fruit,60,29,0.606,0.47
+fish/seafood,meat,59,12,0.923,0.93
+fruit,vegetable,57,36,0.481,0.771
+plant derivative,cereal/crop,55,9,0.439,0.509
+fruit,nut/seed/pulse,53,18,0.572,0.472
+spice,vegetable,52,31,0.583,0.695
+meat,dairy,52,23,0.787,0.793
+meat,alcoholic beverage,48,11,0.588,0.531
+vegetable,spice,47,23,0.514,0.425
+spice,herb,46,26,0.714,0.723
+vegetable,dairy,44,32,0.713,0.299
+dairy,spice,41,19,0.448,0.334
+animal product,dairy,41,11,0.775,0.84
+dairy,cereal/crop,38,22,0.448,0.45
+spice,plant derivative,33,19,0.41,0.373
+alcoholic beverage,plant derivative,32,7,0.54,0.637
+plant derivative,meat,31,14,0.527,0.616
+spice,fruit,30,18,0.589,0.612
+dairy,animal product,30,13,0.608,0.526
+plant derivative,vegetable,28,24,0.547,0.664
+meat,cereal/crop,28,16,0.644,0.607
+animal product,fruit,27,7,0.598,0.639
+herb,spice,27,21,0.877,0.581
+dairy,alcoholic beverage,26,12,0.779,0.331
+vegetable,plant derivative,24,18,0.344,0.294
+fruit,dairy,23,15,0.599,0.475
+fruit,spice,22,16,0.593,0.512
+alcoholic beverage,fruit,20,10,0.369,0.822
+cereal/crop,dairy,19,15,0.787,0.212
+plant derivative,animal product,17,12,0.539,0.517
+spice,dairy,17,15,0.637,0.396
+spice,nut/seed/pulse,16,6,0.602,0.709
+nut/seed/pulse,cereal/crop,16,6,0.527,0.936
+cereal/crop,nut/seed/pulse,16,10,0.58,0.831
+vegetable,nut/seed/pulse,16,13,0.353,0.567
+cereal/crop,meat,15,12,0.822,0.273
+animal product,cereal/crop,15,8,0.655,0.628
+dairy,herb,15,13,0.266,0.495
+fruit,plant,15,8,0.384,0.759
+meat,plant derivative,14,9,0.4,0.336
+dairy,nut/seed/pulse,13,10,0.559,0.548
+vegetable,alcoholic beverage,13,11,0.63,0.42
+herb,fruit,12,12,0.696,0.622
+nut/seed/pulse,vegetable,12,11,0.456,0.622
+plant derivative,herb,11,7,0.335,0.344
+nut/seed/pulse,spice,11,4,0.557,0.645
+fruit,alcoholic beverage,10,8,0.6,0.516
+animal product,vegetable,10,8,0.608,0.651
+plant derivative,spice,9,7,0.321,0.212
+alcoholic beverage,dairy,9,3,0.748,0.544
+spice,alcoholic beverage,9,4,0.634,0.457
+plant derivative,alcoholic beverage,9,6,0.821,0.723
+animal product,meat,9,5,0.776,0.895
+spice,plant,8,3,0.342,0.704
+fruit,herb,8,7,0.56,0.667
+nut/seed/pulse,plant derivative,8,6,0.498,0.387
+alcoholic beverage,vegetable,8,7,0.645,0.846
+cereal/crop,spice,8,8,0.368,0.737
+fruit,meat,8,5,0.453,0.48
+fruit,cereal/crop,7,7,0.585,0.535
+meat,herb,7,6,0.369,0.461
+plant derivative,nut/seed/pulse,7,6,0.54,0.522
+spice,cereal/crop,7,7,0.459,0.778
+fish/seafood,alcoholic beverage,6,5,0.524,0.255
+cereal/crop,fruit,6,6,0.54,0.55
+meat,spice,6,5,0.267,0.372
+alcoholic beverage,spice,5,4,0.634,0.738
+nut/seed/pulse,dairy,5,5,0.65,0.607
+animal product,spice,5,5,0.363,0.332
+cereal/crop,animal product,5,3,0.438,0.197
+spice,animal product,5,2,0.752,0.579
+dairy,fish/seafood,5,5,0.763,0.674
+herb,meat,5,5,0.618,0.293
+fish/seafood,herb,5,4,0.418,0.67
+spice,meat,5,5,0.398,0.222
+dairy,plant,4,4,0.169,0.539
+fish/seafood,cereal/crop,4,4,0.545,0.553
+plant,spice,4,4,0.694,0.503
+fruit,animal product,4,4,0.567,0.605
+fish/seafood,vegetable,4,4,0.45,0.656
+herb,nut/seed/pulse,3,2,0.372,0.247
+herb,plant,3,2,0.452,0.847
+plant,fruit,3,2,0.936,0.7
+animal product,nut/seed/pulse,3,3,0.572,0.457
+fish/seafood,spice,3,3,0.345,0.382
+nut/seed/pulse,herb,3,3,0.491,0.507
+herb,dairy,3,3,0.542,0.172
+meat,fruit,3,3,0.607,0.573
+meat,animal product,3,2,0.553,0.061
+plant,herb,2,2,0.779,0.756
+vegetable,fish/seafood,2,2,0.597,0.454
+cereal/crop,herb,2,2,0.387,0.674
+cereal/crop,plant,2,2,0.242,0.825
+fruit,fish/seafood,2,2,0.953,0.454
+herb,cereal/crop,2,2,0.272,0.714
+plant,nut/seed/pulse,2,2,0.619,0.483
+spice,fish/seafood,2,2,0.498,0.292
+herb,plant derivative,2,2,0.154,0.422
+plant,vegetable,2,2,0.333,0.722
+alcoholic beverage,cereal/crop,2,2,0.778,0.496
+meat,nut/seed/pulse,2,1,0.052,0.398
+meat,plant,1,1,0.453,0.544
+nut/seed/pulse,animal product,1,1,0.517,0.131
+alcoholic beverage,herb,1,1,0.377,0.526
+vegetable,plant,1,1,0.369,0.745
+alcoholic beverage,nut/seed/pulse,1,1,0.453,0.274
+animal product,alcoholic beverage,1,1,0.266,0.026
+animal product,fish/seafood,1,1,0.954,0.96
+plant,cereal/crop,1,1,0.489,0.752
+cereal/crop,alcoholic beverage,1,1,0.364,0.122
+cereal/crop,fish/seafood,1,1,0.967,0.356
+vegetable,animal product,1,1,0.768,0.271
+herb,fish/seafood,1,1,0.384,0.381
+nut/seed/pulse,plant,1,1,0.147,0.611
+fish/seafood,plant derivative,1,1,0.103,0.155
+nut/seed/pulse,meat,1,1,0.737,0.477
+plant derivative,fish/seafood,1,1,0.329,0.512
+herb,alcoholic beverage,1,1,0.391,0.304
+herb,animal product,1,1,0.144,0.009
+plant,alcoholic beverage,1,1,0.613,0.483

@@ -1,0 +1,1526 @@
+row,ingredient_id,ingredient,category,n_compounds,recipe_freq,in_recipes
+0,1392,abies_alba,plant,1,0,False
+1,1259,abies_alba_pine_needle,plant,1,0,False
+2,1079,abies_balsamea_oil,plant derivative,1,0,False
+3,22,abies_canadensis,plant,1,0,False
+4,103,abies_concolor,plant,1,0,False
+5,1005,abies_sibirica,plant,3,0,False
+6,371,acacia,plant,7,0,False
+7,382,acacia_caven,plant,2,0,False
+8,1249,acacia_dealbata,plant,1,0,False
+9,1097,acacia_farnesiana,plant,2,0,False
+10,281,acacia_farnesiana_oil,plant derivative,1,0,False
+11,27,acacia_flower_oil,plant derivative,1,0,False
+12,564,achasma_walang,plant,1,0,False
+13,307,achillea_ageratum,plant,3,0,False
+14,279,achillea_micrantha_oil,plant derivative,1,0,False
+15,1459,achillea_millefolium,plant,1,0,False
+16,521,aconitum_napellus,plant,1,0,False
+17,818,agaricus,vegetable,1,0,False
+18,65,agarwood,plant,1,0,False
+19,358,agastache_formosana,herb,1,0,False
+20,11,agastache_rugosa,herb,1,0,False
+21,1288,agathosma_gnidioides_leaf_oil,plant derivative,1,0,False
+22,1303,alcoholic_beverage,alcoholic beverage,1,0,False
+23,896,algae,vegetable,1,0,False
+24,1500,algerian_geranium_oil,plant derivative,1,0,False
+25,18,almond,nut/seed/pulse,9,2318,True
+26,1047,almond_flower,flower,6,0,False
+27,600,alpinia_malaccensis,plant,2,0,False
+28,1205,alpinia_malaccensis_oil,plant derivative,1,0,False
+29,1341,alpinia_sessilis,plant,1,0,False
+30,1477,ambergris_oil,plant derivative,1,0,False
+31,1272,ambrette,plant derivative,1,0,False
+32,979,ambrette_seed,plant,4,0,False
+33,812,ambrette_seed_oil,plant derivative,2,0,False
+34,981,american_cranberry,fruit,12,0,False
+35,829,american_pennyroyal,plant,1,0,False
+36,397,american_peppermint,herb,4,0,False
+37,68,american_peppermint_oil,plant derivative,3,0,False
+38,708,american_potato_chip,vegetable,3,0,False
+39,492,american_sassafras_oil,plant derivative,1,0,False
+40,99,american_storax,plant derivative,2,0,False
+41,1087,ananas_sativus,plant,2,0,False
+42,1135,ananas_sativus_oil,plant derivative,1,0,False
+43,1040,andropogon_gragrans,plant,1,0,False
+44,1456,andropogon_intermedius,plant,1,0,False
+45,1056,andropogon_jwarancusa,plant,2,0,False
+46,725,angelica,herb,4,1,True
+47,420,angelica_oil,plant derivative,3,0,False
+48,1229,angelica_root,plant,13,0,False
+49,462,angelica_root_oil,plant derivative,12,0,False
+50,1290,angelica_seed,plant,1,0,False
+51,1227,animal,animal product,7,0,False
+52,707,anise,spice,17,223,True
+53,175,anise_brandy,alcoholic beverage,1,0,False
+54,662,anise_hyssop,herb,9,0,False
+55,395,anise_seed,spice,2,84,True
+56,1384,anise_seed_oil,plant derivative,1,0,False
+57,1077,annona_reticulata,plant,1,0,False
+58,1197,apple,fruit,195,2414,True
+59,761,apple_brandy,alcoholic beverage,24,37,True
+60,1361,apple_juice,fruit,39,0,False
+61,472,apple_sauce,plant derivative,1,0,False
+62,1120,apricot,fruit,111,620,True
+63,881,apricot_kernel,nut/seed/pulse,1,0,False
+64,1270,araucaria_cunninghamii,plant,1,0,False
+65,1411,aristolochia_clematitis,plant,1,0,False
+66,190,armagnac,alcoholic beverage,3,11,True
+67,1239,armenian_muscat_grape_oil,plant derivative,1,0,False
+68,1388,arnica_montana,plant,1,0,False
+69,571,arrack,alcoholic beverage,4,0,False
+70,1342,artemisae_oil,plant derivative,1,0,False
+71,1504,artemisia,plant,2,13,True
+72,387,artemisia_arborescens,plant,1,0,False
+73,1177,artemisia_brevifolia,plant,1,0,False
+74,277,artemisia_camphorata,plant,1,0,False
+75,788,artemisia_cina,plant,1,0,False
+76,1154,artemisia_dracunculus_oil,plant derivative,1,0,False
+77,930,artemisia_ferganensis,plant,1,0,False
+78,501,artemisia_frigida,plant,3,0,False
+79,1262,artemisia_frigida_oil,plant derivative,1,0,False
+80,428,artemisia_hausiliensis,plant,1,0,False
+81,1175,artemisia_herba_alba,plant,3,0,False
+82,563,artemisia_juncea,plant,1,0,False
+83,500,artemisia_maritime_oil,plant derivative,1,0,False
+84,1528,artemisia_porrecta_oil,plant derivative,1,0,False
+85,229,artemisia_santolinifolia,plant,2,0,False
+86,1293,artemisia_santolinifolia_oil,plant derivative,1,0,False
+87,495,artemisia_scoparia,plant,1,0,False
+88,218,artemisia_transiliensis,plant,2,0,False
+89,585,artemisia_tridentata,plant,1,0,False
+90,10,artemisia_verlo,plant,1,0,False
+91,1251,artichoke,vegetable,6,391,True
+92,996,asarum_arifolium_root_oil,plant derivative,1,0,False
+93,208,asarum_canadense_root_oil,plant derivative,1,0,False
+94,530,asarum_europaeum_root_oil,plant derivative,1,0,False
+95,963,ashanti_pepper,spice,37,0,False
+96,509,asian_storax,plant derivative,1,0,False
+97,1174,asparagus,vegetable,63,438,True
+98,1065,asperula_odorosa,plant,1,0,False
+99,1057,atropa_belladonna_leaf,plant,1,0,False
+100,1111,atropa_belladonna_root,plant,1,0,False
+101,535,auricula_oil,plant derivative,1,0,False
+102,602,auto_oxidized_salmon_oil,animal product,1,0,False
+103,94,avocado,fruit,38,649,True
+104,1432,azalea,flower,6,0,False
+105,645,babaco,fruit,18,0,False
+106,131,bachang,plant,1,0,False
+107,581,backhousia_citriodora,plant,2,0,False
+108,956,backhousia_citriodora_oil,plant derivative,1,0,False
+109,19,bacon,meat,120,2154,True
+110,1042,baeckea_citriodora,plant,2,0,False
+111,1359,baeckea_citriodora_oil,plant derivative,1,0,False
+112,458,bael,fruit,3,0,False
+113,261,baked_potato,vegetable,127,9,True
+114,1416,balm,herb,1,3,True
+115,918,banana,fruit,115,982,True
+116,1116,banana_passion_fruit,fruit,10,0,False
+117,506,bantu_beer,alcoholic beverage,230,0,False
+118,1281,barley,cereal/crop,14,232,True
+119,237,barosma_betulina,plant,1,0,False
+120,1058,barosma_crenulata,plant,1,0,False
+121,274,barosma_pulchella_leaf_oil,plant derivative,1,0,False
+122,435,barosma_pulchella_oil,plant derivative,1,0,False
+123,1463,barosma_venustum,plant,1,0,False
+124,330,bartlett_pear,fruit,52,23,True
+125,256,basil,herb,23,3779,True
+126,726,basil_oil,plant derivative,1,0,False
+127,215,bay,herb,1,1472,True
+128,1126,bay_laurel,herb,4,0,False
+129,771,bay_laurel_oil,plant derivative,1,0,False
+130,1348,bean,vegetable,86,1903,True
+131,357,beech,plant,2,1,True
+132,1299,beech_tar_creosote,plant derivative,1,0,False
+133,921,beechwood_tar,plant derivative,1,0,False
+134,248,beef,meat,199,4820,True
+135,512,beef_broth,meat,4,835,True
+136,1115,beef_liver,meat,5,10,True
+137,1085,beef_tallow,meat,1,0,False
+138,1495,beer,alcoholic beverage,227,303,True
+139,255,beet,vegetable,3,231,True
+140,62,beet_juice,vegetable,1,0,False
+141,1069,beet_root,vegetable,9,0,False
+142,1292,bell_pepper,vegetable,66,5846,True
+143,335,benzoin,plant derivative,2,0,False
+144,891,benzoin_resin,plant derivative,1,0,False
+145,778,bergamot,flower,13,7,True
+146,331,bergamot_oil,plant derivative,7,0,False
+147,991,bergamot_peel_oil,plant derivative,1,0,False
+148,609,berry,fruit,52,181,True
+149,552,berry_bud,plant,1,0,False
+150,1440,berry_juice,fruit,1,0,False
+151,1318,betel,plant,1,0,False
+152,1316,bilberry,fruit,94,0,False
+153,888,bilberry_wine,alcoholic beverage,6,0,False
+154,140,birch,plant,3,0,False
+155,782,bisabol_myrrh,herb,1,0,False
+156,1498,bitter_almond,nut/seed/pulse,2,0,False
+157,250,bitter_fennel,herb,2,0,False
+158,92,bitter_orange,fruit,34,83,True
+159,228,bitter_orange_flower_oil,plant derivative,1,0,False
+160,262,bitter_orange_juice,fruit,1,0,False
+161,656,bitter_orange_leaf,plant,1,0,False
+162,816,bitter_orange_oil,plant derivative,4,0,False
+163,411,bitter_orange_peel_oil,plant derivative,5,0,False
+164,1478,black_bean,vegetable,87,473,True
+165,538,black_chokeberry,fruit,55,0,False
+166,21,black_chokecherry,fruit,59,0,False
+167,1026,black_currant,fruit,88,10,True
+168,1418,black_currant_bud,plant,5,0,False
+169,1445,black_currant_juice,fruit,1,0,False
+170,15,black_mustard_seed_oil,plant derivative,1,28,True
+171,7,black_pepper,spice,38,9752,True
+172,1375,black_raspberry,fruit,53,7,True
+173,366,black_seabream,fruit,65,0,False
+174,118,black_sesame_seed,nut/seed/pulse,18,26,True
+175,908,black_tea,plant derivative,239,37,True
+176,786,black_tea_oil,plant derivative,2,0,False
+177,676,blackberry,fruit,106,164,True
+178,924,blackberry_brandy,alcoholic beverage,1,3,True
+179,96,blackberry_juice,fruit,1,0,False
+180,350,blenheim_apricot,fruit,10,0,False
+181,994,blue_cheese,dairy,164,395,True
+182,46,blueberry,fruit,64,464,True
+183,1457,blumea_eriantha_oil,plant derivative,1,0,False
+184,551,blumea_malcomii_oil,plant derivative,1,0,False
+185,1343,bog_blueberry,fruit,53,0,False
+186,625,boiled_beef,meat,206,0,False
+187,494,boiled_chicken,meat,123,0,False
+188,320,boiled_crab,fish/seafood,32,0,False
+189,570,boiled_meat,meat,45,0,False
+190,1516,boiled_mutton,meat,76,0,False
+191,1059,boiled_pork,meat,116,0,False
+192,405,boldea_fragrans,plant,1,0,False
+193,337,boldo,plant,1,0,False
+194,510,boldo_leaf,plant,1,0,False
+195,426,boletus_scaber,vegetable,1,0,False
+196,1322,bone_oil,animal product,1,49,True
+197,240,boronia_anemonifolia,plant,1,0,False
+198,181,boronia_citriodora,plant,1,0,False
+199,128,boronia_dentigeroides_oil,plant derivative,1,0,False
+200,877,boronia_ledifolia_leaf,plant,1,0,False
+201,267,boronia_ledifolia_oil,plant derivative,1,0,False
+202,769,borosma_pulchellum,plant,1,0,False
+203,653,boswellia_serrata_oil,plant derivative,1,0,False
+204,459,botrytized_wine,alcoholic beverage,133,0,False
+205,1351,bourbon_whiskey,alcoholic beverage,11,156,True
+206,737,brandy,alcoholic beverage,24,395,True
+207,598,brassica,plant,2,109,True
+208,393,brazil_nut,nut/seed/pulse,13,0,False
+209,688,brazil_peppermint_oil,plant derivative,2,0,False
+210,692,brazil_rosewood,plant,9,0,False
+211,367,brazilian_sassafras_oil,plant derivative,2,0,False
+212,105,bread,cereal/crop,51,4552,True
+213,949,brewed_tea,plant derivative,171,0,False
+214,1421,broccoli,vegetable,12,901,True
+215,647,brown_rice,cereal/crop,78,337,True
+216,746,brussels_sprout,vegetable,10,91,True
+217,6,buchu,plant,21,0,False
+218,392,buchu_leaf_oil,plant derivative,2,0,False
+219,1306,buchu_oil,plant derivative,20,0,False
+220,1193,buckwheat,cereal/crop,63,69,True
+221,70,bulgarian_clary_sage,herb,2,0,False
+222,162,bulgarian_clary_sage_oil,plant derivative,1,0,False
+223,869,bulgarian_peppermint,herb,1,0,False
+224,842,bulgarian_rose,flower,10,0,False
+225,1004,bulgarian_rose_oil,plant derivative,4,0,False
+226,1158,bulgarian_tobacco,plant derivative,1,0,False
+227,1014,burley_tobacco,plant derivative,5,0,False
+228,862,burley_tobacco_oil,plant derivative,1,0,False
+229,298,butter,dairy,140,20734,True
+230,738,butter_oil,dairy,2,0,False
+231,469,butterfat,dairy,11,0,False
+232,1008,buttermilk,dairy,12,1633,True
+233,1217,bystropogon_mollis_leaf_oil,plant derivative,1,0,False
+234,1237,cabbage,vegetable,38,935,True
+235,1041,cabbage_juice,vegetable,1,0,False
+236,1020,cabernet_sauvignon_grape,fruit,126,0,False
+237,1157,cabernet_sauvignon_wine,alcoholic beverage,166,17,True
+238,713,cabreuva,plant derivative,1,0,False
+239,369,cacao,plant derivative,1,35,True
+240,1286,caesalpinia_spinosa,plant,1,0,False
+241,54,caja_fruit,fruit,12,0,False
+242,856,cajeput,plant derivative,7,0,False
+243,1522,cajeput_oil,plant derivative,2,0,False
+244,286,calabash_nutmeg,spice,8,0,False
+245,242,calamus,plant,35,0,False
+246,1037,california_laurel_oil,plant derivative,1,0,False
+247,1340,california_lemon_oil,plant derivative,1,0,False
+248,232,california_orange,fruit,128,0,False
+249,556,california_orange_peel,plant,29,0,False
+250,121,california_pepper,spice,37,0,False
+251,1218,callitris,plant,1,0,False
+252,1066,callitris_drummondii,plant,1,0,False
+253,48,callitris_glauca,plant,1,0,False
+254,1156,callitris_gracilis,plant,1,0,False
+255,1137,callitris_intratropica,plant,1,0,False
+256,1260,callitris_rubusta,plant,1,0,False
+257,1,calyptranthes_parriculata,plant,1,0,False
+258,968,calytrix_tetragona,plant,3,0,False
+259,306,calytrix_tetragona_oil,plant derivative,1,0,False
+260,636,calytrix_virgata,plant,1,0,False
+261,401,camembert_cheese,dairy,141,12,True
+262,1425,camphor,plant derivative,15,0,False
+263,1313,camphor_oil,plant derivative,10,0,False
+264,748,cananga,flower,3,0,False
+265,544,cane_molasses,plant derivative,3,7654,True
+266,595,cantaloupe,fruit,108,0,False
+267,487,cape_gooseberry,fruit,85,0,False
+268,1366,caprifoliaceae,plant,1,0,False
+269,1021,capsicum,plant,37,0,False
+270,370,capsicum_annuum,plant,38,0,False
+271,383,caraway,spice,7,230,True
+272,1078,caraway_seed,spice,8,0,False
+273,1233,cardamom,spice,52,368,True
+274,1129,cardamom_oil,plant derivative,1,0,False
+275,284,carnation,flower,7,3,True
+276,1023,carnation_oil,plant derivative,1,0,False
+277,441,carob,fruit,1,7,True
+278,885,carob_fruit,fruit,10,0,False
+279,86,carphephorus_corymbosus_leaf,plant,1,0,False
+280,523,carphephorus_paniculatus_leaf,plant,1,0,False
+281,291,carpinus_betulus,plant,1,0,False
+282,1216,carrot,vegetable,40,3570,True
+283,1518,cascarilla,plant,1,0,False
+284,1519,cashew,nut/seed/pulse,16,199,True
+285,531,cassava,vegetable,7,22,True
+286,1167,cassia,spice,23,0,False
+287,1122,cassia_oil,plant derivative,3,0,False
+288,325,cassis_juice,fruit,1,0,False
+289,104,castoreum,animal product,3,0,False
+290,807,castoreum_oil,plant derivative,1,0,False
+291,639,catfish,fish/seafood,65,68,True
+292,839,caucas,vegetable,7,0,False
+293,593,caucus,vegetable,6,0,False
+294,1370,cauliflower,vegetable,23,325,True
+295,1494,caviar,fish/seafood,21,26,True
+296,663,cayenne,spice,39,7948,True
+297,1036,cayenne_bois_de_rose,plant,2,0,False
+298,1442,cayenne_linaloe,plant derivative,2,0,False
+299,691,cayenne_rosewood,plant,1,0,False
+300,508,ceanothus_velutinus_leaf,plant,1,0,False
+301,202,celery,vegetable,54,3603,True
+302,16,celery_oil,plant derivative,1,994,True
+303,539,celery_root,vegetable,1,0,False
+304,59,celery_seed,nut/seed/pulse,8,0,False
+305,151,cereal,cereal/crop,1,204,True
+306,352,ceriman,fruit,1,0,False
+307,954,ceylon_cinnamon,spice,6,0,False
+308,1273,ceylon_citronella,plant,5,0,False
+309,612,ceylon_citronella_oil,plant derivative,2,0,False
+310,143,ceylon_tea,plant derivative,174,0,False
+311,608,ceylon_tea_cinnamon_leaf,plant,1,0,False
+312,1075,ceylon_tea_citronella_oil,plant derivative,2,0,False
+313,1454,ceylon_tea_oil,plant derivative,1,0,False
+314,1362,chamaecyparis_formosensis_oil,plant derivative,1,0,False
+315,835,chamaecyparis_formosensis_root_oil,plant derivative,1,0,False
+316,789,chamaecyparis_lawsoniana,plant,1,0,False
+317,287,chamaecyparis_pisifera,plant,2,0,False
+318,2,chamaecyparis_pisifera_oil,plant derivative,1,0,False
+319,198,chamomile,flower,4,3,True
+320,1101,chamomile_oil,plant derivative,3,0,False
+321,986,champaca,flower,5,0,False
+322,1474,champagne_wine,alcoholic beverage,128,96,True
+323,61,chayote,fruit,1,26,True
+324,137,cheddar_cheese,dairy,151,3029,True
+325,525,cheese,dairy,127,3281,True
+326,1485,chempedak,fruit,1,0,False
+327,982,chenopodium,plant,1,0,False
+328,894,cherimoya,fruit,52,0,False
+329,309,cherry,fruit,41,1083,True
+330,386,cherry_brandy,alcoholic beverage,2,34,True
+331,297,cherry_juice,fruit,1,0,False
+332,271,chervil,herb,5,52,True
+333,1325,chestnut_flower,flower,6,0,False
+334,542,chestnut_honey,plant derivative,1,0,False
+335,1338,chicken,meat,123,5292,True
+336,875,chicken_broth,meat,1,3454,True
+337,682,chicken_liver,meat,5,51,True
+338,496,chickpea,vegetable,1,404,True
+339,1035,chicory,vegetable,1,153,True
+340,1352,chicory_root,vegetable,7,0,False
+341,1109,chinese_cabbage,vegetable,3,161,True
+342,583,chinese_cinnamon,herb,2,0,False
+343,1064,chinese_quince,fruit,82,0,False
+344,1038,chinese_quince_peel,plant,4,0,False
+345,565,chinese_star_anise,spice,13,0,False
+346,493,chinese_star_anise_oil,plant derivative,3,0,False
+347,698,chive,vegetable,22,1315,True
+348,650,choke_cherry,fruit,10,0,False
+349,1402,chokeberry,fruit,53,0,False
+350,301,chrysanthemum_japonicum,flower,1,0,False
+351,479,chrysanthemum_sincuse_flower,flower,1,0,False
+352,259,chrysocoris_stolli,animal product,1,0,False
+353,52,cicuta_virosa_oil,plant derivative,1,0,False
+354,1269,cider,alcoholic beverage,82,1119,True
+355,942,cigarette,plant derivative,1,0,False
+356,658,cilantro,herb,19,2249,True
+357,511,cinchona_officinalis,plant,1,0,False
+358,163,cinnamomum,plant,2,0,False
+359,745,cinnamomum_camphora,plant,2,0,False
+360,557,cinnamomum_cassia_oil,plant derivative,1,0,False
+361,1166,cinnamomum_kanahirain,plant,1,0,False
+362,1171,cinnamomum_oil,plant derivative,1,0,False
+363,1108,cinnamomum_oliveri_leaf,plant,1,0,False
+364,439,cinnamon,spice,51,5600,True
+365,1526,cinnamon_leaf,plant,5,0,False
+366,611,cinnamon_leaf_oil,plant derivative,2,0,False
+367,765,cinnamon_oil,plant derivative,2,0,False
+368,1144,cistus_labdanum,plant,1,0,False
+369,513,cistus_ladaniferus,plant,2,0,False
+370,1483,citron,herb,1,0,False
+371,537,citronella,herb,7,0,False
+372,527,citronella_grass,herb,1,0,False
+373,402,citronella_oil,plant derivative,1,0,False
+374,1261,citrus,fruit,51,161,True
+375,1502,citrus_flower_oil,plant derivative,1,0,False
+376,821,citrus_fruit_blossom,flower,1,0,False
+377,1209,citrus_juice,fruit,33,0,False
+378,448,citrus_leaf_oil,plant derivative,1,0,False
+379,1025,citrus_limetta_oil,plant derivative,1,0,False
+380,985,citrus_oil,plant derivative,6,0,False
+381,110,citrus_peel,plant,52,4,True
+382,456,citrus_peel_oil,plant derivative,51,0,False
+383,674,clam,fish/seafood,61,461,True
+384,95,clary_sage,herb,38,0,False
+385,711,clary_sage_bush,plant,1,0,False
+386,732,clary_sage_oil,plant derivative,5,0,False
+387,902,cloudberry,fruit,73,0,False
+388,974,cloudberry_oil,plant derivative,1,0,False
+389,1320,clove,spice,43,10,True
+390,1147,clove_oil,plant derivative,3,0,False
+391,239,clove_pink,flower,2,0,False
+392,1185,coal_tar,plant derivative,4,0,False
+393,892,cockroach,animal product,1,0,False
+394,1488,cocoa,plant derivative,193,4795,True
+395,642,cocoa_leaf,plant,2,0,False
+396,634,cocoa_liquor,alcoholic beverage,4,0,False
+397,545,coconut,nut/seed/pulse,51,1709,True
+398,489,coconut_oil,plant derivative,18,17,True
+399,238,cod,fish/seafood,65,174,True
+400,145,cod_liver_oil,animal product,1,0,False
+401,631,coffee,plant derivative,234,713,True
+402,903,coffee_flower,flower,1,0,False
+403,314,cognac,alcoholic beverage,184,66,True
+404,939,cognac_oil,plant derivative,1,0,False
+405,1505,compositae,plant,1,0,False
+406,605,comte_cheese,dairy,139,0,False
+407,898,concord_grape,fruit,128,11,True
+408,1511,condiment,plant derivative,1,9,True
+409,34,congo_geranium,flower,1,0,False
+410,1073,cooked_apple,fruit,196,0,False
+411,347,copaiba,plant derivative,1,0,False
+412,828,copaiba_balsam,plant derivative,1,0,False
+413,969,coprosma_foetidissima_leaf,plant,1,0,False
+414,1267,coriander,spice,52,1514,True
+415,628,coriander_oil,plant derivative,2,0,False
+416,427,corn,cereal/crop,82,4764,True
+417,430,corn_flake,cereal/crop,4,225,True
+418,931,corn_grit,cereal/crop,4,162,True
+419,680,corn_mint,herb,27,0,False
+420,1093,corn_mint_oil,plant derivative,23,0,False
+421,464,corn_oil,plant derivative,46,0,False
+422,855,corn_salad,plant,21,0,False
+423,872,corn_tortilla,cereal/crop,14,0,False
+424,69,cottage_cheese,dairy,131,348,True
+425,1314,cowberry,fruit,53,0,False
+426,1204,crab,fish/seafood,31,550,True
+427,1481,cranberry,fruit,102,914,True
+428,1052,crayfish,fish/seafood,24,0,False
+429,724,cream,dairy,29,10145,True
+430,1117,cream_cheese,dairy,130,2838,True
+431,1112,creosote,plant derivative,1,0,False
+432,168,crepis_foetida_root,plant,1,0,False
+433,659,crimean_white_grape_oil,plant derivative,1,0,False
+434,482,crisp_bread,cereal/crop,68,0,False
+435,1424,crowberry,fruit,55,0,False
+436,810,crownberry,fruit,53,0,False
+437,1443,cruciferae_seed,plant,19,0,False
+438,635,cryptomeria_japonica,plant,1,0,False
+439,992,cubeb,spice,1,0,False
+440,1044,cucumber,vegetable,23,1810,True
+441,579,cumin,spice,16,3220,True
+442,951,cumin_fruit_oil,plant derivative,1,0,False
+443,465,cumin_oil,plant derivative,1,0,False
+444,1360,cupressaceae,plant,3,0,False
+445,365,cupressaceae_oil,plant derivative,2,0,False
+446,961,cupressus_lusitanica,plant,1,0,False
+447,176,cupressus_macrocarpa_oil,plant derivative,1,0,False
+448,1169,curcuma,spice,3,0,False
+449,217,curcuma_aeruginosa,plant,1,0,False
+450,854,curcuma_aromatica,spice,1,0,False
+451,1153,cured_ham,meat,53,0,False
+452,1390,cured_pork,meat,135,314,True
+453,419,currant,fruit,41,241,True
+454,813,currant_leaf,plant,1,0,False
+455,1225,custard_apple,fruit,9,0,False
+456,1145,cuttlefish,fish/seafood,6,0,False
+457,978,cymbopogon_citralis_oil,plant derivative,1,0,False
+458,170,cymbopogon_javanensis,herb,4,0,False
+459,1430,cymbopogon_sennaarensis,plant,1,0,False
+460,1394,cypress,plant,6,0,False
+461,209,cypress_oil,plant derivative,3,0,False
+462,764,dacrydium_colensoi,plant,1,0,False
+463,499,dacrydium_franklinii_oil,plant derivative,1,0,False
+464,1506,daffodil,flower,6,0,False
+465,1437,daffodil_flower,flower,6,0,False
+466,753,dairy,dairy,11,0,False
+467,803,dalbergia_sissoo,plant,1,0,False
+468,1230,darwinia_grandiflora_oil,plant derivative,1,0,False
+469,483,date,fruit,2,375,True
+470,794,datura_stramonium,plant,1,0,False
+471,1076,demon_red,spice,2,0,False
+472,1125,dill,herb,41,1108,True
+473,1489,dill_blossom,plant,6,0,False
+474,736,dill_seed,plant,22,0,False
+475,63,dolphin,fish/seafood,1,0,False
+476,603,domiati_cheese,dairy,128,0,False
+477,520,doryphora_sassafras_leaf_oil,plant derivative,1,0,False
+478,123,dried_black_tea,plant derivative,172,0,False
+479,790,dried_fig,fruit,42,0,False
+480,497,dried_green_tea,plant derivative,172,0,False
+481,1162,dried_kidney_bean,vegetable,87,0,False
+482,920,dried_parsley,herb,23,0,False
+483,431,dried_spinach,vegetable,1,0,False
+484,830,durian,fruit,34,1,True
+485,802,dwarf_pine,plant,1,0,False
+486,150,dwarf_quince,fruit,55,0,False
+487,815,east_african_geranium,flower,7,0,False
+488,993,east_indian_geranium,flower,6,0,False
+489,201,echinacea,flower,1,0,False
+490,328,eel,fish/seafood,65,20,True
+491,848,egg,animal product,49,20941,True
+492,767,egg_noodle,cereal/crop,4,308,True
+493,720,elder_flower,flower,10,0,False
+494,983,elderberry,fruit,68,5,True
+495,1284,elderberry_fruit,fruit,10,0,False
+496,601,elderberry_juice,fruit,5,0,False
+497,364,elettaria_caradmomum_oil,plant derivative,1,0,False
+498,719,elsholtzia_argyi,plant,1,0,False
+499,457,elsholtzia_ciliata,herb,2,0,False
+500,879,elsholtzia_ciliata_oil,plant derivative,1,0,False
+501,1148,emmental_cheese,dairy,127,1,True
+502,671,endive,vegetable,27,114,True
+503,174,english_peppermint_oil,plant derivative,1,0,False
+504,824,enokidake,vegetable,117,106,True
+505,182,eremocitrus_glauca,fruit,1,0,False
+506,362,erica_arborea_oil,plant derivative,1,0,False
+507,272,eriostemon_coxii_leaf_oil,plant derivative,1,0,False
+508,1300,eryngium_facidum,plant,1,0,False
+509,648,eryngium_poterium,plant,1,0,False
+510,8,eryngium_poterium_oil,plant derivative,1,0,False
+511,149,estragon,herb,1,0,False
+512,774,ethiopian_pepper,spice,36,0,False
+513,919,eucalyptus,herb,20,0,False
+514,666,eucalyptus_amygdalina,plant,2,0,False
+515,1202,eucalyptus_australianavar_oil,plant derivative,1,0,False
+516,1332,eucalyptus_bakeries_oil,plant derivative,1,0,False
+517,223,eucalyptus_cinereea,plant,2,0,False
+518,988,eucalyptus_citridora,plant,1,0,False
+519,122,eucalyptus_citriodora,plant,2,0,False
+520,553,eucalyptus_citriodora_oil,plant derivative,1,0,False
+521,329,eucalyptus_diversicolor_oil,plant derivative,1,0,False
+522,76,eucalyptus_dives,plant,3,0,False
+523,246,eucalyptus_dives_oil,plant derivative,1,0,False
+524,1165,eucalyptus_globulus,plant,9,0,False
+525,827,eucalyptus_globulus_oil,plant derivative,2,0,False
+526,957,eucalyptus_goniocalyx,plant,1,0,False
+527,43,eucalyptus_hemilampra,plant,1,0,False
+528,840,eucalyptus_macarthuri_oil,plant derivative,1,0,False
+529,893,eucalyptus_macarthurii,plant,2,0,False
+530,475,eucalyptus_maideni,plant,1,0,False
+531,793,eucalyptus_microcorys_leaf_oil,plant derivative,1,0,False
+532,389,eucalyptus_oil,plant derivative,15,0,False
+533,900,eucalyptus_polibrac_tea_oil,plant derivative,1,0,False
+534,1139,eucalyptus_radiata_oil,plant derivative,1,0,False
+535,421,european_cranberry,fruit,104,0,False
+536,1034,ewe,meat,45,0,False
+537,89,fagara_zanthoxyloides_oil,plant derivative,1,0,False
+538,349,fagroea_racemosa_flower,flower,1,0,False
+539,339,farnesol,plant derivative,1,0,False
+540,1245,fatty_fish,fish/seafood,84,0,False
+541,1050,feces,animal product,1,0,False
+542,1524,feijoa,fruit,18,0,False
+543,196,fennel,herb,18,907,True
+544,1395,fennel_oil,plant derivative,2,0,False
+545,1415,fenugreek,herb,13,871,True
+546,550,fermented_radish,vegetable,2,0,False
+547,324,fermented_russian_black_tea,plant derivative,171,0,False
+548,1013,fermented_shrimp,fish/seafood,73,0,False
+549,253,fermented_tea,plant derivative,183,0,False
+550,576,fermented_tea_leaf_oil,plant derivative,1,0,False
+551,1018,feronia_elephantum,fruit,1,0,False
+552,1422,feta_cheese,dairy,130,621,True
+553,138,field_mint_oil,plant derivative,1,0,False
+554,98,fig,fruit,41,139,True
+555,31,filbert,nut/seed/pulse,51,0,False
+556,1517,filipendula_ulmaria_flower,flower,6,0,False
+557,1371,finnish_pine_oil,plant derivative,2,0,False
+558,599,finnish_whiskey,alcoholic beverage,7,0,False
+559,322,finocchoi_fennel_oil,plant derivative,1,0,False
+560,878,fish,fish/seafood,64,1878,True
+561,806,fish_oil,animal product,25,0,False
+562,220,florida_orange_juice,fruit,3,0,False
+563,883,flower,flower,5,30,True
+564,549,fortunella_margarita,plant,1,0,False
+565,422,frankfurter,meat,48,37,True
+566,1027,french_bean,vegetable,87,0,False
+567,1107,french_fried_potato,vegetable,123,0,False
+568,519,french_lavender,flower,42,0,False
+569,1210,french_marigold_oil,plant derivative,2,0,False
+570,1419,french_peppermint,herb,79,0,False
+571,791,french_peppermint_oil,plant derivative,1,0,False
+572,958,fried_beef,meat,204,0,False
+573,323,fried_chicken,meat,133,0,False
+574,1043,fried_cured_pork,meat,119,0,False
+575,380,fried_pork,meat,118,0,False
+576,643,fruit,fruit,9,476,True
+577,1173,fruit_brandy,alcoholic beverage,11,0,False
+578,1032,fruit_juice,fruit,2,0,False
+579,904,fumaria_officinalis,plant,1,0,False
+580,1365,furcraea_gigantean_flower_oil,plant derivative,1,0,False
+581,316,galanga,spice,5,34,True
+582,388,galbanum_oil,plant derivative,3,0,False
+583,884,garcia_mangostana,plant,1,0,False
+584,1142,gardenia,flower,7,9,True
+585,757,gardenia_flower_oil,flower,1,0,False
+586,136,garlic,vegetable,21,16893,True
+587,394,garlic_mustard,herb,1,0,False
+588,424,garlic_oil,plant derivative,2,0,False
+589,1180,gastrochilus_pandurata_oil,plant derivative,1,0,False
+590,481,gelatin,animal product,1,1406,True
+591,995,geraniaceae,plant,1,0,False
+592,1161,geranium,flower,23,1,True
+593,677,geranium_oil,plant derivative,7,0,False
+594,1074,german_chamomile_oil,plant derivative,9,0,False
+595,351,gin,alcoholic beverage,10,67,True
+596,164,ginger,spice,86,3809,True
+597,1324,ginger_grass,plant,4,0,False
+598,752,ginger_oil,plant derivative,1,0,False
+599,741,globefish,fish/seafood,65,0,False
+600,169,goat_cheese,dairy,131,259,True
+601,213,goat_milk,dairy,14,0,False
+602,1377,grain,cereal/crop,1,0,False
+603,687,graminaceae,plant,1,0,False
+604,399,grape,fruit,125,345,True
+605,408,grape_brandy,alcoholic beverage,9,8,True
+606,219,grape_juice,fruit,1,810,True
+607,1181,grape_must,fruit,2,0,False
+608,799,grape_syrup,plant derivative,1,0,False
+609,546,grape_vine,plant,11,0,False
+610,254,grapefruit,fruit,57,114,True
+611,792,grapefruit_blossom,flower,1,0,False
+612,787,grapefruit_juice,fruit,45,0,False
+613,665,grapefruit_oil,plant derivative,3,0,False
+614,26,grapefruit_peel,plant,9,0,False
+615,1405,grapefruit_peel_oil,plant derivative,7,0,False
+616,1114,green_bell_pepper,vegetable,37,2578,True
+617,155,green_mate,plant derivative,4,0,False
+618,1527,green_tea,plant derivative,197,32,True
+619,626,green_tea_oil,plant derivative,2,0,False
+620,360,grilled_beef,meat,217,0,False
+621,1271,grilled_pork,meat,121,0,False
+622,923,gruyere_cheese,dairy,155,44,True
+623,1149,guarana,plant derivative,10,0,False
+624,781,guava,fruit,145,13,True
+625,91,guava_peel,plant,4,0,False
+626,1414,guinea_orange_oil,plant derivative,1,0,False
+627,1374,guinea_pepper,spice,36,0,False
+628,318,guineafowl,meat,48,0,False
+629,925,haddock,fish/seafood,65,31,True
+630,236,ham,meat,47,1290,True
+631,1426,hatsutake,vegetable,1,0,False
+632,152,hazelnut,nut/seed/pulse,10,288,True
+633,825,hedychium_spicatum,plant,1,0,False
+634,252,helichrysum_angustifolium,plant,1,0,False
+635,758,helichrysum_italicum,plant,1,0,False
+636,171,heracleum_candicans_oil,plant derivative,1,0,False
+637,801,heracleum_villosum_oil,plant derivative,1,0,False
+638,178,hernandia_peltata_oil,plant derivative,1,0,False
+639,809,herring,fish/seafood,65,10,True
+640,808,hevea_brasiliensis_flower,flower,1,0,False
+641,434,highbush_blueberry,fruit,3,0,False
+642,822,hinoki,plant,11,0,False
+643,582,hinoki_oil,plant derivative,1,0,False
+644,1321,hoary_basil,herb,2,0,False
+645,845,hoary_basil_leaf_oil,plant derivative,1,0,False
+646,1159,hog_plum,fruit,19,0,False
+647,644,hogweed,herb,4,0,False
+648,167,hogweed_oil,plant derivative,1,0,False
+649,1063,holy_basil,herb,3,2,True
+650,319,honduras_balsam,plant derivative,1,0,False
+651,1295,honduras_peru_balsam,plant derivative,1,0,False
+652,64,honey,animal product,55,2480,True
+653,159,honey_fungus,vegetable,1,0,False
+654,1357,honeydew,fruit,1,0,False
+655,72,hop,cereal/crop,103,3,True
+656,353,hop_oil,plant derivative,97,0,False
+657,1082,horse_mackerel,fish/seafood,65,0,False
+658,1060,horseradish,plant derivative,2,386,True
+659,1006,horseradish_oil,plant derivative,1,0,False
+660,670,houttuynia_cordata_oil,plant derivative,1,0,False
+661,308,huckleberry,fruit,53,10,True
+662,1393,hyacinth,flower,15,0,False
+663,299,hyacinth_oil,plant derivative,6,0,False
+664,522,hybrid_passion_fruit_juice,fruit,2,0,False
+665,5,hyssop,herb,2,0,False
+666,447,iberis_sempervirens_seed,plant,1,0,False
+667,1100,imperatoria,plant,1,0,False
+668,622,indian_hemp,plant,1,0,False
+669,300,irish_whiskey,alcoholic beverage,1,0,False
+670,1102,israeli_orange,fruit,129,0,False
+671,1409,israeli_orange_oil,plant derivative,1,0,False
+672,502,italian_lime,fruit,64,0,False
+673,206,italian_orange_oil,plant derivative,1,0,False
+674,1090,jaborandi_leaf_oil,plant derivative,1,0,False
+675,1071,jackfruit,fruit,24,0,False
+676,623,jamaican_rum,alcoholic beverage,178,1,True
+677,44,jammus_citronella_oil,plant derivative,1,0,False
+678,452,japanese_calamus,plant,1,0,False
+679,1256,japanese_ho_leaf_oil,plant derivative,1,0,False
+680,907,japanese_hop,cereal/crop,1,0,False
+681,191,japanese_mint,herb,51,0,False
+682,596,japanese_peppermint,herb,81,0,False
+683,1104,japanese_peppermint_oil,plant derivative,3,0,False
+684,1508,japanese_plum,fruit,8,11,True
+685,783,japanese_seafood,fish/seafood,1,0,False
+686,955,japanese_star_anise,spice,14,0,False
+687,1176,japanese_star_anise_oil,plant derivative,1,0,False
+688,962,japanese_whiskey,alcoholic beverage,7,0,False
+689,33,jasmine,flower,18,7,True
+690,400,jasmine_oil,plant derivative,2,0,False
+691,25,jasmine_tea,plant derivative,172,1,True
+692,1458,jasminum_grandiflorum,flower,7,0,False
+693,1333,jasminum_grandiflorum_oil,plant derivative,1,0,False
+694,1265,jasminum_odoratissimum_oil,plant derivative,1,0,False
+695,710,java_citronella,plant,10,0,False
+696,1302,java_citronella_oil,plant derivative,3,0,False
+697,1434,jerusalem_artichoke,vegetable,1,0,False
+698,669,jonquil,plant,5,0,False
+699,1119,jonquil_oil,plant derivative,1,0,False
+700,873,juniper_berry,fruit,58,33,True
+701,55,juniper_leaf_oil,plant derivative,1,0,False
+702,1150,juniper_oil,plant derivative,1,0,False
+703,834,juniperus_chinensis_oil,plant derivative,1,0,False
+704,332,juniperus_phoenicea_oil,plant derivative,1,0,False
+705,911,juniperus_sabina,plant,1,0,False
+706,40,kabosu_peel_oil,plant derivative,1,0,False
+707,972,kaempferia_ethel_bulb_oil,plant derivative,1,0,False
+708,1141,kaffir_lime,fruit,66,0,False
+709,303,kale,vegetable,3,96,True
+710,245,kaschmis_citronella_oil,plant derivative,1,0,False
+711,857,katsuobushi,fish/seafood,55,49,True
+712,257,kelp,vegetable,11,178,True
+713,999,kencur_oil,plant derivative,1,0,False
+714,24,keta_salmon,fish/seafood,85,0,False
+715,172,key_lime_leaf,plant,2,0,False
+716,759,kidney_bean,vegetable,87,442,True
+717,929,kiwi,fruit,55,105,True
+718,1232,kohlrabi,vegetable,28,6,True
+719,1308,kola_nut,nut/seed/pulse,10,0,False
+720,463,kola_tea,plant derivative,172,0,False
+721,819,krill,fish/seafood,18,0,False
+722,1248,kumazasa,plant,1,0,False
+723,1062,kumquat,fruit,11,27,True
+724,498,kumquat_peel_oil,plant derivative,29,0,False
+725,594,labdanum,plant derivative,2,0,False
+726,1138,labiatae,plant,2,0,False
+727,1221,lamb,meat,66,472,True
+728,1213,lamb_liver,meat,9,0,False
+729,409,laminaria_japonica,vegetable,1,0,False
+730,785,lantana_camara_oil,plant derivative,1,0,False
+731,273,larch_tree,plant,1,0,False
+732,1086,lard,animal product,2,3051,True
+733,733,larix,plant,1,0,False
+734,838,larix_americana,plant,1,0,False
+735,960,larix_deciduas,plant,1,0,False
+736,800,lauraceae,plant,1,0,False
+737,976,laurel,plant,34,2,True
+738,1413,laurel_leaf,plant,3,0,False
+739,850,laurel_leaf_oil,plant derivative,2,0,False
+740,933,lavandin,flower,14,0,False
+741,922,lavandin_oil,plant derivative,3,0,False
+742,20,lavender,flower,39,62,True
+743,460,lavender_delphinensis,flower,1,0,False
+744,700,lavender_oil,plant derivative,13,0,False
+745,779,lavender_vera_oil,plant derivative,1,0,False
+746,1465,leaf,plant,21,9,True
+747,591,leaf_oil,plant derivative,1,0,False
+748,811,lean_fish,fish/seafood,72,0,False
+749,629,ledum_palustre,plant,1,0,False
+750,833,ledum_palustre_oil,plant derivative,1,0,False
+751,376,leek,vegetable,39,411,True
+752,1132,lemon,fruit,78,3024,True
+753,743,lemon_balm,herb,38,0,False
+754,970,lemon_eucalyptus,herb,1,0,False
+755,1301,lemon_flower,flower,6,0,False
+756,390,lemon_juice,fruit,3,5022,True
+757,446,lemon_oil,plant derivative,4,0,False
+758,231,lemon_peel,plant,26,715,True
+759,443,lemon_peel_oil,plant derivative,24,0,False
+760,29,lemon_tree,plant,1,0,False
+761,882,lemongrass,herb,18,137,True
+762,266,lemongrass_oil,plant derivative,4,0,False
+763,1276,lentil,nut/seed/pulse,1,250,True
+764,268,leptospermum_citratum,plant,1,0,False
+765,517,leptospermum_liversidgei,plant,1,0,False
+766,524,lesquerella_seed,plant,1,0,False
+767,141,lettuce,vegetable,7,1152,True
+768,574,levisticum_acutilobum,plant,1,0,False
+769,1203,liatris_odoratissima,plant,1,0,False
+770,147,licorice,spice,39,20,True
+771,989,ligusticum_acutilobum,plant,2,0,False
+772,79,ligusticum_acutilobum_oil,plant derivative,1,0,False
+773,1274,lilac,flower,6,0,False
+774,1512,lilac_flower_oil,plant derivative,1,1,True
+775,1417,lilium_candidum_flower,flower,1,0,False
+776,304,lily_oil,plant derivative,2,0,False
+777,756,lima_bean,vegetable,91,149,True
+778,484,limburger_cheese,dairy,128,0,False
+779,1199,lime,fruit,64,1069,True
+780,243,lime_juice,fruit,2,1423,True
+781,1461,lime_oil,plant derivative,4,0,False
+782,1503,lime_peel_oil,plant derivative,12,100,True
+783,488,lindera_citriodora,plant,1,0,False
+784,336,lingonberry,fruit,19,8,True
+785,805,lingonberry_juice,fruit,1,0,False
+786,1464,lippia_carviodora,plant,1,0,False
+787,1449,lippia_scaberrima,plant,1,0,False
+788,1398,liquidambar_orientalis_storax,plant derivative,1,0,False
+789,30,litchi,fruit,33,9,True
+790,1294,litsea_citrata,plant,1,0,False
+791,1381,litsea_cubeba,plant,4,0,False
+792,755,litsea_cubeba_fruit,fruit,1,0,False
+793,1275,litsea_cubeba_oil,plant derivative,1,0,False
+794,275,litsea_guatemalensis,plant,2,0,False
+795,160,litsea_guatemalensis_oil,plant derivative,1,0,False
+796,66,litsea_odorifera,plant,2,0,False
+797,247,litsea_odorifera_leaf_oil,plant derivative,1,0,False
+798,1253,litsea_odorifera_oil,plant derivative,1,0,False
+799,937,litsea_zeylanica,plant,3,0,False
+800,290,litsea_zeylanica_oil,plant derivative,2,0,False
+801,1015,liver,meat,3,41,True
+802,679,lobster,fish/seafood,3,126,True
+803,413,loganberry,fruit,65,0,False
+804,534,loiseleuria_procumbens,plant,1,0,False
+805,965,long_pepper,spice,37,0,False
+806,817,loquat,fruit,36,0,False
+807,1446,lovage,herb,32,142,True
+808,772,lovage_leaf,herb,2,0,False
+809,355,lovage_root,spice,10,0,False
+810,1279,luraceae_oil,plant derivative,1,0,False
+811,134,luvunga_scadens_oil,plant derivative,1,0,False
+812,184,macadamia_nut,nut/seed/pulse,18,102,True
+813,638,macaroni,cereal/crop,4,3073,True
+814,943,mace,spice,21,115,True
+815,3,mackerel,fish/seafood,65,44,True
+816,56,madagascar_cinnamon_leaf_oil,plant derivative,1,0,False
+817,1433,magnolia_fuscata,flower,1,0,False
+818,1246,magnolia_grandiflora,flower,1,0,False
+819,632,magnolia_oil,plant derivative,1,0,False
+820,543,magnolia_salicifolia_oil,plant derivative,1,0,False
+821,0,magnolia_tripetala,flower,1,0,False
+822,1491,maize,cereal/crop,1,0,False
+823,480,malabar_cardamom_oil,plant derivative,1,0,False
+824,305,malabar_lemongrass_oil,plant derivative,1,0,False
+825,618,malagueta_pepper,spice,38,0,False
+826,1438,malay_apple,fruit,15,0,False
+827,823,malt,cereal/crop,90,37,True
+828,1311,malt_whiskey,alcoholic beverage,32,0,False
+829,1214,mammee,fruit,1,0,False
+830,590,mandarin,fruit,64,278,True
+831,709,mandarin_leaf_oil,plant derivative,1,0,False
+832,1033,mandarin_oil,plant derivative,2,0,False
+833,1482,mandarin_peel,plant,14,10,True
+834,723,mandarin_peel_oil,plant derivative,13,0,False
+835,486,mango,fruit,141,388,True
+836,841,mangosteen,fruit,13,0,False
+837,283,manila_copal,plant derivative,1,0,False
+838,573,mantis_shrimp,fish/seafood,73,0,False
+839,35,maple_syrup,plant derivative,3,467,True
+840,1379,marjoram,herb,20,528,True
+841,820,marjoram_oil,plant derivative,1,0,False
+842,685,marula,fruit,1,0,False
+843,624,mashed_potato,vegetable,98,0,False
+844,1291,mastic_gum,plant derivative,15,0,False
+845,686,mastic_gum_fruit_oil,plant derivative,13,0,False
+846,378,mastic_gum_leaf_oil,plant derivative,24,0,False
+847,346,mastic_gum_oil,plant derivative,14,0,False
+848,1280,mate,plant derivative,44,1,True
+849,354,mate_leaf,plant,1,0,False
+850,82,matricaria_parthenium_oil,plant derivative,1,0,False
+851,1334,matsutake,vegetable,119,56,True
+852,107,meat,meat,44,970,True
+853,797,melaleuca_bracteata,plant,1,0,False
+854,1315,melaleuca_bracteata_leaf,plant,1,0,False
+855,125,melaleuca_oil,plant derivative,1,0,False
+856,1155,melaleuca_paucifiora_oil,plant derivative,1,0,False
+857,706,melaleuca_smithii,plant,1,0,False
+858,916,melaleuca_trichostachya_oil,plant derivative,1,0,False
+859,1466,melaleuca_viridiflora,plant,1,0,False
+860,507,melilotus_albus_leaf,plant,1,0,False
+861,363,melilotus_officinalis,plant,1,0,False
+862,1106,melilotus_officinalis_flower,flower,1,0,False
+863,667,melissa_oil,plant derivative,1,0,False
+864,404,melon,fruit,107,153,True
+865,120,mentha,herb,3,0,False
+866,1049,mentha_aquatica,herb,2,0,False
+867,412,mentha_citrata,herb,1,0,False
+868,67,mentha_crispa,herb,1,0,False
+869,843,mentha_longifolia_oil,plant derivative,1,0,False
+870,607,mentha_silvestris_oil,plant derivative,1,0,False
+871,1184,mentha_timija,herb,2,0,False
+872,157,mentha_verticillata,herb,1,0,False
+873,415,mentha_viridis,herb,1,0,False
+874,762,mexican_goosefoot,plant,1,0,False
+875,604,mexican_lime,fruit,67,0,False
+876,368,mexican_linaloe,plant derivative,2,0,False
+877,226,michelia,plant,1,0,False
+878,768,michelia_champaca_oil,plant derivative,1,0,False
+879,1011,micromeria_abyssinica,plant,1,0,False
+880,396,milk,dairy,118,12885,True
+881,200,milk_fat,dairy,4,947,True
+882,384,mimosa_oil,plant derivative,2,0,False
+883,4,mimusops_elengi_flower,flower,1,0,False
+884,1448,mindanaese_cinnamomum_oil,plant derivative,1,0,False
+885,166,mint,herb,45,930,True
+886,977,mint_oil,plant derivative,32,0,False
+887,664,monarda_citriodora_oil,plant derivative,1,0,False
+888,379,monarda_fisulosa,plant,1,0,False
+889,730,monarda_punctata,plant,4,0,False
+890,1287,monarda_punctata_oil,plant derivative,2,0,False
+891,739,monkey_orange,fruit,72,0,False
+892,440,monodora_grandiflora,plant,1,0,False
+893,678,morus_bombycis_oil,plant derivative,1,0,False
+894,910,mountain_papaya,fruit,64,0,False
+895,1235,mozzarella_cheese,dairy,132,1289,True
+896,798,mulberry_leaf,plant,1,0,False
+897,204,mung_bean,vegetable,86,19,True
+898,1529,munster_cheese,dairy,127,27,True
+899,532,muscadine_grape,fruit,126,0,False
+900,846,muscat_grape,fruit,131,1,True
+901,1068,muscat_grape_juice,fruit,1,0,False
+902,260,mushroom,vegetable,117,3317,True
+903,47,musk,animal product,1,0,False
+904,870,muskmelon,fruit,109,0,False
+905,1195,mussel,fish/seafood,17,163,True
+906,1140,mustard,plant derivative,22,4096,True
+907,1369,mustard_greens_oil,plant derivative,1,0,False
+908,586,mutton,meat,67,3,True
+909,860,mutton_liver,meat,9,0,False
+910,1215,myrcia_acris,plant,1,0,False
+911,75,myrocarpus_fastigiatus,plant,2,0,False
+912,913,myrocarpus_frondosus,plant,2,0,False
+913,50,myrrh,spice,4,0,False
+914,265,myrrh_oil,plant derivative,2,0,False
+915,561,myrtaceae_oil,plant derivative,1,0,False
+916,515,myrtle,herb,27,0,False
+917,1178,myrtleberry,fruit,52,0,False
+918,222,myrtus_communis,herb,1,0,False
+919,1242,nance,fruit,1,0,False
+920,1406,naranjilla,fruit,21,0,False
+921,909,narcissus,flower,9,0,False
+922,295,narcissus_oil,plant derivative,3,0,False
+923,613,navy_bean,vegetable,86,0,False
+924,655,nectandra_elaiophora,plant,2,0,False
+925,572,nectarine,fruit,52,50,True
+926,109,nemuaron_humboldtii_oil,plant derivative,1,0,False
+927,938,nepeta_japonica,plant,1,0,False
+928,795,neroli,plant derivative,14,0,False
+929,1468,neroli_bigarade,plant derivative,2,0,False
+930,1387,neroli_oil,plant derivative,7,0,False
+931,186,nettle,plant,2,0,False
+932,28,nezara_viridula,animal product,1,0,False
+933,436,niaouli_oil,plant derivative,2,0,False
+934,780,nigra_oil,plant derivative,1,0,False
+935,1436,nira,vegetable,5,65,True
+936,863,nobiru,vegetable,5,0,False
+937,221,nut,nut/seed/pulse,8,1216,True
+938,1356,nutmeg,spice,37,2512,True
+939,80,nutmeg_oil,plant derivative,1,0,False
+940,597,oak_leaf,plant,1,0,False
+941,1051,oak_musk,plant derivative,3,0,False
+942,959,oak_tar_oil,plant derivative,1,0,False
+943,1435,oat,cereal/crop,36,1267,True
+944,1118,oat_groat,cereal/crop,3,0,False
+945,1098,oatmeal,cereal/crop,19,60,True
+946,1252,ocimum_gratissimum,plant,3,0,False
+947,1244,ocimum_viride,plant,1,0,False
+948,1479,ocotea_usambarensis_oil,plant derivative,1,0,False
+949,342,octopus,fish/seafood,1,45,True
+950,327,okra,fruit,26,100,True
+951,466,olive,fruit,63,1795,True
+952,998,olive_oil,plant derivative,3,9843,True
+953,1447,onion,vegetable,58,18030,True
+954,928,onion_juice,vegetable,2,0,False
+955,973,onion_oil,plant derivative,5,0,False
+956,1257,orange,fruit,128,1703,True
+957,912,orange_flower,flower,8,18,True
+958,192,orange_flower_oil,plant derivative,1,0,False
+959,88,orange_juice,fruit,54,1692,True
+960,701,orange_leaf,plant,2,0,False
+961,518,orange_leaf_oil,plant derivative,1,0,False
+962,704,orange_oil,plant derivative,3,0,False
+963,302,orange_peel,plant,28,571,True
+964,504,orange_peel_oil,plant derivative,26,0,False
+965,234,orange_tree,plant,1,0,False
+966,326,orchid,flower,6,0,False
+967,1382,oregano,herb,2,3179,True
+968,740,oregano_oil,plant derivative,1,0,False
+969,1024,oriental_storax,plant derivative,2,0,False
+970,683,origanum,herb,12,0,False
+971,1509,origanum_floribundum,herb,1,0,False
+972,1029,origanum_oil,plant derivative,2,0,False
+973,1266,ormenis_mixta_oil,plant,1,0,False
+974,831,ormenis_multicaulis,plant,1,0,False
+975,731,orris,plant derivative,9,0,False
+976,1367,orris_oil,plant derivative,1,0,False
+977,14,orris_root,plant,1,0,False
+978,1263,orthodon,plant,1,0,False
+979,1462,orthodon_asaroniferum_oil,plant derivative,1,0,False
+980,865,orthodon_citraliferum,plant,1,0,False
+981,673,orthodon_linalooliferum,plant,1,0,False
+982,980,orthodon_methylisoeugenoliferum,plant,1,0,False
+983,966,orthodon_methylisoeugenoliferum_oil,plant derivative,1,0,False
+984,153,orthodon_tenuicaule_oil,plant derivative,1,0,False
+985,1170,ouzo,alcoholic beverage,2,9,True
+986,1473,oxidized_lard,animal product,1,0,False
+987,418,oxidized_milk,dairy,2,0,False
+988,1072,oxidized_skim_milk,dairy,1,0,False
+989,1172,oxystigma_buccholtzii_flower,flower,1,0,False
+990,944,oyster,fish/seafood,26,356,True
+991,1083,palm,plant,4,38,True
+992,1009,palm_fruit,fruit,10,0,False
+993,429,palm_oil,plant derivative,2,0,False
+994,721,palmarosa,plant derivative,7,0,False
+995,558,palmarosa_oil,plant derivative,3,0,False
+996,225,pandanus_odoratissimus,herb,4,0,False
+997,312,pandanus_odoratissimus_oil,plant derivative,2,0,False
+998,770,papaver_somniferum,plant,1,0,False
+999,289,papaya,fruit,119,46,True
+1000,73,paraguay_petitgrain,plant derivative,2,0,False
+1001,749,parmesan,dairy,2,0,False
+1002,1401,parmesan_cheese,dairy,178,3167,True
+1003,251,parsley,herb,22,5562,True
+1004,1297,parsnip,vegetable,4,139,True
+1005,1383,parsnip_fruit,vegetable,10,0,False
+1006,1467,parsnip_root,plant,5,0,False
+1007,1480,passiflora_edulis,fruit,4,0,False
+1008,101,passiflora_edulis_juice,fruit,3,0,False
+1009,345,passiflora_mollissima,fruit,1,0,False
+1010,630,passion_fruit,fruit,131,20,True
+1011,183,passion_fruit_juice,fruit,11,0,False
+1012,442,passion_fruit_wine,alcoholic beverage,2,0,False
+1013,453,patchouli_oil,plant derivative,2,0,False
+1014,1254,pawpaw,fruit,26,0,False
+1015,1088,pea,vegetable,68,1099,True
+1016,1133,peach,fruit,74,527,True
+1017,1160,peanut,nut/seed/pulse,97,447,True
+1018,9,peanut_butter,plant derivative,145,992,True
+1019,1250,peanut_oil,plant derivative,18,209,True
+1020,735,pear,fruit,49,468,True
+1021,1001,pear_brandy,alcoholic beverage,11,11,True
+1022,1439,peated_malt,plant derivative,7,0,False
+1023,51,pecan,nut/seed/pulse,48,2176,True
+1024,1095,pelargonium,flower,1,1,True
+1025,1228,pelargonium_capitaux,flower,1,0,False
+1026,1110,pelargonium_tomentosum,flower,1,0,False
+1027,554,penang_benzoin,plant derivative,1,0,False
+1028,990,pennyroyal,herb,15,0,False
+1029,906,pennyroyal_oil,plant derivative,9,0,False
+1030,1282,pepino_melon,fruit,7,0,False
+1031,1471,pepper,spice,36,9059,True
+1032,1121,peppermint,herb,78,140,True
+1033,1196,peppermint_oil,plant derivative,58,9,True
+1034,433,perovski_abrotanoides_oil,plant derivative,1,0,False
+1035,1231,persea_gratissima_peel,plant,1,0,False
+1036,1510,persea_pubescens,plant,1,0,False
+1037,1067,peru_balsam,plant derivative,10,0,False
+1038,244,petasites_fragrans,plant,1,0,False
+1039,13,petitgrain,plant derivative,10,0,False
+1040,897,petitgrain_bergamot,plant derivative,2,0,False
+1041,1019,petitgrain_bigarade,plant derivative,4,0,False
+1042,23,petitgrain_lemon,plant derivative,4,0,False
+1043,90,petitgrain_lemon_oil,plant derivative,2,0,False
+1044,269,petitgrain_lime,plant derivative,2,0,False
+1045,562,petitgrain_lime_oil,plant derivative,1,0,False
+1046,588,petrosimonia_monandra,plant,1,0,False
+1047,777,phallus_impudicus,plant,1,0,False
+1048,847,phebalium_dentatum,plant,1,0,False
+1049,871,phebalium_dentatum_leaf,plant,1,0,False
+1050,333,phebalium_nudum_root_oil,plant derivative,1,0,False
+1051,126,phellodendron_amurense,herb,1,0,False
+1052,1358,phellodendron_amurense_fruit,fruit,1,0,False
+1053,702,phellodendron_japonicum,plant,1,0,False
+1054,1376,picea_alba_oil,plant derivative,1,0,False
+1055,1002,picea_balsamea_oil,plant derivative,1,0,False
+1056,1017,picea_canadensis,plant,1,0,False
+1057,77,picea_orientalis,plant,1,0,False
+1058,1349,picea_rubens,plant,1,0,False
+1059,754,pickled_ham,meat,1,0,False
+1060,763,pickled_plum,fruit,1,0,False
+1061,1476,pike,fish/seafood,65,0,False
+1062,1081,pilchard,fish/seafood,65,0,False
+1063,1046,pimenta,spice,1,2,True
+1064,1045,pimento,spice,13,270,True
+1065,1431,pinaceae,plant,3,0,False
+1066,1277,pinanona,fruit,1,0,False
+1067,1103,pine_oil,plant derivative,2,0,False
+1068,278,pine_turpentine,plant derivative,1,0,False
+1069,187,pineapple,fruit,110,1615,True
+1070,1136,pinto_bean,vegetable,86,0,False
+1071,1124,pinus_avium_fruit,fruit,1,0,False
+1072,796,pinus_communis_oil,plant derivative,1,0,False
+1073,449,pinus_densiflora,plant,1,0,False
+1074,490,pinus_excelsa,plant,1,0,False
+1075,784,pinus_jeffreyi,plant,1,0,False
+1076,1453,pinus_jeffreyi_leaf_oil,plant derivative,1,0,False
+1077,727,pinus_jeffreyi_terpentine,plant derivative,1,0,False
+1078,1151,pinus_punulio,plant,1,0,False
+1079,1285,pinus_sabiniana,plant,2,0,False
+1080,471,pinus_sabiniana_terpentine,plant derivative,1,0,False
+1081,60,pinus_sylvestris,plant,2,0,False
+1082,851,pinus_sylvestris_oil,plant derivative,1,0,False
+1083,927,piper_chaba,herb,1,0,False
+1084,85,piper_famechoni,herb,1,0,False
+1085,1347,piper_lowong,herb,1,0,False
+1086,654,piper_officinarum,spice,2,0,False
+1087,185,piri_piri,spice,2,0,False
+1088,695,pistachio,nut/seed/pulse,9,219,True
+1089,503,pittosporum_flower,flower,1,0,False
+1090,156,pittosporum_glabratum,plant,1,0,False
+1091,836,plant,plant,7,0,False
+1092,338,plum,fruit,84,277,True
+1093,776,plum_brandy,alcoholic beverage,27,0,False
+1094,1350,plum_wine,alcoholic beverage,5,0,False
+1095,1487,plumcot,fruit,21,0,False
+1096,975,polianthes_tuberosa_oil,plant derivative,1,0,False
+1097,146,polyalthia_canangioides_flower,flower,1,0,False
+1098,568,polysiphonia_fastigiata,plant,1,0,False
+1099,423,pomelo_peel,plant,1,0,False
+1100,1194,popcorn,cereal/crop,31,97,True
+1101,1031,populus_balsamifera,plant,1,0,False
+1102,750,porcini,vegetable,118,106,True
+1103,417,pork,meat,115,1961,True
+1104,1403,pork_liver,meat,32,5,True
+1105,1238,pork_sausage,meat,119,1362,True
+1106,548,port_wine,alcoholic beverage,141,49,True
+1107,385,potato,vegetable,97,3539,True
+1108,1022,potato_chip,vegetable,33,65,True
+1109,1514,pouching_tea,plant derivative,173,0,False
+1110,114,prawn,fish/seafood,2,26,True
+1111,1373,prickly_pear,fruit,37,20,True
+1112,1003,provolone_cheese,dairy,139,167,True
+1113,1310,prune,fruit,18,0,False
+1114,660,prunus,plant,10,0,False
+1115,814,prunus_laurocerasus,plant,1,0,False
+1116,971,psilocaulon_absimile,plant,1,0,False
+1117,1268,ptychotis_ajowan_seed_oil,plant derivative,1,0,False
+1118,575,pumpkin,vegetable,13,799,True
+1119,398,purple_passion_fruit,fruit,7,0,False
+1120,53,purple_passion_fruit_juice,fruit,1,0,False
+1121,528,quercus_olive,fruit,1,0,False
+1122,889,quince,fruit,53,24,True
+1123,293,rabbiteye_blueberry,fruit,56,0,False
+1124,444,radish,vegetable,13,509,True
+1125,197,radish_oil,plant derivative,1,0,False
+1126,491,rafanus_sativus_root,plant,1,0,False
+1127,133,raisin,fruit,22,1903,True
+1128,948,rancid_coconut_oil,plant derivative,1,0,False
+1129,526,randia_formosa_flower,flower,1,0,False
+1130,1472,rangpur,fruit,1,0,False
+1131,381,rapeseed,plant,19,3,True
+1132,1094,raspberry,fruit,130,781,True
+1133,946,raspberry_brandy,alcoholic beverage,2,0,False
+1134,235,raspberry_juice,fruit,1,0,False
+1135,476,raspberry_oil,plant derivative,2,0,False
+1136,477,raw_asparagus,vegetable,7,0,False
+1137,454,raw_bean,vegetable,87,0,False
+1138,858,raw_beef,meat,199,2,True
+1139,1515,raw_cabbage,vegetable,41,0,False
+1140,451,raw_chicken,meat,131,0,False
+1141,1444,raw_fatty_fish,fish/seafood,84,0,False
+1142,1206,raw_fish,fish/seafood,66,0,False
+1143,715,raw_lamb,meat,66,0,False
+1144,606,raw_lean_fish,fish/seafood,74,0,False
+1145,1400,raw_leek,vegetable,39,0,False
+1146,438,raw_pea,vegetable,69,0,False
+1147,1092,raw_peanut,nut/seed/pulse,98,0,False
+1148,214,raw_pork,meat,118,0,False
+1149,1330,raw_potato,vegetable,98,0,False
+1150,1319,raw_radish,vegetable,14,0,False
+1151,1190,raw_soybean_oil,plant derivative,5,0,False
+1152,1345,raw_turkey,meat,51,0,False
+1153,1007,red_algae,vegetable,2,2,True
+1154,17,red_bean,vegetable,87,33,True
+1155,49,red_currant,fruit,54,0,False
+1156,633,red_kidney_bean,vegetable,90,59,True
+1157,374,red_meat,meat,45,0,False
+1158,569,red_sage,herb,5,0,False
+1159,619,red_wine,alcoholic beverage,165,1391,True
+1160,39,reunion_geranium,flower,11,0,False
+1161,1385,rhizopus,plant,1,0,False
+1162,1099,rhododendron_fauriae_leaf,plant,1,0,False
+1163,1234,rhodophyllus_icterus,plant,1,0,False
+1164,649,rhodotorula_glutinis,plant,1,0,False
+1165,1224,rhubarb,vegetable,11,167,True
+1166,1450,rhus_coriaria,spice,1,0,False
+1167,627,rhus_cotinus_leaf,plant,1,0,False
+1168,1191,rhus_glabra,plant,1,0,False
+1169,887,rhus_semialata,plant,1,0,False
+1170,1339,rhus_typhia,plant,1,0,False
+1171,119,ribes,plant,1,0,False
+1172,205,rice,cereal/crop,74,3385,True
+1173,718,rice_bran,cereal/crop,19,0,False
+1174,899,rice_husk,cereal/crop,1,0,False
+1175,729,roasted_almond,nut/seed/pulse,13,3,True
+1176,1219,roasted_barley,cereal/crop,34,0,False
+1177,258,roasted_beef,meat,216,222,True
+1178,1475,roasted_chicken,meat,144,0,False
+1179,690,roasted_chicory_root,vegetable,13,0,False
+1180,1380,roasted_cocoa,plant derivative,197,0,False
+1181,1521,roasted_coconut,nut/seed/pulse,56,0,False
+1182,1410,roasted_filbert,nut/seed/pulse,104,0,False
+1183,935,roasted_green_tea,plant derivative,198,0,False
+1184,124,roasted_hazelnut,nut/seed/pulse,12,1,True
+1185,844,roasted_lamb,meat,68,0,False
+1186,473,roasted_macadamia_nut,nut/seed/pulse,20,0,False
+1187,967,roasted_malt,cereal/crop,90,0,False
+1188,317,roasted_mate,plant derivative,45,0,False
+1189,589,roasted_meat,meat,45,15,True
+1190,886,roasted_nut,nut/seed/pulse,9,1,True
+1191,950,roasted_onion,vegetable,66,0,False
+1192,587,roasted_peanut,nut/seed/pulse,144,164,True
+1193,1258,roasted_pecan,nut/seed/pulse,50,1,True
+1194,1054,roasted_pork,meat,119,125,True
+1195,93,roasted_sesame_seed,nut/seed/pulse,24,593,True
+1196,1061,roasted_shrimp,fish/seafood,73,0,False
+1197,1363,roasted_spanish_peanut,nut/seed/pulse,1,0,False
+1198,742,roasted_turkey,meat,56,0,False
+1199,111,robinia_pseudoacacia,plant,3,0,False
+1200,1200,robinia_pseudoacacia_oil,plant derivative,2,0,False
+1201,751,roman_chamomile,herb,30,0,False
+1202,1264,roman_chamomile_oil,plant derivative,25,0,False
+1203,1298,romano_cheese,dairy,135,275,True
+1204,1296,rooibus_tea,plant derivative,182,0,False
+1205,437,root,plant,1,74,True
+1206,804,roquefort_cheese,dairy,127,23,True
+1207,744,rosa_borbonica,flower,1,0,False
+1208,270,rosa_bourboniana_oil,plant derivative,1,0,False
+1209,241,rosa_centifolia,flower,2,0,False
+1210,1493,rosa_rugosa,flower,1,0,False
+1211,1188,rosaceae,plant,2,0,False
+1212,661,rose,flower,15,63,True
+1213,1496,rose_apple,fruit,24,0,False
+1214,1364,rose_flower_oil,plant derivative,1,0,False
+1215,1327,rose_hip,fruit,1,0,False
+1216,280,rose_oil,plant derivative,2,0,False
+1217,1128,rose_wine,alcoholic beverage,136,0,False
+1218,953,roselle,herb,1,0,False
+1219,112,rosemary,herb,28,1890,True
+1220,1355,rosemary_oil,plant derivative,2,0,False
+1221,1127,rotundifolia,plant,1,0,False
+1222,315,rubus_arcticus,fruit,16,0,False
+1223,1091,rue,herb,6,0,False
+1224,1520,rue_oil,plant derivative,3,0,False
+1225,1089,rum,alcoholic beverage,175,599,True
+1226,1309,rum_brandy,alcoholic beverage,1,0,False
+1227,1331,russian_anise,spice,2,0,False
+1228,941,russian_champagne,alcoholic beverage,1,0,False
+1229,1226,russian_cheese,dairy,134,0,False
+1230,905,russian_peppermint_oil,plant derivative,2,0,False
+1231,292,russian_star_anise,spice,1,0,False
+1232,344,ruta_chalepensis_oil,plant derivative,1,0,False
+1233,1492,ruta_montana_oil,plant derivative,1,0,False
+1234,880,ruta_pinnata_leaf_oil,plant derivative,1,0,False
+1235,1201,rutabaga,vegetable,11,34,True
+1236,294,rutaceae,plant,2,0,False
+1237,567,rye_bread,cereal/crop,74,91,True
+1238,1236,rye_ergot,plant,1,0,False
+1239,516,rye_flour,cereal/crop,4,130,True
+1240,1312,safflower_seed,plant,18,0,False
+1241,1134,saffron,spice,6,236,True
+1242,194,sage,herb,13,903,True
+1243,964,saigon_cinnamon,spice,1,0,False
+1244,455,sake,alcoholic beverage,29,624,True
+1245,940,salmon,fish/seafood,84,433,True
+1246,135,salmon_caviar,fish/seafood,1,0,False
+1247,1329,salmon_oil,fish/seafood,3,0,False
+1248,646,salmon_roe,fish/seafood,1,13,True
+1249,1084,salvia_grandifiora_oil,plant derivative,1,0,False
+1250,1212,salvia_spinosa,plant,1,0,False
+1251,1404,salvia_triloba_oil,plant derivative,1,0,False
+1252,1130,sandalwood,plant,11,0,False
+1253,640,sapodilla,fruit,3,0,False
+1254,1304,sapodilla_fruit,fruit,7,0,False
+1255,1372,sassafras,plant derivative,4,17,True
+1256,461,sassafras_root_oil,plant derivative,1,0,False
+1257,1131,satsuma,fruit,52,0,False
+1258,113,satsuma_mandarin_peel,plant,4,0,False
+1259,310,satsuma_mandarin_peel_oil,plant derivative,3,0,False
+1260,1397,satureia_montana,plant,1,0,False
+1261,12,satureia_thymera,plant,1,0,False
+1262,716,sauerkraut,vegetable,15,184,True
+1263,1053,sauvignon_blanc_grape,fruit,128,0,False
+1264,154,sauvignon_grape,fruit,126,0,False
+1265,100,savory,herb,1,127,True
+1266,130,saxifragaceae,plant,1,0,False
+1267,915,scallion,vegetable,3,4342,True
+1268,1000,scallop,fish/seafood,41,268,True
+1269,1163,schizandra_nigra_oil,plant derivative,1,0,False
+1270,224,schizandra_oil,plant derivative,1,0,False
+1271,188,scotch,alcoholic beverage,15,0,False
+1272,1030,scotch_spearmint,herb,32,0,False
+1273,684,scotch_spearmint_oil,plant derivative,32,0,False
+1274,936,scotch_whiskey,alcoholic beverage,4,0,False
+1275,1123,sea_algae,vegetable,2,4,True
+1276,1354,sea_bass,fish/seafood,65,0,False
+1277,699,sea_buckthorn,fruit,15,0,False
+1278,584,seal,meat,45,0,False
+1279,1336,seaweed,fish/seafood,1,188,True
+1280,165,seed,nut/seed/pulse,17,1311,True
+1281,341,seed_oil,plant derivative,3,0,False
+1282,540,senecio_kaempferi,plant,1,0,False
+1283,127,sesame_oil,plant derivative,3,1341,True
+1284,1412,sesame_seed,nut/seed/pulse,19,655,True
+1285,195,seseli_sibiricum,plant,1,0,False
+1286,445,seseli_tortuosum,plant,1,0,False
+1287,129,several_oil,plant derivative,1,0,False
+1288,853,seychelles_tea,plant derivative,172,0,False
+1289,1305,shallot,vegetable,14,1186,True
+1290,211,sheep_cheese,dairy,130,2,True
+1291,288,sheep_milk,dairy,13,0,False
+1292,199,shellfish,fish/seafood,1,27,True
+1293,934,sherry,alcoholic beverage,165,629,True
+1294,722,sherry_wine,alcoholic beverage,1,0,False
+1295,249,shiitake,vegetable,119,511,True
+1296,555,shoro,vegetable,1,0,False
+1297,694,shrimp,fish/seafood,72,1543,True
+1298,529,siam_benzoin,plant derivative,1,0,False
+1299,852,siberian_pine_needle_oil,plant derivative,1,0,False
+1300,997,silk_fibrooin,animal product,1,0,False
+1301,1452,silkworm_chrysalis,animal product,1,0,False
+1302,866,skim_milk,dairy,19,0,False
+1303,37,smoke,plant derivative,5,456,True
+1304,1028,smoked_fatty_fish,fish/seafood,89,0,False
+1305,861,smoked_fish,fish/seafood,80,6,True
+1306,693,smoked_herring,fish/seafood,67,0,False
+1307,132,smoked_pork,meat,117,0,False
+1308,914,smoked_pork_belly,meat,118,0,False
+1309,1096,smoked_salmon,fish/seafood,85,97,True
+1310,57,smoked_sausage,meat,48,268,True
+1311,74,smoked_summer_sausage,meat,45,0,False
+1312,766,snap_bean,vegetable,88,0,False
+1313,485,solanaceae,plant,1,0,False
+1314,71,solidago_odora,plant,1,0,False
+1315,1337,sour_cherry,fruit,26,48,True
+1316,207,sour_milk,dairy,12,46,True
+1317,321,soursop,fruit,24,0,False
+1318,859,south_african_mentha_longifolia,herb,1,0,False
+1319,1187,southern_pea,vegetable,68,0,False
+1320,1183,soy_sauce,plant derivative,10,3236,True
+1321,41,soybean,vegetable,160,1028,True
+1322,945,soybean_oil,plant derivative,4,2,True
+1323,1484,spanish_anise,spice,1,0,False
+1324,425,spanish_origanum,herb,3,0,False
+1325,714,spanish_origanum_oil,plant derivative,1,0,False
+1326,747,spanish_sage,herb,7,0,False
+1327,1283,sparkling_wine,alcoholic beverage,142,0,False
+1328,467,spearmint,herb,47,5,True
+1329,377,spearmint_oil,plant derivative,39,0,False
+1330,577,spearmint_scotch_oil,plant derivative,1,0,False
+1331,984,sperm_whale_oil,fish/seafood,1,0,False
+1332,617,spermaceti_oil,plant derivative,1,0,False
+1333,681,sphaeranthus_indicus_oil,plant derivative,1,0,False
+1334,45,spike,plant,3,0,False
+1335,890,spike_oil,plant derivative,1,0,False
+1336,1490,spirea_ulmaria_oil,plant derivative,1,0,False
+1337,1378,split_pea,vegetable,1,0,False
+1338,620,squash,vegetable,1,557,True
+1339,1407,squid,fish/seafood,19,228,True
+1340,1523,star_anise,spice,13,91,True
+1341,712,star_anise_oil,plant derivative,2,0,False
+1342,1344,starch,plant derivative,2,2583,True
+1343,372,starfruit,fruit,106,0,False
+1344,932,stirlingia_latifolia,plant,1,0,False
+1345,343,storax,plant derivative,1,0,False
+1346,717,strawberry,fruit,196,1073,True
+1347,373,strawberry_jam,fruit,26,1,True
+1348,1143,strawberry_juice,fruit,3,2,True
+1349,313,strawberry_oil,plant derivative,1,0,False
+1350,1451,strawberry_wine,alcoholic beverage,6,0,False
+1351,1497,sturgeon_caviar,fish/seafood,22,1,True
+1352,610,sudachi,fruit,1,0,False
+1353,173,sugarcane,plant,2,0,False
+1354,1048,sumac,spice,1,14,True
+1355,470,sumatra_benzoin,plant derivative,3,0,False
+1356,348,summer_savory,herb,1,0,False
+1357,391,sunflower_oil,plant derivative,1,8,True
+1358,901,sweet_basil,herb,1,0,False
+1359,1429,sweet_grass_oil,plant derivative,18,0,False
+1360,117,sweet_potato,vegetable,8,518,True
+1361,264,sweetfish,fish/seafood,65,0,False
+1362,696,swiss_cheese,dairy,145,522,True
+1363,614,tabasco_pepper,spice,40,965,True
+1364,81,tahiti_vanilla,spice,5,0,False
+1365,334,taiwan_citronella,plant,2,0,False
+1366,142,tamarind,spice,51,1663,True
+1367,1208,tangerine,fruit,63,44,True
+1368,1389,tangerine_juice,fruit,7,0,False
+1369,641,tangerine_oil,plant derivative,1,0,False
+1370,1189,tangerine_peel_oil,plant derivative,4,0,False
+1371,1182,tarragon,herb,10,476,True
+1372,775,tea,plant derivative,171,97,True
+1373,1192,tea_leaf_oil,plant derivative,2,0,False
+1374,227,tea_oil,plant derivative,4,0,False
+1375,560,tea_tree_oil,plant derivative,2,0,False
+1376,832,temoe_lawak,herb,1,0,False
+1377,359,temple_orange_juice,fruit,1,0,False
+1378,193,tequila,alcoholic beverage,1,142,True
+1379,340,teucrium_chamaedrys,plant,2,0,False
+1380,1427,texas_sage,herb,1,0,False
+1381,406,thai_pepper,spice,38,87,True
+1382,1105,thaumatococcus_daniellii,plant,1,0,False
+1383,1186,thaumatococcus_daniellii_fruit,fruit,1,0,False
+1384,826,thea_chinensis_oil,plant derivative,1,0,False
+1385,474,thlaspi_arvense_oil,plant derivative,1,0,False
+1386,108,thuja_articulata_bark_oil,plant derivative,1,0,False
+1387,414,thuja_occidentalis,plant,2,0,False
+1388,1460,thuja_occidentalis_oil,plant derivative,1,0,False
+1389,952,thuja_plicata,plant,1,0,False
+1390,1207,thuja_standishii,plant,1,0,False
+1391,115,thujopsis_dolabrata,plant,2,0,False
+1392,1323,thymbra_spicata_oil,plant derivative,1,0,False
+1393,675,thyme,herb,25,3041,True
+1394,505,thymus,herb,23,0,False
+1395,1070,thymus_caespeititius,plant,1,0,False
+1396,1501,thymus_mastichina,plant,2,0,False
+1397,1470,thymus_oil,plant derivative,1,0,False
+1398,621,thymus_zygis,plant,2,0,False
+1399,148,tilsit_cheese,dairy,128,0,False
+1400,38,toasted_oat,cereal/crop,39,0,False
+1401,1164,toasted_oat_groat,cereal/crop,4,0,False
+1402,375,toasted_sesame_seed,nut/seed/pulse,20,0,False
+1403,1353,tobacco,plant derivative,9,0,False
+1404,1247,tobacco_flower,flower,1,0,False
+1405,895,tobacco_leaf,plant,6,0,False
+1406,672,tobacco_leaf_oil,plant derivative,4,0,False
+1407,1525,tobacco_oil,plant derivative,1,0,False
+1408,1335,tolu_balsam,plant derivative,5,0,False
+1409,1240,tomato,vegetable,150,9905,True
+1410,97,tomato_juice,vegetable,2,176,True
+1411,161,tonka_bean_seed,nut/seed/pulse,1,0,False
+1412,926,trametes_graveolens,plant,2,0,False
+1413,102,trassi,fish/seafood,30,0,False
+1414,1326,trifolium_incarnatum,plant,1,0,False
+1415,158,trifolium_pratense_leaf_oil,plant derivative,1,0,False
+1416,1469,truffle,vegetable,19,52,True
+1417,864,tsuga_canadensis,plant,2,0,False
+1418,87,tsuga_canadensis_oil,plant derivative,1,0,False
+1419,947,tuber,plant,1,0,False
+1420,1220,tuberose,flower,13,0,False
+1421,78,tulip,flower,6,0,False
+1422,296,tuna,fish/seafood,85,443,True
+1423,276,tunisian_rosemary,herb,1,0,False
+1424,616,turkey,meat,50,891,True
+1425,478,turkmenistan_sunguli_oil,plant derivative,1,0,False
+1426,849,turmeric,spice,10,1233,True
+1427,116,turnip,vegetable,3,183,True
+1428,356,turpentine,plant derivative,1,0,False
+1429,1307,udo,herb,1,0,False
+1430,189,umbelliferae,plant,1,0,False
+1431,566,uncured_boiled_pork,meat,117,0,False
+1432,1317,uncured_pork,meat,116,0,False
+1433,580,uncured_smoked_pork,meat,118,0,False
+1434,1055,unprocessed_rice,cereal/crop,6,0,False
+1435,432,vachellia_farnesiana,plant,7,0,False
+1436,83,valencia_orange_juice,fruit,2,0,False
+1437,536,valencia_orange_oil,plant derivative,1,0,False
+1438,1499,valerian,herb,4,0,False
+1439,533,valerian_oil,plant derivative,1,0,False
+1440,1386,valerian_root_oil,plant derivative,2,0,False
+1441,1507,valeriana_officinalis,herb,1,0,False
+1442,1399,vanilla,spice,78,9017,True
+1443,203,vanilla_oil,plant derivative,1,0,False
+1444,652,veal,meat,49,198,True
+1445,285,vegetable,vegetable,5,1659,True
+1446,1113,vegetable_oil,plant derivative,2,10754,True
+1447,728,verbena_oil,plant derivative,1,0,False
+1448,1391,verbenaceae,plant,1,0,False
+1449,1328,vervain,herb,2,0,False
+1450,36,vervain_leaf,plant,1,0,False
+1451,874,vetiver,plant derivative,2,0,False
+1452,450,vetiver_oil,plant derivative,1,0,False
+1453,1010,vietnamese_black_tea,plant derivative,1,0,False
+1454,1012,vinegar,plant derivative,33,7691,True
+1455,547,violet,flower,1,6,True
+1456,987,violet_flower,flower,4,0,False
+1457,403,violet_flower_oil,plant derivative,2,0,False
+1458,263,violet_leaf,plant,6,0,False
+1459,1222,violet_leaf_oil,plant derivative,2,0,False
+1460,1241,violet_root,plant derivative,1,0,False
+1461,668,vitis,plant,3,0,False
+1462,760,vitis_labrusca,fruit,9,0,False
+1463,868,vitis_labrusca_juice,fruit,1,0,False
+1464,1486,vitis_labrusca_oil,plant derivative,1,0,False
+1465,773,wallflower,plant,1,0,False
+1466,1255,walnut,nut/seed/pulse,15,2738,True
+1467,867,wasabi,vegetable,3,103,True
+1468,651,waste_wort,plant,1,0,False
+1469,1423,water_apple,fruit,10,0,False
+1470,180,watercress,vegetable,13,132,True
+1471,210,watermelon,fruit,11,107,True
+1472,734,wax_jambu,fruit,1,0,False
+1473,1441,weinbrand,alcoholic beverage,5,0,False
+1474,1346,welsh_onion,vegetable,2,0,False
+1475,1420,whale,fish/seafood,46,0,False
+1476,1179,wheat,cereal/crop,5,20769,True
+1477,1168,wheat_bran,cereal/crop,4,0,False
+1478,1152,wheat_bread,cereal/crop,90,82,True
+1479,1368,wheat_flake,cereal/crop,4,0,False
+1480,1455,wheaten_bread,cereal/crop,81,0,False
+1481,541,while_thyme_oil,plant derivative,1,0,False
+1482,361,whiskey,alcoholic beverage,106,146,True
+1483,703,white_bread,cereal/crop,59,369,True
+1484,1513,white_currant_juice,fruit,1,0,False
+1485,1428,white_wine,alcoholic beverage,222,2165,True
+1486,216,whitefish,fish/seafood,65,0,False
+1487,1278,whole_grain_wheat_flour,cereal/crop,4,731,True
+1488,1016,wild_bergamot,flower,9,0,False
+1489,212,wild_bergamot_oil,spice,2,0,False
+1490,559,wild_berry,fruit,53,0,False
+1491,657,wild_grape,fruit,1,0,False
+1492,1408,wild_marjoram,herb,1,0,False
+1493,1289,wild_raspberry,fruit,53,0,False
+1494,697,wild_rice,cereal/crop,11,0,False
+1495,578,wild_strawberry,fruit,58,0,False
+1496,106,wild_vanilla,plant,1,0,False
+1497,84,wine,alcoholic beverage,128,876,True
+1498,592,winter_melon,fruit,1,0,False
+1499,139,winter_savory,herb,2,0,False
+1500,42,wintergreen_leaf,plant,2,0,False
+1501,917,wintergreen_oil,plant derivative,1,0,False
+1502,1396,wood,plant,8,33,True
+1503,1223,wood_apple,fruit,7,0,False
+1504,179,wood_oil,plant derivative,2,0,False
+1505,1198,wood_spirit,plant derivative,1,0,False
+1506,1039,wood_tar,plant derivative,1,0,False
+1507,416,wood_vinegar,plant derivative,1,0,False
+1508,58,wort,plant,59,0,False
+1509,282,xanthorrhoea_hostilis,plant,1,0,False
+1510,410,ximenia_aegyptiaca,plant,1,0,False
+1511,705,yam,vegetable,1,84,True
+1512,407,yeast,plant,3,3397,True
+1513,144,yellow_mombin,fruit,1,0,False
+1514,311,yellow_passion_fruit,fruit,41,0,False
+1515,32,yellow_passion_fruit_juice,fruit,9,0,False
+1516,1243,ylangylang,flower,23,0,False
+1517,177,ylangylang_oil,plant derivative,5,0,False
+1518,230,yogurt,dairy,37,1043,True
+1519,615,zanthoxylum_piperitum,spice,1,0,False
+1520,837,zanthoxylum_piperitum_fruit_oil,plant derivative,1,0,False
+1521,876,zanthoxylum_rhetsa,spice,4,0,False
+1522,637,zanthoxylum_rhetsa_oil,plant derivative,1,0,False
+1523,689,zingiberaceae,plant,2,0,False
+1524,1080,zucchini,vegetable,1,1093,True

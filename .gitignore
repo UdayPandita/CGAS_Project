@@ -1,0 +1,27 @@
+# ---------------------------------------------------------------------------
+# Datasets are shared separately (not on GitHub).
+# The website only needs the 5 small processed files that are NOT ignored below
+# plus results/d3/ground_truth_pairs.csv, so a fresh clone can run the site.
+# ---------------------------------------------------------------------------
+
+# FooDB JSON release, 3.7 GB
+foodb_2020_04_07_json/
+
+# raw source data: Flavor Network files, Recipe1MSubs pickles, FlavorGraph
+data/raw/
+
+# FooDB extract, rebuilt by: python3 src/foodb_extract.py
+data/interim/
+
+# processed files only the analysis pipeline uses (rebuilt by src/d1_data_pipeline.py)
+data/processed/recipes.csv
+data/processed/recipe_ingredient_matrix.npz
+data/processed/ingredient_compound_matrix_recipe_ingredients.csv
+
+# Python / OS clutter
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+venv/

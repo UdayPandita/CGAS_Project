@@ -1,0 +1,1903 @@
+{
+  "flavor": {
+    "ingredients_scored": 381,
+    "pairs": {
+      "pairs": 72390,
+      "zero_pct": 42.76833816825528,
+      "median": 0.015384615384615385,
+      "p95": 0.23295454545454544,
+      "same_category_mean": 0.13325180399479253,
+      "diff_category_mean": 0.04886673508262233
+    },
+    "category_within_mean": {
+      "alcoholic beverage": 0.14,
+      "animal product": 0.013,
+      "cereal/crop": 0.188,
+      "dairy": 0.522,
+      "fish/seafood": 0.209,
+      "flower": 0.136,
+      "fruit": 0.142,
+      "herb": 0.048,
+      "meat": 0.297,
+      "nut/seed/pulse": 0.146,
+      "plant": 0.024,
+      "plant derivative": 0.03,
+      "spice": 0.107,
+      "vegetable": 0.067
+    },
+    "size_bias_spearman": 0.8972301864596736,
+    "jaccard": {
+      "ingredients": 381,
+      "top1_same_category_pct": 66.40419947506561,
+      "top5_same_category_pct": 57.00787401574803,
+      "top1_score_median": 0.3333333333333333,
+      "top5_confidence_pct": {
+        "High": 55.7,
+        "Low": 24.6,
+        "Medium": 19.7
+      },
+      "top5_name_nested_pct": 4.409448818897638,
+      "top5_ci_width_median_by_confidence": {
+        "High": 0.14100000262260437,
+        "Low": 0.23000000417232513,
+        "Medium": 0.27900001406669617
+      },
+      "top5_relative_ci_width_median_by_confidence": {
+        "High": 0.38,
+        "Low": 3.0,
+        "Medium": 1.43
+      },
+      "top5_ci_excludes_zero_pct_by_confidence": {
+        "High": 100.0,
+        "Low": 11.3,
+        "Medium": 74.9
+      },
+      "top5_similarity_median_by_confidence": {
+        "High": 0.368,
+        "Low": 0.091,
+        "Medium": 0.188
+      },
+      "top5_stability_median_by_confidence": {
+        "High": 0.685,
+        "Low": 0.59,
+        "Medium": 0.49
+      },
+      "top1_ci_excludes_zero_pct": 75.8530183727034
+    },
+    "idf": {
+      "ingredients": 381,
+      "top1_same_category_pct": 65.35433070866141,
+      "top5_same_category_pct": 57.322834645669296,
+      "top1_score_median": 0.3141540001737186,
+      "top5_confidence_pct": {
+        "High": 55.5,
+        "Low": 25.1,
+        "Medium": 19.4
+      },
+      "top5_name_nested_pct": 4.409448818897638,
+      "top5_ci_width_median_by_confidence": {
+        "High": 0.14499999582767487,
+        "Low": 0.2329999953508377,
+        "Medium": 0.2529999911785126
+      },
+      "top5_relative_ci_width_median_by_confidence": {
+        "High": 0.43,
+        "Low": 2.96,
+        "Medium": 1.45
+      },
+      "top5_ci_excludes_zero_pct_by_confidence": {
+        "High": 100.0,
+        "Low": 11.3,
+        "Medium": 78.0
+      },
+      "top5_similarity_median_by_confidence": {
+        "High": 0.307,
+        "Low": 0.086,
+        "Medium": 0.162
+      },
+      "top5_stability_median_by_confidence": {
+        "High": 0.695,
+        "Low": 0.58,
+        "Medium": 0.525
+      },
+      "top1_ci_excludes_zero_pct": 75.59055118110236
+    },
+    "jaccard_vs_idf_top5_overlap": 0.8866141732283463,
+    "jaccard_vs_idf_spearman": 0.9977403186650431,
+    "confidence_of_ingredients": {
+      ">=20": 222,
+      "<5": 81,
+      "5-19": 78
+    }
+  },
+  "nutrient": {
+    "ingredients_scored": 344,
+    "features": [
+      "energy_kcal",
+      "protein_g",
+      "fat_g",
+      "carbohydrate_g",
+      "fiber_g",
+      "sugars_g",
+      "alcohol_g",
+      "cholesterol_mg",
+      "sodium_mg",
+      "potassium_mg",
+      "calcium_mg",
+      "iron_mg",
+      "phosphorus_mg",
+      "zinc_mg"
+    ],
+    "full": {
+      "ingredients": 344,
+      "top1_same_category_pct": 81.68604651162791,
+      "top5_same_category_pct": 70.75581395348837,
+      "top1_score_median": 0.8373575206041364,
+      "top5_confidence_pct": {
+        "High": 49.5,
+        "Medium": 49.0,
+        "Low": 1.6
+      },
+      "top5_name_nested_pct": 4.883720930232558
+    },
+    "full_vs_macro_top5_overlap": 0.4697674418604652,
+    "category_within_mean": {
+      "alcoholic beverage": 0.65,
+      "animal product": 0.359,
+      "cereal/crop": 0.62,
+      "dairy": 0.587,
+      "fish/seafood": 0.605,
+      "flower": NaN,
+      "fruit": 0.687,
+      "herb": 0.56,
+      "meat": 0.627,
+      "nut/seed/pulse": 0.618,
+      "plant": 0.52,
+      "plant derivative": 0.445,
+      "spice": 0.518,
+      "vegetable": 0.604
+    },
+    "identical_record_in_top5_pct": 8.255813953488373,
+    "only_nutrient_mode_examples": [
+      "anise_seed",
+      "armagnac",
+      "bay",
+      "beef_broth",
+      "beet",
+      "blackberry_brandy",
+      "brassica",
+      "cacao",
+      "cane_molasses",
+      "carob",
+      "cereal",
+      "chamomile",
+      "chayote",
+      "cherry_brandy",
+      "chicken_broth",
+      "chickpea",
+      "chicory",
+      "chinese_cabbage",
+      "corn_flake",
+      "corn_grit",
+      "date",
+      "egg_noodle",
+      "gelatin",
+      "grape_juice",
+      "holy_basil",
+      "horseradish",
+      "kale",
+      "lard",
+      "lemon_juice",
+      "lentil",
+      "lime_juice",
+      "liver",
+      "lobster",
+      "macaroni",
+      "maple_syrup",
+      "milk_fat",
+      "octopus",
+      "olive_oil",
+      "oregano",
+      "ouzo",
+      "palm",
+      "parsnip",
+      "pimenta",
+      "prawn",
+      "red_algae",
+      "rye_flour",
+      "salmon_roe",
+      "savory",
+      "scallion",
+      "sea_algae",
+      "seaweed",
+      "sesame_oil",
+      "shellfish",
+      "soybean_oil",
+      "squash",
+      "starch",
+      "strawberry_juice",
+      "sunflower_oil",
+      "tequila",
+      "tomato_juice",
+      "turnip",
+      "vegetable_oil",
+      "wasabi",
+      "whole_grain_wheat_flour",
+      "yam",
+      "yeast",
+      "zucchini"
+    ]
+  },
+  "nutrient_extended_catalog": {
+    "foods": 808,
+    "recipe_curated": 344,
+    "foodb_auto": 464,
+    "specialty_not_suggested": 37,
+    "top1_same_food_group_pct": 72.89603960396039,
+    "top5_same_food_group_pct": 67.12871287128714,
+    "top5_confidence_pct": {
+      "Medium": 53.5,
+      "Low": 34.2,
+      "High": 12.3
+    },
+    "recipe_queries_top5_from_outside_recipes_pct": 36.860465116279066,
+    "examples": {
+      "jackfruit": [
+        [
+          "concord_grape",
+          0.83,
+          "Fruits",
+          "recipe_curated",
+          "Medium"
+        ],
+        [
+          "cherry",
+          0.81,
+          "Fruits",
+          "recipe_curated",
+          "Medium"
+        ],
+        [
+          "fig",
+          0.8,
+          "Fruits",
+          "recipe_curated",
+          "Medium"
+        ],
+        [
+          "grape",
+          0.79,
+          "Fruits",
+          "recipe_curated",
+          "Medium"
+        ],
+        [
+          "muscat_grape",
+          0.79,
+          "Fruits",
+          "recipe_curated",
+          "Medium"
+        ]
+      ],
+      "quinoa": [
+        [
+          "buckwheat",
+          0.81,
+          "Cereals and cereal products",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "sorghum",
+          0.79,
+          "Cereals and cereal products",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "rye_flour",
+          0.78,
+          "Cereals and cereal products",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "millet",
+          0.78,
+          "Cereals and cereal products",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "wheat",
+          0.78,
+          "Cereals and cereal products",
+          "recipe_curated",
+          "Low"
+        ]
+      ],
+      "tofu": [
+        [
+          "horseradish_tree",
+          0.62,
+          "Vegetables",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "jute",
+          0.62,
+          "Vegetables",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "natto",
+          0.61,
+          "Soy",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "nutritional_drink",
+          0.61,
+          "Beverages",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "oregon_yampah",
+          0.61,
+          "Vegetables",
+          "foodb_auto",
+          "Low"
+        ]
+      ],
+      "turbot": [
+        [
+          "atlantic_croaker",
+          0.84,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "cisco",
+          0.84,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "striped_bass",
+          0.84,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "pacific_rockfish",
+          0.83,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "tilefish",
+          0.83,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ]
+      ],
+      "chia": [
+        [
+          "caraway",
+          0.67,
+          "Herbs and Spices",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "coriander",
+          0.67,
+          "Herbs and Spices",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "mace",
+          0.66,
+          "Herbs and Spices",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "roasted_almond",
+          0.65,
+          "Nuts",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "white_lupine",
+          0.64,
+          "Pulses",
+          "foodb_auto",
+          "Low"
+        ]
+      ],
+      "rabbit": [
+        [
+          "domestic_goat",
+          0.87,
+          "Animal foods",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "quail",
+          0.86,
+          "Animal foods",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "deer",
+          0.86,
+          "Animal foods",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "beefalo",
+          0.79,
+          "Animal foods",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "chicken_liver",
+          0.75,
+          "Animal foods",
+          "recipe_curated",
+          "Low"
+        ]
+      ],
+      "teff": [
+        [
+          "malt",
+          0.82,
+          "Cereals and cereal products",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "oatmeal",
+          0.75,
+          "Cereals and cereal products",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "wheat",
+          0.75,
+          "Cereals and cereal products",
+          "recipe_curated",
+          "Low"
+        ],
+        [
+          "black_eyed_pea",
+          0.74,
+          "Pulses",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "barley",
+          0.74,
+          "Cereals and cereal products",
+          "recipe_curated",
+          "Low"
+        ]
+      ],
+      "breadfruit": [
+        [
+          "guava",
+          0.75,
+          "Fruits",
+          "recipe_curated",
+          "Medium"
+        ],
+        [
+          "custard_apple",
+          0.74,
+          "Fruits",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "european_chestnut",
+          0.74,
+          "Nuts",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "sugar_apple",
+          0.74,
+          "Fruits",
+          "foodb_auto",
+          "Low"
+        ],
+        [
+          "mamey_sapote",
+          0.74,
+          "Fruits",
+          "foodb_auto",
+          "Medium"
+        ]
+      ],
+      "butter": [
+        [
+          "milk_fat",
+          0.71,
+          "Milk and milk products",
+          "recipe_curated",
+          "High"
+        ],
+        [
+          "cream",
+          0.69,
+          "Milk and milk products",
+          "recipe_curated",
+          "High"
+        ],
+        [
+          "cured_pork",
+          0.55,
+          "Animal foods",
+          "recipe_curated",
+          "High"
+        ],
+        [
+          "margarine_like_spread",
+          0.53,
+          "Fats and oils",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "lard",
+          0.53,
+          "Fats and oils",
+          "recipe_curated",
+          "High"
+        ]
+      ],
+      "salmon": [
+        [
+          "spanish_mackerel",
+          0.9,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "spot_croaker",
+          0.88,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "greater_sturgeon",
+          0.88,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "chum_salmon",
+          0.88,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ],
+        [
+          "bluefish",
+          0.87,
+          "Aquatic foods",
+          "foodb_auto",
+          "Medium"
+        ]
+      ]
+    }
+  },
+  "flavor_vs_nutrient": {
+    "ingredients_in_both": 344,
+    "pair_similarity_spearman": 0.1107482195794664,
+    "top5_overlap_mean": 0.16279069767441862,
+    "ingredients_with_any_top5_overlap_pct": 49.127906976744185,
+    "mean_flavor_similarity_of_nutrient_top1": 0.2664916598349456,
+    "mean_flavor_similarity_of_flavor_top1": 0.4863180130934909
+  },
+  "generic_excluded_as_candidates": [
+    "berry",
+    "brassica",
+    "cereal",
+    "cheese",
+    "citrus",
+    "condiment",
+    "fish",
+    "flower",
+    "fruit",
+    "leaf",
+    "meat",
+    "nut",
+    "roasted_meat",
+    "roasted_nut",
+    "root",
+    "seed",
+    "shellfish",
+    "smoke",
+    "smoked_fish",
+    "vegetable",
+    "wood"
+  ],
+  "case_studies_flavor": {
+    "butter": [
+      [
+        "milk",
+        0.402,
+        0.33500000834465027,
+        0.4699999988079071,
+        "High"
+      ],
+      [
+        "swiss_cheese",
+        0.338,
+        0.2800000011920929,
+        0.3880000114440918,
+        "High"
+      ],
+      [
+        "cured_pork",
+        0.335,
+        0.27799999713897705,
+        0.39800000190734863,
+        "High"
+      ],
+      [
+        "parmesan_cheese",
+        0.331,
+        0.27799999713897705,
+        0.38199999928474426,
+        "High"
+      ],
+      [
+        "cheddar_cheese",
+        0.323,
+        0.2619999945163727,
+        0.37299999594688416,
+        "High"
+      ]
+    ],
+    "parmesan_cheese": [
+      [
+        "cream_cheese",
+        0.73,
+        0.6639999747276306,
+        0.7950000166893005,
+        "High"
+      ],
+      [
+        "cottage_cheese",
+        0.726,
+        0.6589999794960022,
+        0.7950000166893005,
+        "High"
+      ],
+      [
+        "romano_cheese",
+        0.72,
+        0.6449999809265137,
+        0.7929999828338623,
+        "High"
+      ],
+      [
+        "emmental_cheese",
+        0.713,
+        0.6420000195503235,
+        0.7770000100135803,
+        "High"
+      ],
+      [
+        "munster_cheese",
+        0.713,
+        0.6420000195503235,
+        0.7770000100135803,
+        "High"
+      ]
+    ],
+    "lemon": [
+      [
+        "lime",
+        0.69,
+        0.5820000171661377,
+        0.7829999923706055,
+        "High"
+      ],
+      [
+        "mandarin",
+        0.651,
+        0.5559999942779541,
+        0.7630000114440918,
+        "High"
+      ],
+      [
+        "tangerine",
+        0.64,
+        0.5440000295639038,
+        0.7429999709129333,
+        "High"
+      ],
+      [
+        "orange",
+        0.504,
+        0.4320000112056732,
+        0.5910000205039978,
+        "High"
+      ],
+      [
+        "citrus_peel",
+        0.34,
+        0.24199999868869781,
+        0.43700000643730164,
+        "High"
+      ]
+    ],
+    "basil": [
+      [
+        "rosemary",
+        0.244,
+        0.11500000208616257,
+        0.375,
+        "High"
+      ],
+      [
+        "pimento",
+        0.2,
+        0.06599999964237213,
+        0.375,
+        "Medium"
+      ],
+      [
+        "tarragon",
+        0.179,
+        0.0430000014603138,
+        0.34599998593330383,
+        "Medium"
+      ],
+      [
+        "fennel",
+        0.171,
+        0.06700000166893005,
+        0.3059999942779541,
+        "Medium"
+      ],
+      [
+        "sage",
+        0.125,
+        0.026000000536441803,
+        0.24300000071525574,
+        "Medium"
+      ]
+    ],
+    "chicken": [
+      [
+        "pork_sausage",
+        0.532,
+        0.4429999887943268,
+        0.6019999980926514,
+        "High"
+      ],
+      [
+        "bacon",
+        0.528,
+        0.4429999887943268,
+        0.6000000238418579,
+        "High"
+      ],
+      [
+        "pork",
+        0.506,
+        0.42899999022483826,
+        0.5809999704360962,
+        "High"
+      ],
+      [
+        "cured_pork",
+        0.474,
+        0.38999998569488525,
+        0.546999990940094,
+        "High"
+      ],
+      [
+        "beef",
+        0.438,
+        0.36500000953674316,
+        0.5040000081062317,
+        "High"
+      ]
+    ],
+    "coffee": [
+      [
+        "beef",
+        0.308,
+        0.25999999046325684,
+        0.3540000021457672,
+        "High"
+      ],
+      [
+        "roasted_peanut",
+        0.295,
+        0.24699999392032623,
+        0.3440000116825104,
+        "High"
+      ],
+      [
+        "peanut_butter",
+        0.294,
+        0.2460000067949295,
+        0.34200000762939453,
+        "High"
+      ],
+      [
+        "cocoa",
+        0.286,
+        0.23100000619888306,
+        0.335999995470047,
+        "High"
+      ],
+      [
+        "beer",
+        0.281,
+        0.23999999463558197,
+        0.3230000138282776,
+        "High"
+      ]
+    ],
+    "oregano": [
+      [
+        "black_sesame_seed",
+        0.053,
+        0.0,
+        0.18199999630451202,
+        "Low"
+      ],
+      [
+        "rapeseed",
+        0.05,
+        0.0,
+        0.15800000727176666,
+        "Low"
+      ],
+      [
+        "dill",
+        0.024,
+        0.0,
+        0.07699999958276749,
+        "Low"
+      ],
+      [
+        "spearmint",
+        0.021,
+        0.0,
+        0.06800000369548798,
+        "Low"
+      ],
+      [
+        "celery",
+        0.018,
+        0.0,
+        0.05400000140070915,
+        "Low"
+      ]
+    ],
+    "chickpea": [
+      [
+        "octopus",
+        1.0,
+        0.0,
+        1.0,
+        "Low"
+      ],
+      [
+        "pistachio",
+        0.111,
+        0.0,
+        0.4000000059604645,
+        "Low"
+      ],
+      [
+        "oyster",
+        0.038,
+        0.0,
+        0.12999999523162842,
+        "Low"
+      ],
+      [
+        "scallop",
+        0.024,
+        0.0,
+        0.08399999886751175,
+        "Low"
+      ],
+      [
+        "clam",
+        0.016,
+        0.0,
+        0.052000001072883606,
+        "Low"
+      ]
+    ],
+    "vanilla": [
+      [
+        "enokidake",
+        0.204,
+        0.14000000059604645,
+        0.26499998569488525,
+        "High"
+      ],
+      [
+        "mushroom",
+        0.204,
+        0.14000000059604645,
+        0.26499998569488525,
+        "High"
+      ],
+      [
+        "porcini",
+        0.202,
+        0.14000000059604645,
+        0.25999999046325684,
+        "High"
+      ],
+      [
+        "matsutake",
+        0.201,
+        0.13899999856948853,
+        0.2630000114440918,
+        "High"
+      ],
+      [
+        "shiitake",
+        0.201,
+        0.13899999856948853,
+        0.25999999046325684,
+        "High"
+      ]
+    ],
+    "onion": [
+      [
+        "leek",
+        0.311,
+        0.19499999284744263,
+        0.421999990940094,
+        "High"
+      ],
+      [
+        "chive",
+        0.27,
+        0.14100000262260437,
+        0.3700000047683716,
+        "High"
+      ],
+      [
+        "garlic",
+        0.254,
+        0.1550000011920929,
+        0.3709999918937683,
+        "High"
+      ],
+      [
+        "shallot",
+        0.2,
+        0.10899999737739563,
+        0.3019999861717224,
+        "Medium"
+      ],
+      [
+        "cabbage",
+        0.185,
+        0.1080000028014183,
+        0.27300000190734863,
+        "High"
+      ]
+    ],
+    "white_wine": [
+      [
+        "red_wine",
+        0.668,
+        0.6060000061988831,
+        0.718999981880188,
+        "High"
+      ],
+      [
+        "cabernet_sauvignon_wine",
+        0.665,
+        0.6039999723434448,
+        0.7160000205039978,
+        "High"
+      ],
+      [
+        "port_wine",
+        0.592,
+        0.5180000066757202,
+        0.6499999761581421,
+        "High"
+      ],
+      [
+        "champagne_wine",
+        0.577,
+        0.5019999742507935,
+        0.6389999985694885,
+        "High"
+      ],
+      [
+        "wine",
+        0.577,
+        0.5019999742507935,
+        0.6389999985694885,
+        "High"
+      ]
+    ],
+    "strawberry": [
+      [
+        "apple",
+        0.412,
+        0.3529999852180481,
+        0.47200000286102295,
+        "High"
+      ],
+      [
+        "raspberry",
+        0.376,
+        0.3190000057220459,
+        0.43299999833106995,
+        "High"
+      ],
+      [
+        "concord_grape",
+        0.367,
+        0.3109999895095825,
+        0.4300000071525574,
+        "High"
+      ],
+      [
+        "cranberry",
+        0.355,
+        0.2879999876022339,
+        0.4129999876022339,
+        "High"
+      ],
+      [
+        "grape",
+        0.354,
+        0.29600000381469727,
+        0.41600000858306885,
+        "High"
+      ]
+    ],
+    "shrimp": [
+      [
+        "clam",
+        0.304,
+        0.20800000429153442,
+        0.40799999237060547,
+        "High"
+      ],
+      [
+        "chicken",
+        0.283,
+        0.21799999475479126,
+        0.3610000014305115,
+        "High"
+      ],
+      [
+        "scallop",
+        0.27,
+        0.1679999977350235,
+        0.3709999918937683,
+        "High"
+      ],
+      [
+        "salmon",
+        0.268,
+        0.19099999964237213,
+        0.34599998593330383,
+        "High"
+      ],
+      [
+        "tuna",
+        0.266,
+        0.1899999976158142,
+        0.34599998593330383,
+        "High"
+      ]
+    ],
+    "cumin": [
+      [
+        "turmeric",
+        0.368,
+        0.18199999630451202,
+        0.6000000238418579,
+        "Medium"
+      ],
+      [
+        "mace",
+        0.276,
+        0.12099999934434891,
+        0.43299999833106995,
+        "Medium"
+      ],
+      [
+        "parsley",
+        0.267,
+        0.11999999731779099,
+        0.42899999022483826,
+        "Medium"
+      ],
+      [
+        "marjoram",
+        0.241,
+        0.10000000149011612,
+        0.4000000059604645,
+        "Medium"
+      ],
+      [
+        "black_sesame_seed",
+        0.214,
+        0.0860000029206276,
+        0.3869999945163727,
+        "Medium"
+      ]
+    ]
+  },
+  "case_studies_nutrient": {
+    "butter": [
+      [
+        "milk_fat",
+        0.709,
+        0.021,
+        "High"
+      ],
+      [
+        "cream",
+        0.697,
+        0.15,
+        "High"
+      ],
+      [
+        "cured_pork",
+        0.548,
+        0.335,
+        "High"
+      ],
+      [
+        "lard",
+        0.539,
+        0.0,
+        "High"
+      ],
+      [
+        "cream_cheese",
+        0.511,
+        0.298,
+        "High"
+      ]
+    ],
+    "parmesan_cheese": [
+      [
+        "romano_cheese",
+        0.919,
+        0.72,
+        "High"
+      ],
+      [
+        "sheep_cheese",
+        0.919,
+        0.702,
+        "Medium"
+      ],
+      [
+        "provolone_cheese",
+        0.842,
+        0.686,
+        "High"
+      ],
+      [
+        "roquefort_cheese",
+        0.823,
+        0.713,
+        "Medium"
+      ],
+      [
+        "cheddar_cheese",
+        0.809,
+        0.687,
+        "High"
+      ]
+    ],
+    "lemon": [
+      [
+        "lime",
+        0.899,
+        0.69,
+        "High"
+      ],
+      [
+        "strawberry",
+        0.829,
+        0.186,
+        "High"
+      ],
+      [
+        "green_bell_pepper",
+        0.812,
+        0.139,
+        "High"
+      ],
+      [
+        "onion",
+        0.811,
+        0.054,
+        "High"
+      ],
+      [
+        "bean",
+        0.803,
+        0.116,
+        "Medium"
+      ]
+    ],
+    "basil": [
+      [
+        "holy_basil",
+        1.0,
+        0.04,
+        "Medium"
+      ],
+      [
+        "chive",
+        0.773,
+        0.0,
+        "High"
+      ],
+      [
+        "nira",
+        0.773,
+        0.0,
+        "Medium"
+      ],
+      [
+        "cilantro",
+        0.704,
+        0.05,
+        "High"
+      ],
+      [
+        "asparagus",
+        0.701,
+        0.0,
+        "High"
+      ]
+    ],
+    "chicken": [
+      [
+        "mackerel",
+        0.849,
+        0.253,
+        "Medium"
+      ],
+      [
+        "salmon",
+        0.839,
+        0.278,
+        "Medium"
+      ],
+      [
+        "turkey",
+        0.837,
+        0.407,
+        "Medium"
+      ],
+      [
+        "eel",
+        0.837,
+        0.253,
+        "Medium"
+      ],
+      [
+        "pork",
+        0.789,
+        0.506,
+        "Medium"
+      ]
+    ],
+    "coffee": [
+      [
+        "black_tea",
+        0.819,
+        0.275,
+        "High"
+      ],
+      [
+        "green_tea",
+        0.819,
+        0.275,
+        "Medium"
+      ],
+      [
+        "jasmine_tea",
+        0.819,
+        0.269,
+        "Medium"
+      ],
+      [
+        "tea",
+        0.819,
+        0.27,
+        "High"
+      ],
+      [
+        "chamomile",
+        0.733,
+        0.013,
+        "High"
+      ]
+    ],
+    "olive_oil": [
+      [
+        "soybean_oil",
+        0.804,
+        0.0,
+        "High"
+      ],
+      [
+        "vegetable_oil",
+        0.804,
+        0.25,
+        "Medium"
+      ],
+      [
+        "coconut_oil",
+        0.802,
+        0.0,
+        "High"
+      ],
+      [
+        "peanut_oil",
+        0.802,
+        0.0,
+        "High"
+      ],
+      [
+        "rapeseed",
+        0.799,
+        0.0,
+        "Medium"
+      ]
+    ],
+    "honey": [
+      [
+        "strawberry_jam",
+        0.694,
+        0.012,
+        "Medium"
+      ],
+      [
+        "maple_syrup",
+        0.627,
+        0.0,
+        "High"
+      ],
+      [
+        "grape",
+        0.598,
+        0.184,
+        "High"
+      ],
+      [
+        "muscat_grape",
+        0.598,
+        0.177,
+        "Medium"
+      ],
+      [
+        "concord_grape",
+        0.591,
+        0.188,
+        "High"
+      ]
+    ],
+    "rice": [
+      [
+        "corn_grit",
+        0.707,
+        0.0,
+        "High"
+      ],
+      [
+        "macaroni",
+        0.704,
+        0.0,
+        "High"
+      ],
+      [
+        "brown_rice",
+        0.696,
+        0.949,
+        "High"
+      ],
+      [
+        "malt",
+        0.689,
+        0.242,
+        "High"
+      ],
+      [
+        "garlic",
+        0.654,
+        0.056,
+        "High"
+      ]
+    ],
+    "egg": [
+      [
+        "salmon_roe",
+        0.757,
+        0.0,
+        "Medium"
+      ],
+      [
+        "herring",
+        0.734,
+        0.163,
+        "High"
+      ],
+      [
+        "eel",
+        0.725,
+        0.152,
+        "High"
+      ],
+      [
+        "turkey",
+        0.697,
+        0.238,
+        "Medium"
+      ],
+      [
+        "squid",
+        0.696,
+        0.193,
+        "High"
+      ]
+    ],
+    "milk": [
+      [
+        "yogurt",
+        0.921,
+        0.192,
+        "High"
+      ],
+      [
+        "buttermilk",
+        0.803,
+        0.048,
+        "High"
+      ],
+      [
+        "sour_milk",
+        0.803,
+        0.102,
+        "Medium"
+      ],
+      [
+        "cottage_cheese",
+        0.691,
+        0.376,
+        "High"
+      ],
+      [
+        "kale",
+        0.616,
+        0.0,
+        "Medium"
+      ]
+    ],
+    "oregano": [
+      [
+        "cinnamon",
+        0.635,
+        0.0,
+        "High"
+      ],
+      [
+        "lentil",
+        0.628,
+        0.0,
+        "High"
+      ],
+      [
+        "black_pepper",
+        0.575,
+        0.0,
+        "High"
+      ],
+      [
+        "pepper",
+        0.575,
+        0.0,
+        "Medium"
+      ],
+      [
+        "barley",
+        0.566,
+        0.0,
+        "High"
+      ]
+    ],
+    "lemon_juice": [
+      [
+        "lime_juice",
+        0.847,
+        0.0,
+        "High"
+      ],
+      [
+        "cucumber",
+        0.838,
+        0.0,
+        "High"
+      ],
+      [
+        "watermelon",
+        0.814,
+        0.0,
+        "High"
+      ],
+      [
+        "green_bell_pepper",
+        0.771,
+        0.026,
+        "High"
+      ],
+      [
+        "onion",
+        0.751,
+        0.0,
+        "High"
+      ]
+    ]
+  },
+  "goal_examples": [
+    [
+      "butter",
+      "lower fat",
+      1,
+      "cream",
+      0.7,
+      344.94,
+      2.05,
+      37.0,
+      0.11,
+      21.25,
+      0.15
+    ],
+    [
+      "butter",
+      "lower fat",
+      2,
+      "cream_cheese",
+      0.51,
+      342.01,
+      5.93,
+      34.24,
+      3.21,
+      321.0,
+      0.3
+    ],
+    [
+      "butter",
+      "lower fat",
+      3,
+      "emmental_cheese",
+      0.51,
+      380.13,
+      26.93,
+      27.8,
+      1.32,
+      52.0,
+      0.3
+    ],
+    [
+      "cream",
+      "lower fat",
+      1,
+      "emmental_cheese",
+      0.58,
+      380.13,
+      26.93,
+      27.8,
+      1.32,
+      52.0,
+      0.17
+    ],
+    [
+      "cream",
+      "lower fat",
+      2,
+      "swiss_cheese",
+      0.58,
+      380.13,
+      26.93,
+      27.8,
+      1.32,
+      52.0,
+      0.18
+    ],
+    [
+      "cream",
+      "lower fat",
+      3,
+      "chicken",
+      0.56,
+      181.4,
+      18.8,
+      11.8,
+      0.0,
+      76.0,
+      0.13
+    ],
+    [
+      "beef",
+      "lower fat higher protein",
+      1,
+      "roasted_pork",
+      0.79,
+      248.04,
+      27.09,
+      14.65,
+      0.0,
+      59.0,
+      0.46
+    ],
+    [
+      "beef",
+      "lower fat higher protein",
+      2,
+      "veal",
+      0.77,
+      143.94,
+      19.35,
+      6.77,
+      0.0,
+      82.0,
+      0.25
+    ],
+    [
+      "beef",
+      "lower fat higher protein",
+      3,
+      "chicken_liver",
+      0.68,
+      135.5,
+      22.1,
+      4.7,
+      0.0,
+      68.0,
+      0.02
+    ],
+    [
+      "cheddar_cheese",
+      "lower sodium lower fat",
+      1,
+      "goat_cheese",
+      0.65,
+      267.96,
+      18.52,
+      21.08,
+      0.89,
+      368.0,
+      0.83
+    ],
+    [
+      "cheddar_cheese",
+      "lower sodium lower fat",
+      2,
+      "egg",
+      0.6,
+      143.08,
+      12.56,
+      9.51,
+      0.37,
+      142.0,
+      0.19
+    ],
+    [
+      "cheddar_cheese",
+      "lower sodium lower fat",
+      3,
+      "herring",
+      0.58,
+      157.99,
+      17.96,
+      9.04,
+      0.0,
+      90.0,
+      0.19
+    ],
+    [
+      "rice",
+      "higher fiber",
+      1,
+      "corn_grit",
+      0.71,
+      370.11,
+      7.65,
+      1.75,
+      0.57,
+      1.0,
+      0.0
+    ],
+    [
+      "rice",
+      "higher fiber",
+      2,
+      "macaroni",
+      0.7,
+      371.09,
+      13.04,
+      1.51,
+      2.67,
+      6.0,
+      0.0
+    ],
+    [
+      "rice",
+      "higher fiber",
+      3,
+      "brown_rice",
+      0.7,
+      369.99,
+      7.94,
+      2.92,
+      0.85,
+      7.0,
+      0.95
+    ],
+    [
+      "cane_molasses",
+      "lower sugar",
+      1,
+      "strawberry_jam",
+      0.57,
+      277.98,
+      0.37,
+      0.07,
+      48.5,
+      32.0,
+      0.0
+    ],
+    [
+      "cane_molasses",
+      "lower sugar",
+      2,
+      "black_currant",
+      0.52,
+      63.05,
+      1.4,
+      0.41,
+      9.35,
+      2.0,
+      0.0
+    ],
+    [
+      "cane_molasses",
+      "lower sugar",
+      3,
+      "shallot",
+      0.52,
+      71.97,
+      2.5,
+      0.1,
+      7.87,
+      12.0,
+      0.0
+    ],
+    [
+      "bacon",
+      "lower sodium",
+      1,
+      "pork_sausage",
+      0.79,
+      303.89,
+      15.09,
+      26.53,
+      0.0,
+      636.0,
+      0.99
+    ],
+    [
+      "bacon",
+      "lower sodium",
+      2,
+      "pork",
+      0.68,
+      262.95,
+      16.88,
+      21.19,
+      0.0,
+      56.0,
+      0.96
+    ],
+    [
+      "bacon",
+      "lower sodium",
+      3,
+      "chicken",
+      0.67,
+      181.4,
+      18.8,
+      11.8,
+      0.0,
+      76.0,
+      0.53
+    ],
+    [
+      "white_bread",
+      "higher protein higher fiber",
+      1,
+      "wheat_bread",
+      0.77,
+      270.16,
+      10.37,
+      3.44,
+      6.08,
+      519.0,
+      0.52
+    ],
+    [
+      "white_bread",
+      "higher protein higher fiber",
+      2,
+      "macaroni",
+      0.58,
+      371.09,
+      13.04,
+      1.51,
+      2.67,
+      6.0,
+      0.07
+    ],
+    [
+      "white_bread",
+      "higher protein higher fiber",
+      3,
+      "saffron",
+      0.58,
+      310.12,
+      11.43,
+      5.85,
+      2.32,
+      148.0,
+      0.03
+    ]
+  ],
+  "nutrient_data_coverage": {
+    "with_nutrients": 344
+  }
+}

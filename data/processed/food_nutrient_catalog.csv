@@ -1,0 +1,809 @@
+ingredient,display_name,origin,category,food_group,food_subgroup,source,description,match_type,n_products,n_imputed,foodb_food_id,specialty,energy_kcal,protein_g,fat_g,carbohydrate_g,fiber_g,sugars_g,alcohol_g,cholesterol_mg,sodium_mg,potassium_mg,calcium_mg,iron_mg,phosphorus_mg,zinc_mg
+almond,almond,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, almonds",direct,1,0,148.0,False,575.263,21.22,49.42,21.67,12.2,3.89,0.0,0.25,3.25,442.25,175.75,2.495,293.25,2.042
+anise,anise,recipe_curated,spice,Herbs and Spices,Herbs,USDA,"Spices, anise seed",direct,1,1,137.0,False,337.119,17.6,15.9,50.02,14.6,2.315,0.0,0.0,16.0,1441.0,646.0,36.96,440.0,5.3
+anise_seed,anise_seed,recipe_curated,spice,Herbs and Spices,Herbs,USDA,"Spices, anise seed",direct,1,1,137.0,False,337.119,17.6,15.9,50.02,14.6,2.315,0.0,0.0,16.0,1441.0,646.0,36.96,440.0,5.3
+apple,apple,recipe_curated,fruit,Fruits,Pomes,USDA,"Apples, raw, with skin",direct,1,0,105.0,False,52.052,0.26,0.17,13.81,2.4,10.39,0.0,0.0,1.0,107.0,6.0,0.12,11.0,0.04
+apple_brandy,apple_brandy,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+apricot,apricot,recipe_curated,fruit,Fruits,Drupes,USDA,"Apricots, raw",direct,1,0,144.0,False,48.02,1.4,0.39,11.12,2.0,9.24,0.0,0.0,1.0,156.5,11.25,0.31,15.25,0.148
+armagnac,armagnac,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+artichoke,artichoke,recipe_curated,vegetable,Vegetables,Shoot vegetables,USDA,"Artichokes, (globe or french), raw",direct,1,0,71.0,False,47.042,3.27,0.15,10.51,5.4,0.99,0.0,0.0,94.0,370.0,44.0,1.28,90.0,0.49
+asparagus,asparagus,recipe_curated,vegetable,Vegetables,Shoot vegetables,USDA,"Asparagus, raw",direct,1,0,21.0,False,20.158,2.2,0.12,3.88,2.1,1.88,0.0,0.0,2.0,109.75,13.5,2.435,26.5,0.298
+avocado,avocado,recipe_curated,fruit,Vegetables,Fruit vegetables,USDA,"Avocados, raw, all commercial varieties",direct,1,0,130.0,False,160.067,2.0,14.66,8.53,6.7,0.66,0.0,0.0,7.5,360.5,8.75,0.505,36.0,0.44
+bacon,bacon,recipe_curated,meat,Animal foods,Swine,USDA,"Pork, cured, bacon, raw",direct,1,0,549.0,False,458.207,11.6,45.04,0.66,0.0,0.0,0.0,68.0,833.0,208.0,6.0,0.48,188.0,1.17
+baked_potato,baked_potato,recipe_curated,vegetable,Vegetables,Tubers,USDA,"Potatoes, baked, flesh and skin, with salt",direct,1,0,175.0,False,93.106,2.5,0.13,21.15,2.2,1.18,0.0,0.0,10.0,535.0,15.0,1.08,70.0,0.36
+banana,banana,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Bananas, raw",direct,1,0,208.0,False,88.836,1.09,0.33,22.84,2.6,12.23,0.0,0.0,1.75,208.5,3.25,0.185,14.5,0.108
+barley,barley,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Barley, pearled, raw",direct,1,0,88.0,False,352.028,9.91,1.16,77.72,15.6,0.8,0.0,0.0,9.0,280.0,29.0,2.5,221.0,2.13
+bartlett_pear,bartlett_pear,recipe_curated,fruit,Fruits,Pomes,USDA,"Pears, raw",proxy,1,0,152.0,False,57.92,0.38,0.12,15.46,3.1,9.8,0.0,0.0,1.0,119.0,9.0,0.17,11.0,0.1
+basil,basil,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Basil, fresh",direct,1,0,119.0,False,22.733,3.15,0.64,2.65,1.6,0.3,0.0,0.0,2.25,256.75,102.75,3.17,35.25,0.565
+bay,bay,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spices, bay leaf",direct,1,1,97.0,False,313.288,7.61,8.36,74.97,26.3,0.87,0.0,0.0,23.0,529.0,834.0,43.0,113.0,3.7
+bean,bean,recipe_curated,vegetable,Pulses,Beans,USDA,"Beans, snap, green, raw",proxy,1,0,134.0,False,31.155,1.83,0.22,6.97,2.7,3.26,0.0,0.0,6.0,211.0,37.0,1.03,38.0,0.24
+beef,beef,recipe_curated,meat,Animal foods,Bovines,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",direct,1,0,506.0,False,253.912,17.17,20.0,0.0,0.0,0.0,0.0,71.0,67.0,270.0,18.0,1.94,158.0,4.18
+beef_broth,beef_broth,recipe_curated,meat,Dishes,Other dishes,USDA,"Soup, beef broth or bouillon canned, ready-to-serve",direct,1,0,692.0,False,6.966,1.14,0.22,0.04,0.0,0.0,0.0,0.0,372.0,54.0,6.0,0.17,13.0,0.0
+beef_liver,beef_liver,recipe_curated,meat,Animal foods,Bovines,USDA,"Beef, variety meats and by-products, liver, raw",direct,1,0,506.0,False,134.9,20.36,3.63,3.89,0.0,0.0,0.0,275.0,69.0,313.0,5.0,4.9,387.0,4.0
+beer,beer,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, beer, regular, all",direct,1,0,268.0,False,43.13,0.46,0.0,3.55,0.0,0.0,1.952,0.0,2.5,15.25,2.5,0.015,8.75,0.008
+beet,beet,recipe_curated,vegetable,Vegetables,Leaf vegetables,USDA,"Beets, raw",direct,1,0,25.0,False,43.011,1.61,0.17,9.56,2.8,6.76,0.0,0.0,78.0,325.0,16.0,0.8,40.0,0.35
+bell_pepper,bell_pepper,recipe_curated,vegetable,Vegetables,Fruit vegetables,USDA,"Peppers, sweet, red, raw",direct,1,0,40.0,False,30.916,0.99,0.3,6.03,2.1,4.2,0.0,0.0,4.0,211.0,7.0,0.43,26.0,0.25
+berry,berry,recipe_curated,fruit,Fruits,Berries,USDA,"Blueberries, raw",proxy,1,0,188.0,False,57.181,0.74,0.33,14.49,2.4,9.96,0.0,0.0,1.0,77.0,6.0,0.28,12.0,0.16
+bitter_orange,bitter_orange,recipe_curated,fruit,Fruits,Citrus,USDA,"Oranges, raw, all commercial varieties",proxy,1,0,57.0,False,47.042,0.94,0.12,11.75,2.4,9.35,0.0,0.0,0.0,181.0,40.0,0.1,14.0,0.07
+black_bean,black_bean,recipe_curated,vegetable,Pulses,Beans,USDA,"Beans, black, mature seeds, raw",direct,1,0,134.0,False,340.792,21.6,1.42,62.36,15.5,2.12,0.0,0.0,5.0,1483.0,123.0,5.02,352.0,3.65
+black_currant,black_currant,recipe_curated,fruit,Fruits,Berries,USDA,"Currants, european black, raw",direct,1,2,155.0,False,63.049,1.4,0.41,15.38,2.4,9.35,0.0,0.0,2.0,322.0,55.0,1.54,59.0,0.27
+black_pepper,black_pepper,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, pepper, black",direct,1,0,139.0,False,250.978,10.39,3.26,63.95,25.3,0.64,0.0,0.0,13.5,1045.5,302.0,9.568,92.25,0.84
+black_raspberry,black_raspberry,recipe_curated,fruit,Fruits,Berries,USDA,"Raspberries, raw",proxy,1,0,160.0,False,52.291,1.2,0.65,11.94,6.5,4.42,0.0,0.0,1.0,151.0,25.0,0.69,29.0,0.42
+black_sesame_seed,black_sesame_seed,recipe_curated,nut/seed/pulse,Herbs and Spices,Oilseed crops,USDA,"Seeds, sesame seeds, whole, dried",proxy,1,0,170.0,False,572.948,17.73,49.67,23.45,11.8,0.3,0.0,0.0,11.0,468.0,975.0,14.55,629.0,7.75
+black_tea,black_tea,recipe_curated,plant derivative,Teas,Teas,USDA,"Tea, black, brewed, prepared with tap water",direct,1,0,38.0,False,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02
+blackberry,blackberry,recipe_curated,fruit,Fruits,Berries,USDA,"Blackberries, raw",direct,1,0,160.0,False,43.13,1.39,0.49,9.61,5.3,4.88,0.0,0.0,1.0,162.0,29.0,0.62,22.0,0.53
+blackberry_brandy,blackberry_brandy,recipe_curated,alcoholic beverage,Beverages,Distilled beverages,USDA,"Alcoholic beverage, liqueur, coffee, 53 proof",proxy,1,0,630.0,False,326.002,0.1,0.3,46.8,0.0,46.43,21.7,0.0,8.0,30.0,1.0,0.06,6.0,0.03
+blue_cheese,blue_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, blue",direct,1,0,631.0,False,353.006,21.4,28.74,2.34,0.0,0.5,0.0,75.0,1270.5,256.0,528.0,0.31,387.0,2.66
+blueberry,blueberry,recipe_curated,fruit,Fruits,Berries,USDA,"Blueberries, raw",direct,1,0,188.0,False,57.181,0.74,0.33,14.49,2.4,9.96,0.0,0.0,1.0,77.0,6.0,0.28,12.0,0.16
+bourbon_whiskey,bourbon_whiskey,recipe_curated,alcoholic beverage,Beverages,Distilled beverages,USDA,"Alcoholic beverage, distilled, whiskey, 86 proof",direct,1,0,640.0,False,250.0,0.0,0.0,0.1,0.0,0.1,36.0,0.0,0.0,1.0,0.0,0.02,3.0,0.02
+brandy,brandy,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+brassica,brassica,recipe_curated,plant,Vegetables,Cabbages,USDA,"Cabbage, raw",proxy,1,0,30.0,False,24.809,1.28,0.1,5.8,2.5,3.2,0.0,0.0,18.0,170.0,40.0,0.47,26.0,0.18
+bread,bread,recipe_curated,cereal/crop,Cereals and cereal products,Leavened breads,USDA,"Bread, white, commercially prepared (includes soft bread crumbs)",direct,1,0,836.0,False,264.79,9.15,3.19,49.06,2.7,5.07,0.0,0.0,301.0,74.5,221.25,2.358,74.5,0.555
+broccoli,broccoli,recipe_curated,vegetable,Vegetables,Cabbages,USDA,"Broccoli, raw",direct,1,0,34.0,False,33.85,2.82,0.37,6.64,2.6,1.7,0.0,0.0,23.0,171.5,29.5,0.482,38.5,0.23
+brown_rice,brown_rice,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Rice, brown, long-grain, raw",direct,1,0,125.0,False,369.99,7.94,2.92,77.24,3.5,0.85,0.0,0.0,7.0,223.0,23.0,1.47,333.0,2.02
+brussels_sprout,brussels_sprout,recipe_curated,vegetable,Vegetables,Cabbages,USDA,"Brussels sprouts, raw",direct,1,0,32.0,False,42.891,3.38,0.3,8.95,3.8,2.2,0.0,0.0,25.0,389.0,42.0,1.4,69.0,0.42
+buckwheat,buckwheat,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,Buckwheat,direct,1,1,79.0,False,342.987,13.25,3.4,71.5,10.0,1.1,0.0,0.0,1.0,460.0,18.0,2.2,347.0,2.4
+butter,butter,recipe_curated,dairy,Milk and milk products,Other milk products,USDA,"Butter, without salt",direct,1,0,667.0,False,716.889,0.85,81.11,0.06,0.0,0.06,0.0,108.5,11.0,14.75,14.75,0.048,14.0,0.098
+buttermilk,buttermilk,recipe_curated,dairy,Milk and milk products,Fermented milks,USDA,"Milk, buttermilk, fluid, cultured, lowfat",direct,1,0,714.0,False,40.196,3.31,0.88,4.79,0.0,4.79,0.0,4.0,105.0,151.0,116.0,0.05,89.0,0.42
+cabbage,cabbage,recipe_curated,vegetable,Vegetables,Cabbages,USDA,"Cabbage, raw",direct,1,0,30.0,False,24.809,1.28,0.1,5.8,2.5,3.2,0.0,0.0,18.0,170.0,40.0,0.47,26.0,0.18
+cabernet_sauvignon_wine,cabernet_sauvignon_wine,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic Beverage, wine, table, red, Cabernet Sauvignon",direct,1,9,626.0,False,82.967,0.07,0.0,2.6,0.0,0.0,10.5,0.0,1.5,2.0,0.0,0.05,5.0,0.04
+cacao,cacao,recipe_curated,plant derivative,Cocoa and cocoa products,Cocoa products,USDA,"Chocolate, dark, 70-85% cacao solids",proxy,1,0,709.0,False,598.235,7.79,42.63,45.9,10.9,23.99,0.0,3.0,20.0,715.0,73.0,11.9,308.0,3.31
+camembert_cheese,camembert_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, camembert",direct,1,0,631.0,False,299.737,19.8,24.26,0.46,0.0,0.46,0.0,72.0,842.0,187.0,388.0,0.33,347.0,2.38
+cane_molasses,cane_molasses,recipe_curated,plant derivative,Baking goods,Baking goods,USDA,Molasses,direct,1,0,811.0,False,289.957,0.0,0.1,74.73,0.0,55.49,0.0,0.0,37.0,1464.0,205.0,4.72,31.0,0.29
+caraway,caraway,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, caraway seed",direct,1,0,43.0,False,332.967,19.77,14.59,49.9,38.0,0.64,0.0,0.0,17.0,1351.0,689.0,16.23,568.0,5.5
+cardamom,cardamom,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, cardamom",direct,1,1,74.0,False,311.212,10.76,6.7,68.47,28.0,2.315,0.0,0.0,18.0,1119.0,383.0,13.97,178.0,7.47
+carob,carob,recipe_curated,fruit,Vegetables,Other vegetables,USDA,Carob flour,direct,1,0,326.0,False,222.018,4.62,0.65,88.88,39.8,49.08,0.0,0.0,35.0,827.0,348.0,2.94,79.0,0.92
+carrot,carrot,recipe_curated,vegetable,Vegetables,Root vegetables,USDA,"Carrots, raw",direct,1,0,245.0,False,41.174,0.93,0.24,9.58,2.8,4.74,0.0,0.0,69.0,320.0,33.0,0.3,35.0,0.24
+cashew,cashew,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, cashew nuts, raw",direct,1,0,11.0,False,553.03,18.22,43.85,30.19,3.3,5.91,0.0,0.0,12.0,660.0,37.0,6.68,593.0,5.78
+cassava,cassava,recipe_curated,vegetable,Vegetables,Tubers,USDA,"Cassava, raw",direct,1,0,328.0,False,159.708,1.36,0.28,38.06,1.8,1.7,0.0,0.0,14.0,271.0,16.0,0.27,27.0,0.34
+catfish,catfish,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, catfish, channel, wild, raw",direct,1,0,329.0,False,94.943,16.38,2.82,0.0,0.0,0.0,0.0,58.0,43.0,358.0,14.0,0.3,209.0,0.51
+cauliflower,cauliflower,recipe_curated,vegetable,Vegetables,Cabbages,USDA,"Cauliflower, raw",direct,1,0,31.0,False,24.928,1.92,0.28,4.97,2.0,1.91,0.0,0.0,17.25,157.5,11.75,0.25,23.75,0.153
+caviar,caviar,recipe_curated,fish/seafood,Aquatic foods,Roe,USDA,"Fish, caviar, black and red, granular",direct,1,0,722.0,False,264.051,24.6,17.9,4.0,0.0,0.0,0.0,588.0,1500.0,181.0,275.0,11.88,356.0,0.95
+cayenne,cayenne,recipe_curated,spice,Vegetables,Fruit vegetables,USDA,"Spices, pepper, red or cayenne",direct,1,0,40.0,False,318.058,12.01,17.27,56.63,27.2,10.34,0.0,0.0,30.0,2014.0,148.0,7.8,293.0,2.48
+celery,celery,recipe_curated,vegetable,Herbs and Spices,Spices,USDA,"Celery, raw",direct,1,0,15.0,False,16.007,0.69,0.17,2.97,1.6,1.83,0.0,0.0,51.0,156.0,30.0,0.24,13.0,0.335
+cereal,cereal,recipe_curated,cereal/crop,Cereals and cereal products,Cereal products,USDA,"Cereals ready-to-eat, corn flakes, low sodium",proxy,1,0,270.0,False,398.831,7.7,0.3,88.8,1.1,6.11,0.0,0.0,10.0,73.0,43.0,2.22,49.0,0.27
+chamomile,chamomile,recipe_curated,flower,Teas,Teas,USDA,"Tea, herb, chamomile, brewed",direct,1,0,38.0,False,0.978,0.0,0.0,0.2,0.0,0.0,0.0,0.0,1.0,9.0,2.0,0.08,0.0,0.04
+champagne_wine,champagne_wine,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, wine, table, white",proxy,1,0,626.0,False,81.87,0.07,0.0,2.6,0.0,0.96,10.3,0.0,5.0,71.0,9.0,0.27,18.0,0.12
+chayote,chayote,recipe_curated,fruit,Gourds,Gourds,USDA,"Chayote, fruit, raw",direct,1,0,330.0,False,19.06,0.82,0.13,4.51,1.7,1.66,0.0,0.0,2.0,125.0,17.0,0.34,18.0,0.74
+cheddar_cheese,cheddar_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, cheddar",direct,1,0,631.0,False,402.743,24.9,33.14,1.28,0.0,0.52,0.0,105.0,621.0,98.0,721.0,0.68,512.0,3.11
+cheese,cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, cheddar",proxy,1,0,631.0,False,402.743,24.9,33.14,1.28,0.0,0.52,0.0,105.0,621.0,98.0,721.0,0.68,512.0,3.11
+cherry,cherry,recipe_curated,fruit,Fruits,Drupes,USDA,"Cherries, sweet, raw",direct,1,0,145.0,False,62.929,1.06,0.2,16.01,2.1,12.82,0.0,0.0,0.0,222.0,13.0,0.36,21.0,0.07
+cherry_brandy,cherry_brandy,recipe_curated,alcoholic beverage,Beverages,Distilled beverages,USDA,"Alcoholic beverage, liqueur, coffee, 53 proof",proxy,1,0,630.0,False,326.002,0.1,0.3,46.8,0.0,46.43,21.7,0.0,8.0,30.0,1.0,0.06,6.0,0.03
+chervil,chervil,recipe_curated,herb,Herbs and Spices,Spices,USDA,"Spices, chervil, dried",direct,1,1,332.0,False,236.808,23.2,3.9,49.1,11.3,0.87,0.0,0.0,83.0,4740.0,1346.0,31.95,450.0,8.8
+chicken,chicken,recipe_curated,meat,Animal foods,Poultry,DTU,"Chicken, flesh and skin, raw",direct,1,2,334.0,False,181.4,18.8,11.8,0.0,0.0,0.0,0.0,72.0,76.0,281.0,11.0,0.585,158.0,0.916
+chicken_broth,chicken_broth,recipe_curated,meat,Dishes,Other dishes,USDA,"Soup, chicken broth, canned, prepared with equal volume water",direct,1,0,692.0,False,16.007,2.02,0.57,0.38,0.0,0.29,0.0,0.0,306.0,86.0,4.0,0.21,30.0,0.1
+chicken_liver,chicken_liver,recipe_curated,meat,Animal foods,Poultry,DTU,"Liver, chicken (hen), raw",direct,1,2,334.0,False,135.5,22.1,4.7,1.2,0.0,0.0,0.0,72.0,68.0,218.0,18.0,7.6,158.0,2.9
+chickpea,chickpea,recipe_curated,vegetable,Pulses,Peas,USDA,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",direct,1,0,47.0,False,364.242,19.3,6.04,60.65,17.4,10.7,0.0,0.0,24.0,563.5,69.5,3.698,224.25,2.343
+chicory,chicory,recipe_curated,vegetable,Vegetables,Root vegetables,USDA,"Chicory greens, raw",direct,1,0,49.0,False,22.972,1.7,0.3,4.7,4.0,0.7,0.0,0.0,45.0,420.0,100.0,0.9,47.0,0.42
+chinese_cabbage,chinese_cabbage,recipe_curated,vegetable,Vegetables,Cabbages,USDA,"Cabbage, chinese (pe-tsai), raw",direct,1,0,253.0,False,16.007,1.2,0.2,3.23,1.2,1.41,0.0,0.0,9.0,238.0,77.0,0.31,29.0,0.23
+chive,chive,recipe_curated,vegetable,Herbs and Spices,Herbs,USDA,"Chives, raw",direct,1,0,9.0,False,30.057,3.27,0.73,4.35,2.5,1.85,0.0,0.0,3.0,296.0,92.0,1.6,58.0,0.56
+cider,cider,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, wine, table, white",proxy,1,0,626.0,False,81.87,0.07,0.0,2.6,0.0,0.96,10.3,0.0,5.0,71.0,9.0,0.27,18.0,0.12
+cilantro,cilantro,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Coriander (cilantro) leaves, raw",direct,1,0,61.0,False,22.853,2.13,0.52,3.67,2.8,0.87,0.0,0.0,32.0,297.5,42.0,1.435,30.25,0.255
+cinnamon,cinnamon,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, cinnamon, ground",direct,1,0,50.0,False,247.185,3.99,1.24,80.59,53.1,2.17,0.0,0.0,9.0,267.5,591.5,8.458,40.5,1.27
+citrus,citrus,recipe_curated,fruit,Fruits,Citrus,USDA,"Oranges, raw, all commercial varieties",proxy,1,0,57.0,False,47.042,0.94,0.12,11.75,2.4,9.35,0.0,0.0,0.0,181.0,40.0,0.1,14.0,0.07
+citrus_peel,citrus_peel,recipe_curated,plant,Fruits,Citrus,USDA,"Orange peel, raw",proxy,1,1,57.0,False,96.899,1.5,0.2,25.0,10.6,1.6,0.0,0.0,3.0,212.0,161.0,0.8,21.0,0.25
+clam,clam,recipe_curated,fish/seafood,Aquatic foods,Mollusks,USDA,"Mollusks, clam, mixed species, raw",direct,1,0,544.0,False,86.021,14.67,0.96,3.57,0.0,0.0,0.0,17.0,303.75,26.75,20.75,0.838,108.25,0.262
+clove,clove,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, cloves, ground",direct,1,0,179.0,False,273.831,5.97,13.0,65.53,33.9,2.38,0.0,0.0,142.75,1020.0,632.0,12.312,104.0,1.562
+cocoa,cocoa,recipe_curated,plant derivative,Cocoa and cocoa products,Cocoa products,USDA,"Cocoa, dry powder, unsweetened",direct,1,0,707.0,False,227.767,19.6,13.7,57.9,33.2,1.75,0.0,0.0,21.0,1524.0,128.0,13.86,734.0,6.81
+coconut,coconut,recipe_curated,nut/seed/pulse,Fruits,Tropical fruits,USDA,"Nuts, coconut meat, raw",direct,1,0,341.0,False,353.984,3.33,33.49,15.23,9.0,6.23,0.0,0.0,20.0,356.0,14.0,2.43,113.0,1.1
+coconut_oil,coconut_oil,recipe_curated,plant derivative,Fruits,Tropical fruits,USDA,"Oil, coconut",direct,1,0,341.0,False,862.047,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.032,0.0,0.002
+cod,cod,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, cod, Atlantic, raw",direct,1,0,343.0,False,81.989,17.81,0.67,0.0,0.0,0.0,0.0,43.0,54.0,413.0,16.0,0.38,203.0,0.45
+coffee,coffee,recipe_curated,plant derivative,Coffee and coffee products,Coffee,USDA,"Coffee, brewed from grounds, prepared with tap water",direct,1,0,58.0,False,0.739,0.12,0.02,0.0,0.0,0.0,0.0,0.0,2.0,49.0,2.0,0.01,3.0,0.02
+cognac,cognac,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+concord_grape,concord_grape,recipe_curated,fruit,Fruits,Berries,USDA,"Grapes, american type (slip skin), raw",direct,1,0,374.0,False,66.961,0.63,0.35,17.15,0.9,16.25,0.0,0.0,2.0,191.0,14.0,0.29,10.0,0.04
+coriander,coriander,recipe_curated,spice,Herbs and Spices,Herbs,USDA,"Spices, coriander seed",direct,1,1,61.0,False,297.781,12.37,17.77,54.99,41.9,2.315,0.0,0.0,35.0,1267.0,709.0,16.32,409.0,4.7
+corn,corn,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Corn, sweet, yellow, raw",direct,1,0,205.0,False,86.021,3.27,1.35,18.7,2.0,6.26,0.0,0.0,15.0,270.0,2.0,0.52,89.0,0.46
+corn_flake,corn_flake,recipe_curated,cereal/crop,Cereals and cereal products,Cereal products,USDA,"Cereals ready-to-eat, corn flakes, low sodium",proxy,1,0,270.0,False,398.831,7.7,0.3,88.8,1.1,6.11,0.0,0.0,10.0,73.0,43.0,2.22,49.0,0.27
+corn_grit,corn_grit,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Cereals, corn grits, white, regular and quick, enriched, dry",direct,1,0,205.0,False,370.11,7.65,1.75,79.09,4.6,0.57,0.0,0.0,1.0,141.0,4.0,3.05,111.0,0.72
+cottage_cheese,cottage_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, cottage, creamed, large or small curd",direct,1,0,631.0,False,98.235,11.12,4.3,3.38,0.0,2.67,0.0,17.0,364.0,104.0,83.0,0.07,159.0,0.4
+crab,crab,recipe_curated,fish/seafood,Aquatic foods,Crustaceans,USDA,"Crustaceans, crab, blue, raw",direct,1,0,306.0,False,86.999,18.06,1.08,0.04,0.0,0.0,0.0,78.0,293.0,329.0,89.0,0.74,229.0,3.54
+cranberry,cranberry,recipe_curated,fruit,Fruits,Berries,USDA,"Cranberries, raw",direct,1,0,192.0,False,46.184,0.39,0.13,12.2,4.6,4.04,0.0,0.0,2.0,85.0,8.0,0.25,13.0,0.1
+cream,cream,recipe_curated,dairy,Milk and milk products,Other milk products,USDA,"Cream, fluid, heavy whipping",direct,1,0,669.0,False,344.943,2.05,37.0,2.79,0.0,0.11,0.0,71.25,21.25,41.25,34.0,0.073,32.5,0.128
+cream_cheese,cream_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, cream",direct,1,0,631.0,False,342.009,5.93,34.24,4.07,0.0,3.21,0.0,110.0,321.0,138.0,98.0,0.38,106.0,0.51
+cucumber,cucumber,recipe_curated,vegetable,Gourds,Gourds,USDA,"Cucumber, with peel, raw",direct,1,0,65.0,False,15.268,0.65,0.11,3.63,0.5,1.67,0.0,0.0,2.0,73.5,8.0,0.14,12.0,0.1
+cumin,cumin,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, cumin seed",direct,1,0,67.0,False,374.761,17.81,22.27,44.24,10.5,2.25,0.0,0.0,168.0,1788.0,931.0,66.36,499.0,4.8
+cured_pork,cured_pork,recipe_curated,meat,Animal foods,Swine,USDA,"Pork, cured, salt pork, raw",direct,1,0,549.0,False,748.044,5.05,80.5,0.0,0.0,0.0,0.0,86.0,1424.0,66.0,6.0,0.44,52.0,0.9
+currant,currant,recipe_curated,fruit,Fruits,Berries,USDA,"Currants, red and white, raw",direct,1,0,156.0,False,55.964,1.4,0.2,13.8,4.3,7.37,0.0,0.0,1.0,275.0,33.0,1.0,44.0,0.23
+date,date,recipe_curated,fruit,Fruits,Other fruits,USDA,"Dates, medjool",direct,1,1,135.0,False,277.123,1.81,0.15,74.97,6.7,66.47,0.0,0.0,0.75,350.75,34.25,0.505,32.0,0.225
+dill,dill,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Dill weed, fresh",direct,1,1,13.0,False,43.011,3.46,1.12,7.02,2.1,0.87,0.0,0.0,61.0,738.0,208.0,6.59,66.0,0.91
+durian,durian,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Durian, raw or frozen",direct,1,1,360.0,False,146.994,1.47,5.33,27.09,3.8,9.35,0.0,0.0,2.0,226.25,3.5,0.228,19.75,0.192
+eel,eel,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, eel, mixed species, raw",direct,1,0,362.0,False,184.017,18.44,11.66,0.0,0.0,0.0,0.0,126.0,51.0,272.0,20.0,0.5,216.0,1.62
+egg,egg,recipe_curated,animal product,Eggs,Eggs,USDA,"Egg, whole, raw, fresh",direct,1,0,633.0,False,143.082,12.56,9.51,0.72,0.0,0.37,0.0,372.0,142.0,138.0,56.0,1.75,198.0,1.29
+egg_noodle,egg_noodle,recipe_curated,cereal/crop,Cereals and cereal products,Cereal products,USDA,"Noodles, egg, dry, enriched",direct,1,0,274.0,False,384.28,14.16,4.44,71.27,3.3,1.88,0.0,84.0,21.0,244.0,35.0,4.01,241.0,1.92
+elderberry,elderberry,recipe_curated,fruit,Fruits,Berries,USDA,"Elderberries, raw",direct,1,1,363.0,False,72.948,0.66,0.5,18.4,7.0,9.35,0.0,0.0,6.0,280.0,38.0,1.6,39.0,0.11
+emmental_cheese,emmental_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, swiss",proxy,1,0,631.0,False,380.129,26.93,27.8,5.38,0.0,1.32,0.0,3.0,52.0,20.0,48.0,0.045,20.5,0.205
+endive,endive,recipe_curated,vegetable,Vegetables,Leaf vegetables,USDA,"Endive, raw",direct,1,0,48.0,False,16.985,1.25,0.2,3.35,3.1,0.25,0.0,0.0,22.0,314.0,52.0,0.83,28.0,0.79
+enokidake,enokidake,recipe_curated,vegetable,Vegetables,Mushrooms,USDA,"Mushrooms, enoki, raw",direct,1,0,565.0,False,36.784,2.66,0.29,7.81,2.7,0.22,0.0,0.0,3.0,359.0,0.0,1.15,105.0,0.65
+fennel,fennel,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Fennel, bulb, raw",direct,1,1,82.0,False,31.035,1.24,0.2,7.29,3.1,0.87,0.0,0.0,52.0,414.0,49.0,0.73,50.0,0.2
+fenugreek,fenugreek,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spices, fenugreek seed",direct,1,1,186.0,False,323.068,23.0,6.41,58.35,24.6,0.87,0.0,0.0,67.0,770.0,176.0,33.53,296.0,2.5
+feta_cheese,feta_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, feta",direct,1,0,631.0,False,263.812,14.21,21.28,4.09,0.0,4.09,0.0,89.0,1127.5,62.0,493.0,0.65,337.0,2.88
+fig,fig,recipe_curated,fruit,Fruits,Other fruits,USDA,"Figs, raw",direct,1,0,81.0,False,74.046,0.75,0.3,19.18,2.9,16.26,0.0,0.0,1.0,232.0,35.0,0.37,14.0,0.15
+fish,fish,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, cod, Atlantic, raw",proxy,1,0,343.0,False,81.989,17.81,0.67,0.0,0.0,0.0,0.0,43.0,54.0,413.0,16.0,0.38,203.0,0.45
+frankfurter,frankfurter,recipe_curated,meat,Dishes,Ground meat,USDA,"Frankfurter, beef, unheated",direct,1,0,671.0,False,312.929,11.18,27.8,3.72,0.0,1.3,0.0,55.0,1037.0,290.0,13.0,1.25,155.0,2.06
+galanga,galanga,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Ginger root, raw",proxy,1,0,206.0,False,79.794,1.82,0.75,17.77,2.0,1.7,0.0,0.0,6.5,207.5,8.75,0.348,20.75,0.17
+garlic,garlic,recipe_curated,vegetable,Herbs and Spices,Herbs,USDA,"Garlic, raw",direct,1,0,8.0,False,148.95,6.36,0.5,33.06,2.1,1.0,0.0,0.0,17.0,401.0,181.0,1.7,153.0,1.16
+gelatin,gelatin,recipe_curated,animal product,Confectioneries,Desserts,USDA,"Gelatins, dry powder, unsweetened",direct,1,0,750.0,False,335.043,85.6,0.1,0.0,0.0,0.0,0.0,0.0,196.0,16.0,55.0,1.11,39.0,0.14
+gin,gin,recipe_curated,alcoholic beverage,Beverages,Distilled beverages,USDA,"Alcoholic beverage, distilled, gin, 90 proof",direct,1,0,642.0,False,262.953,0.0,0.0,0.0,0.0,0.0,37.9,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+ginger,ginger,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Ginger root, raw",direct,1,0,206.0,False,79.794,1.82,0.75,17.77,2.0,1.7,0.0,0.0,6.5,207.5,8.75,0.348,20.75,0.17
+goat_cheese,goat_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, goat, soft type",direct,1,0,631.0,False,267.963,18.52,21.08,0.89,0.0,0.89,0.0,46.0,368.0,26.0,140.0,1.9,256.0,0.92
+grape,grape,recipe_curated,fruit,Fruits,Berries,USDA,"Grapes, red or green (European type, such as Thompson seedless), raw",direct,1,0,204.0,False,68.917,0.72,0.16,18.1,0.9,15.48,0.0,0.0,3.25,135.0,7.75,0.428,13.5,0.08
+grape_brandy,grape_brandy,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+grape_juice,grape_juice,recipe_curated,fruit,Fruits,Berries,USDA,"Grape juice, canned or bottled, unsweetened, without added ascorbic acid",direct,1,0,374.0,False,60.115,0.37,0.13,14.77,0.2,14.2,0.0,0.0,5.0,104.0,11.0,0.25,14.0,0.07
+grapefruit,grapefruit,recipe_curated,fruit,Fruits,Citrus,USDA,"Grapefruit, raw, pink and red, all areas",direct,1,0,256.0,False,42.033,0.77,0.14,10.66,1.6,6.89,0.0,0.0,0.0,85.0,16.0,0.053,10.25,0.048
+green_bell_pepper,green_bell_pepper,recipe_curated,vegetable,Vegetables,Fruit vegetables,USDA,"Peppers, sweet, green, raw",direct,1,0,40.0,False,20.038,0.86,0.17,4.64,1.7,2.4,0.0,0.0,3.0,175.0,10.0,0.34,20.0,0.13
+green_tea,green_tea,recipe_curated,plant derivative,Teas,Teas,USDA,"Tea, black, brewed, prepared with tap water",proxy,1,0,38.0,False,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02
+gruyere_cheese,gruyere_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, gruyere",direct,1,0,631.0,False,413.001,29.81,32.34,0.36,0.0,0.36,0.0,110.0,336.0,81.0,1011.0,0.17,605.0,3.9
+guava,guava,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Guavas, common, raw",direct,1,0,150.0,False,68.058,2.55,0.95,14.32,5.4,8.92,0.0,0.0,1.5,230.0,9.25,0.16,21.75,0.138
+haddock,haddock,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, haddock, raw",direct,1,0,379.0,False,73.926,16.32,0.45,0.0,0.0,0.0,0.0,6.0,188.0,84.0,5.0,0.055,79.0,0.05
+ham,ham,recipe_curated,meat,Animal foods,Swine,USDA,"Ham, sliced, regular (approximately 11% fat)",direct,1,0,549.0,False,163.12,16.6,8.6,3.83,1.3,0.0,0.0,57.0,1304.0,287.0,24.0,1.02,153.0,1.35
+hazelnut,hazelnut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, hazelnuts or filberts",direct,1,0,381.0,False,628.173,14.95,60.75,16.7,9.7,4.34,0.0,0.0,0.5,17.5,2.5,0.15,10.0,0.05
+herring,herring,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, herring, Atlantic, raw",direct,1,0,293.0,False,157.991,17.96,9.04,0.0,0.0,0.0,0.0,60.0,90.0,327.0,57.0,1.1,236.0,0.99
+holy_basil,holy_basil,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Basil, fresh",proxy,1,0,119.0,False,22.733,3.15,0.64,2.65,1.6,0.3,0.0,0.0,2.25,256.75,102.75,3.17,35.25,0.565
+honey,honey,recipe_curated,animal product,Confectioneries,Other confectioneries,USDA,Honey,direct,1,0,643.0,False,304.008,0.3,0.0,82.4,0.2,82.12,0.0,0.0,4.0,52.0,6.0,0.42,4.0,0.22
+horseradish,horseradish,recipe_curated,plant derivative,Herbs and Spices,Spices,USDA,"Horseradish, prepared",direct,1,0,18.0,False,48.02,1.18,0.69,11.29,3.3,7.99,0.0,0.0,367.0,246.0,56.0,0.42,31.0,0.83
+huckleberry,huckleberry,recipe_curated,fruit,Fruits,Berries,USDA,"Huckleberries, raw (Alaska Native)",direct,1,6,385.0,False,37.142,0.4,0.1,8.7,2.4,9.35,0.0,0.0,10.0,151.0,15.0,0.3,14.25,0.104
+jamaican_rum,jamaican_rum,recipe_curated,alcoholic beverage,Beverages,Distilled beverages,USDA,"Alcoholic beverage, distilled, rum, 80 proof",direct,1,0,646.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.12,5.0,0.07
+japanese_plum,japanese_plum,recipe_curated,fruit,Fruits,Drupes,USDA,"Plums, raw",proxy,1,0,147.0,False,45.945,0.7,0.28,11.42,1.4,9.92,0.0,0.0,0.5,102.5,8.5,0.215,12.0,0.115
+jasmine_tea,jasmine_tea,recipe_curated,plant derivative,Teas,Teas,USDA,"Tea, black, brewed, prepared with tap water",proxy,1,0,38.0,False,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02
+kale,kale,recipe_curated,vegetable,Vegetables,Cabbages,USDA,"Kale, raw",direct,1,1,30.0,False,49.857,3.3,0.7,10.01,2.0,2.04,0.0,0.0,44.25,245.5,87.0,1.56,31.75,0.312
+kelp,kelp,recipe_curated,vegetable,Aquatic foods,Seaweed,USDA,"Seaweed, kelp, raw",direct,1,0,396.0,False,43.011,1.68,0.56,9.57,1.3,0.6,0.0,0.0,233.0,89.0,168.0,2.85,42.0,1.23
+kidney_bean,kidney_bean,recipe_curated,vegetable,Pulses,Beans,USDA,"Beans, kidney, red, mature seeds, raw",direct,1,0,134.0,False,336.76,22.53,1.06,61.29,15.2,2.1,0.0,0.0,12.0,1359.0,83.0,6.69,406.0,2.79
+kiwi,kiwi,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Kiwifruit, green, raw",direct,1,0,4.0,False,60.973,1.14,0.52,14.66,3.0,8.99,0.0,0.0,3.0,208.25,22.75,0.198,20.75,0.092
+kohlrabi,kohlrabi,recipe_curated,vegetable,Vegetables,Root vegetables,USDA,"Kohlrabi, raw",direct,1,0,33.0,False,27.004,1.7,0.1,6.2,3.6,2.6,0.0,0.0,20.0,350.0,24.0,0.4,46.0,0.03
+kumquat,kumquat,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Kumquats, raw",direct,1,0,398.0,False,70.873,1.88,0.86,15.9,6.5,9.36,0.0,0.0,5.5,96.5,38.5,0.492,11.0,0.12
+lamb,lamb,recipe_curated,meat,Animal foods,Ovis,DTU,"Lamb, meat, average values, raw",direct,1,2,483.0,False,332.9,14.6,30.5,0.0,0.0,0.0,0.0,72.0,66.0,218.0,20.0,1.5,158.0,3.42
+lard,lard,recipe_curated,animal product,Fats and oils,Animal fats,USDA,Lard,direct,1,0,703.0,False,902.004,0.0,100.0,0.0,0.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0,0.11
+laurel,laurel,recipe_curated,plant,Herbs and Spices,Herbs,USDA,"Spices, bay leaf",proxy,1,1,97.0,False,313.288,7.61,8.36,74.97,26.3,1.6,0.0,0.0,23.0,529.0,834.0,43.0,113.0,3.7
+leek,leek,recipe_curated,vegetable,Vegetables,Onion-family vegetables,USDA,"Leeks, (bulb and lower leaf-portion), raw",direct,1,0,401.0,False,60.973,1.5,0.3,14.15,1.8,3.9,0.0,0.0,20.0,180.0,59.0,2.1,35.0,0.12
+lemon,lemon,recipe_curated,fruit,Fruits,Citrus,USDA,"Lemons, raw, without peel",direct,1,0,54.0,False,28.96,1.1,0.3,9.32,2.8,2.5,0.0,0.0,2.0,138.0,26.0,0.6,16.0,0.06
+lemon_juice,lemon_juice,recipe_curated,fruit,Fruits,Citrus,USDA,"Lemon juice, raw",direct,1,0,54.0,False,21.875,0.35,0.24,6.9,0.3,2.52,0.0,0.0,1.0,103.0,6.0,0.08,8.0,0.05
+lemon_peel,lemon_peel,recipe_curated,plant,Fruits,Citrus,USDA,"Lemon peel, raw",direct,1,0,54.0,False,47.042,1.5,0.3,16.0,10.6,4.17,0.0,0.0,6.0,160.0,134.0,0.8,12.0,0.25
+lemongrass,lemongrass,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Lemon grass (citronella), raw",direct,1,2,70.0,False,98.974,1.82,0.49,25.31,8.0,0.87,0.0,0.0,6.0,723.0,65.0,8.17,101.0,2.23
+lentil,lentil,recipe_curated,nut/seed/pulse,Pulses,Lentils,USDA,"Lentils, raw",direct,1,0,98.0,False,353.006,25.8,1.06,60.08,30.5,2.03,0.0,0.0,3.5,183.0,20.5,10.62,98.0,2.46
+lettuce,lettuce,recipe_curated,vegetable,Vegetables,Leaf vegetables,USDA,"Lettuce, green leaf, raw",direct,1,0,95.0,False,14.909,1.36,0.15,2.87,1.3,0.78,0.0,0.0,28.0,194.0,36.0,0.86,29.0,0.18
+lima_bean,lima_bean,recipe_curated,vegetable,Pulses,Beans,USDA,"Lima beans, large, mature seeds, raw",direct,1,0,133.0,False,337.977,21.46,0.69,63.38,19.0,8.5,0.0,0.0,18.0,1724.0,81.0,7.51,385.0,2.83
+lime,lime,recipe_curated,fruit,Fruits,Citrus,USDA,"Limes, raw",direct,1,0,557.0,False,30.057,0.7,0.2,10.54,2.8,1.69,0.0,0.0,2.0,102.0,33.0,0.6,18.0,0.11
+lime_juice,lime_juice,recipe_curated,fruit,Fruits,Citrus,USDA,"Lime juice, raw",direct,1,0,557.0,False,24.928,0.42,0.07,8.42,0.4,1.69,0.0,0.0,2.0,117.0,14.0,0.09,14.0,0.08
+lingonberry,lingonberry,recipe_curated,fruit,Fruits,Berries,USDA,"Cranberries, raw",proxy,1,0,192.0,False,46.184,0.39,0.13,12.2,4.6,4.04,0.0,0.0,2.0,85.0,8.0,0.25,13.0,0.1
+litchi,litchi,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Litchis, raw",direct,1,0,103.0,False,65.983,0.83,0.44,16.53,1.3,15.23,0.0,0.0,1.0,171.0,5.0,0.31,31.0,0.07
+liver,liver,recipe_curated,meat,Animal foods,Bovines,USDA,"Beef, variety meats and by-products, liver, raw",proxy,1,0,506.0,False,134.9,20.36,3.63,3.89,0.0,0.0,0.0,275.0,69.0,313.0,5.0,4.9,387.0,4.0
+lobster,lobster,recipe_curated,fish/seafood,Aquatic foods,Crustaceans,USDA,"Crustaceans, lobster, northern, raw",direct,1,0,404.0,False,77.219,16.52,0.75,0.0,0.0,0.0,0.0,127.0,423.0,200.0,84.0,0.26,161.0,3.53
+macadamia_nut,macadamia_nut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, macadamia nuts, raw",direct,1,0,536.0,False,717.987,7.91,75.77,13.82,8.6,4.57,0.0,0.0,1.5,14.5,15.5,1.04,16.5,0.135
+macaroni,macaroni,recipe_curated,cereal/crop,Cereals and cereal products,Cereal products,USDA,"Macaroni, dry, enriched",direct,1,0,274.0,False,371.088,13.04,1.51,74.67,3.2,2.67,0.0,0.0,6.0,223.0,21.0,3.3,189.0,1.41
+mace,mace,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, mace, ground",direct,1,1,118.0,False,475.191,6.71,32.38,50.5,20.2,2.315,0.0,0.0,80.0,463.0,252.0,13.9,110.0,2.3
+mackerel,mackerel,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, mackerel, Atlantic, raw",direct,1,0,294.0,False,205.033,18.6,13.89,0.0,0.0,0.0,0.0,70.0,90.0,314.0,12.0,1.63,217.0,0.63
+malt,malt,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,Barley malt flour,direct,1,0,88.0,False,360.949,10.28,1.84,78.3,7.1,0.8,0.0,0.0,11.0,224.0,37.0,4.71,303.0,2.06
+mandarin,mandarin,recipe_curated,fruit,Fruits,Citrus,USDA,"Tangerines, (mandarin oranges), raw",direct,1,0,56.0,False,53.149,0.81,0.31,13.34,1.8,10.58,0.0,0.0,2.0,99.5,23.25,0.1,11.25,0.04
+mandarin_peel,mandarin_peel,recipe_curated,plant,Fruits,Citrus,USDA,"Orange peel, raw",proxy,1,1,57.0,False,96.899,1.5,0.2,25.0,10.6,1.6,0.0,0.0,3.0,212.0,161.0,0.8,21.0,0.25
+mango,mango,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Mangos, raw",direct,1,0,106.0,False,59.876,0.82,0.38,14.98,1.6,13.66,0.0,0.0,1.25,106.75,7.75,0.16,9.0,0.068
+maple_syrup,maple_syrup,recipe_curated,plant derivative,Baking goods,Baking goods,USDA,"Syrups, maple",direct,1,0,695.0,False,260.019,0.04,0.06,67.04,0.0,60.44,0.0,0.0,12.0,212.0,102.0,0.11,2.0,1.47
+marjoram,marjoram,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spices, marjoram, dried",direct,1,0,122.0,False,271.255,12.66,7.04,60.56,40.3,4.09,0.0,0.0,77.0,1522.0,1990.0,82.71,306.0,3.6
+matsutake,matsutake,recipe_curated,vegetable,Vegetables,Mushrooms,USDA,"Mushrooms, white, raw",proxy,1,0,561.0,False,22.114,2.635,0.34,3.26,1.0,1.98,0.0,0.0,5.0,318.0,3.0,0.5,86.0,0.52
+meat,meat,recipe_curated,meat,Animal foods,Bovines,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",proxy,1,0,506.0,False,253.912,17.17,20.0,0.0,0.0,0.0,0.0,71.0,67.0,270.0,18.0,1.94,158.0,4.18
+melon,melon,recipe_curated,fruit,Gourds,Gourds,USDA,"Melons, cantaloupe, raw",direct,1,0,64.0,False,33.85,0.84,0.19,8.16,0.9,7.86,0.0,0.0,20.0,181.0,6.75,0.215,10.75,0.315
+milk,milk,recipe_curated,dairy,Milk and milk products,Unfermented milks,USDA,"Milk, whole, 3.25% milkfat, with added vitamin D",direct,1,0,632.0,False,60.973,3.15,3.25,4.8,0.0,5.05,0.0,10.0,43.0,132.0,113.0,0.03,84.0,0.37
+milk_fat,milk_fat,recipe_curated,dairy,Milk and milk products,Other milk products,USDA,"Butter oil, anhydrous",direct,1,0,785.0,False,875.859,0.28,99.48,0.0,0.0,0.0,0.0,256.0,2.0,5.0,4.0,0.0,3.0,0.01
+mint,mint,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Peppermint, fresh",proxy,1,1,113.0,False,70.014,3.75,0.94,14.89,8.0,0.87,0.0,0.0,31.0,569.0,243.0,5.08,73.0,1.11
+mozzarella_cheese,mozzarella_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, mozzarella, whole milk",direct,1,0,631.0,False,299.857,22.17,22.35,2.19,0.0,1.03,0.0,79.0,627.0,76.0,505.0,0.44,354.0,2.92
+mung_bean,mung_bean,recipe_curated,vegetable,Pulses,Beans,USDA,"Mung beans, mature seeds, raw",direct,1,0,200.0,False,347.018,23.86,1.15,62.62,16.3,6.6,0.0,0.0,15.0,1246.0,132.0,6.74,367.0,2.68
+munster_cheese,munster_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, muenster",direct,1,0,631.0,False,368.154,23.41,30.04,1.12,0.0,1.12,0.0,96.0,628.0,134.0,717.0,0.41,468.0,2.81
+muscat_grape,muscat_grape,recipe_curated,fruit,Fruits,Berries,USDA,"Grapes, red or green (European type, such as Thompson seedless), raw",proxy,1,0,204.0,False,68.917,0.72,0.16,18.1,0.9,15.48,0.0,0.0,3.25,135.0,7.75,0.428,13.5,0.08
+mushroom,mushroom,recipe_curated,vegetable,Vegetables,Mushrooms,USDA,"Mushrooms, white, raw",direct,1,0,561.0,False,22.114,2.635,0.34,3.26,1.0,1.98,0.0,0.0,5.0,318.0,3.0,0.5,86.0,0.52
+mussel,mussel,recipe_curated,fish/seafood,Aquatic foods,Mollusks,USDA,"Mollusks, mussel, blue, raw",direct,1,0,307.0,False,86.021,11.9,2.24,3.69,0.0,0.0,0.0,28.0,286.0,320.0,26.0,3.95,197.0,1.6
+mustard,mustard,recipe_curated,plant derivative,Herbs and Spices,Spices,USDA,"Mustard, prepared, yellow",direct,1,0,420.0,False,66.722,4.37,4.01,5.33,3.3,0.86,0.0,0.0,1135.0,138.0,58.0,1.51,106.0,0.64
+mutton,mutton,recipe_curated,meat,Fats and oils,Animal fats,DTU,"Mutton, shoulder, raw",direct,1,2,696.0,False,227.8,18.7,17.0,0.0,0.0,0.0,0.0,72.0,84.0,301.0,7.5,1.8,158.0,3.5
+nectarine,nectarine,recipe_curated,fruit,Fruits,Drupes,USDA,"Nectarines, raw",direct,1,0,229.0,False,44.108,1.06,0.32,10.55,1.7,7.89,0.0,0.0,3.0,123.5,4.5,0.22,15.0,0.128
+nira,nira,recipe_curated,vegetable,Herbs and Spices,Herbs,USDA,"Chives, raw",proxy,1,0,9.0,False,30.057,3.27,0.73,4.35,2.5,1.85,0.0,0.0,3.0,296.0,92.0,1.6,58.0,0.56
+nut,nut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",proxy,1,1,796.0,False,593.965,17.3,51.45,25.35,9.0,4.06,0.0,0.0,12.0,597.0,70.0,3.7,435.0,3.8
+nutmeg,nutmeg,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, nutmeg, ground",direct,1,0,118.0,False,524.928,5.84,36.31,49.29,20.8,28.49,0.0,0.0,16.0,350.0,184.0,3.04,213.0,2.15
+oat,oat,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,Oats,direct,1,1,22.0,False,389.051,16.89,6.9,66.27,10.6,1.1,0.0,0.0,2.0,429.0,54.0,4.72,523.0,3.97
+oatmeal,oatmeal,recipe_curated,cereal/crop,Cereals and cereal products,Cereal products,USDA,"Cereals, oats, regular and quick, not fortified, dry",direct,1,0,270.0,False,379.032,13.15,6.52,67.7,10.1,0.99,0.0,0.0,6.0,362.0,52.0,4.25,410.0,3.64
+octopus,octopus,recipe_curated,fish/seafood,Aquatic foods,Mollusks,USDA,"Mollusks, octopus, common, raw",direct,1,0,344.0,False,81.989,14.91,1.04,2.2,0.0,0.0,0.0,48.0,230.0,350.0,53.0,5.3,186.0,1.68
+okra,okra,recipe_curated,fruit,Vegetables,Other vegetables,USDA,"Okra, raw",direct,1,0,427.0,False,30.916,2.0,0.1,7.03,3.2,1.2,0.0,0.0,6.0,167.0,50.25,0.49,33.5,0.305
+olive,olive,recipe_curated,fruit,Vegetables,Fruit vegetables,USDA,"Olives, ripe, canned (small-extra large)",direct,1,0,121.0,False,114.981,0.84,10.68,6.26,3.2,0.0,0.0,0.0,735.0,8.0,88.0,3.3,3.0,0.22
+olive_oil,olive_oil,recipe_curated,plant derivative,Vegetables,Fruit vegetables,USDA,"Oil, olive, salad or cooking",direct,1,0,121.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.56,0.0,0.0
+onion,onion,recipe_curated,vegetable,Vegetables,Onion-family vegetables,USDA,"Onions, raw",direct,1,0,5.0,False,39.837,1.1,0.1,9.34,1.7,4.24,0.0,0.0,3.5,72.0,13.0,0.275,13.5,0.105
+orange,orange,recipe_curated,fruit,Fruits,Citrus,USDA,"Oranges, raw, all commercial varieties",direct,1,0,57.0,False,47.042,0.94,0.12,11.75,2.4,9.35,0.0,0.0,0.0,181.0,40.0,0.1,14.0,0.07
+orange_juice,orange_juice,recipe_curated,fruit,Fruits,Citrus,USDA,"Orange juice, raw",direct,1,0,57.0,False,44.967,0.7,0.2,10.4,0.2,8.4,0.0,0.0,1.0,200.0,11.0,0.2,17.0,0.05
+orange_peel,orange_peel,recipe_curated,plant,Fruits,Citrus,USDA,"Orange peel, raw",direct,1,1,57.0,False,96.899,1.5,0.2,25.0,10.6,1.6,0.0,0.0,3.0,212.0,161.0,0.8,21.0,0.25
+oregano,oregano,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spices, oregano, dried",direct,1,0,124.0,False,264.79,9.0,4.28,68.92,42.5,4.09,0.0,0.0,10.5,70.0,45.0,8.2,9.0,1.3
+ouzo,ouzo,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+oyster,oyster,recipe_curated,fish/seafood,Aquatic foods,Mollusks,USDA,"Mollusks, oyster, eastern, wild, raw",direct,1,0,361.0,False,50.954,5.71,1.71,2.72,0.0,0.62,0.0,40.0,85.0,156.0,59.0,4.61,97.0,39.3
+palm,palm,recipe_curated,plant,Vegetables,Other vegetables,USDA,"Hearts of palm, raw",proxy,1,6,743.0,False,96.899,1.5,0.25,25.0,10.6,1.6,0.0,0.0,14.0,1806.0,18.0,1.69,140.0,3.73
+papaya,papaya,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Papayas, raw",direct,1,0,41.0,False,42.891,0.47,0.26,10.82,1.7,7.82,0.0,0.0,9.0,124.25,15.5,0.255,8.75,0.055
+parmesan_cheese,parmesan_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, parmesan, hard",direct,1,0,631.0,False,392.104,35.75,25.83,3.22,0.0,0.8,0.0,68.0,1602.0,92.0,1184.0,0.82,694.0,2.75
+parsley,parsley,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Parsley, fresh",direct,1,0,131.0,False,36.045,2.97,0.79,6.33,3.3,0.85,0.0,0.0,56.0,554.0,138.0,6.2,58.0,1.07
+parsnip,parsnip,recipe_curated,vegetable,Vegetables,Root vegetables,USDA,"Parsnips, raw",direct,1,0,129.0,False,75.024,1.2,0.3,17.99,4.9,4.8,0.0,0.0,10.0,375.0,36.0,0.59,71.0,0.59
+passion_fruit,passion_fruit,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Passion-fruit, (granadilla), purple, raw",direct,1,0,128.0,False,97.018,2.2,0.7,23.38,10.4,11.2,0.0,0.0,28.0,348.0,12.0,1.6,68.0,0.1
+pea,pea,recipe_curated,vegetable,Pulses,Peas,USDA,"Peas, green, raw",direct,1,0,141.0,False,81.011,5.42,0.4,14.45,5.1,5.67,0.0,0.0,5.0,244.0,25.0,1.47,108.0,1.24
+peach,peach,recipe_curated,fruit,Fruits,Drupes,USDA,"Peaches, yellow, raw",direct,1,7,149.0,False,52.72,0.81,0.29,12.66,2.4,9.35,0.0,0.0,10.5,50.0,4.0,0.15,2.5,0.055
+peanut,peanut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Peanuts, all types, raw",direct,1,0,16.0,False,567.2,25.8,49.24,16.13,8.5,3.97,0.0,0.0,18.0,705.0,92.0,4.58,376.0,3.27
+peanut_butter,peanut_butter,recipe_curated,plant derivative,Nuts,Nuts,USDA,"Peanut butter, smooth style, without salt",direct,1,0,16.0,False,588.216,25.09,50.39,19.56,6.0,9.22,0.0,0.0,17.0,649.0,43.0,1.87,358.0,2.91
+peanut_oil,peanut_oil,recipe_curated,plant derivative,Nuts,Nuts,USDA,"Oil, peanut, salad or cooking",direct,1,0,16.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.01
+pear,pear,recipe_curated,fruit,Fruits,Pomes,USDA,"Pears, raw",direct,1,0,152.0,False,57.92,0.38,0.12,15.46,3.1,9.8,0.0,0.0,1.0,119.0,9.0,0.17,11.0,0.1
+pear_brandy,pear_brandy,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+pecan,pecan,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, pecans",direct,1,0,44.0,False,690.744,9.17,71.97,13.86,9.6,3.97,0.0,0.0,0.0,219.25,38.75,1.49,153.5,2.365
+pepper,pepper,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, pepper, black",proxy,1,0,139.0,False,250.978,10.39,3.26,63.95,25.3,0.64,0.0,0.0,13.5,1045.5,302.0,9.568,92.25,0.84
+peppermint,peppermint,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Peppermint, fresh",direct,1,1,113.0,False,70.014,3.75,0.94,14.89,8.0,0.87,0.0,0.0,31.0,569.0,243.0,5.08,73.0,1.11
+pimenta,pimenta,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, allspice, ground",direct,1,1,288.0,False,262.834,6.09,8.69,72.12,21.6,2.315,0.0,0.0,77.0,1044.0,661.0,7.06,113.0,1.01
+pimento,pimento,recipe_curated,spice,Vegetables,Fruit vegetables,USDA,"Pimento, canned",direct,1,0,40.0,False,22.972,1.1,0.3,5.1,1.9,2.71,0.0,0.0,14.0,158.0,6.0,1.68,17.0,0.19
+pineapple,pineapple,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Pineapple, raw, all varieties",direct,1,0,12.0,False,49.976,0.54,0.12,13.12,1.4,9.85,0.0,0.0,1.0,74.75,9.75,0.248,7.0,0.088
+pistachio,pistachio,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, pistachio nuts, raw",direct,1,0,140.0,False,562.071,20.27,45.39,27.51,10.3,7.66,0.0,0.0,0.75,564.75,58.25,2.355,490.0,2.2
+plum,plum,recipe_curated,fruit,Fruits,Drupes,USDA,"Plums, raw",direct,1,0,147.0,False,45.945,0.7,0.28,11.42,1.4,9.92,0.0,0.0,0.5,102.5,8.5,0.215,12.0,0.115
+popcorn,popcorn,recipe_curated,cereal/crop,Snack foods,Snack foods,USDA,"Snacks, popcorn, air-popped",direct,1,0,744.0,False,387.095,12.94,4.54,77.9,14.5,0.87,0.0,0.0,8.0,329.0,7.0,3.19,358.0,3.08
+porcini,porcini,recipe_curated,vegetable,Vegetables,Mushrooms,USDA,"Mushrooms, white, raw",proxy,1,0,561.0,False,22.114,2.635,0.34,3.26,1.0,1.98,0.0,0.0,5.0,318.0,3.0,0.5,86.0,0.52
+pork,pork,recipe_curated,meat,Animal foods,Swine,USDA,"Pork, fresh, ground, raw",direct,1,0,549.0,False,262.953,16.88,21.19,0.0,0.0,0.0,0.0,72.0,56.0,287.0,14.0,0.88,175.0,2.2
+pork_liver,pork_liver,recipe_curated,meat,Animal foods,Swine,USDA,"Pork, fresh, variety meats and by-products, liver, raw",direct,1,0,549.0,False,134.041,21.39,3.65,2.47,0.0,0.0,0.0,301.0,87.0,273.0,9.0,23.3,288.0,5.76
+pork_sausage,pork_sausage,recipe_curated,meat,Dishes,Ground meat,USDA,"Pork sausage, fresh, raw",direct,1,0,671.0,False,303.888,15.09,26.53,0.0,0.0,0.0,0.0,72.0,636.0,248.0,9.0,1.11,135.0,2.17
+port_wine,port_wine,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, wine, dessert, sweet",proxy,1,0,626.0,False,160.186,0.2,0.0,13.69,0.0,7.78,15.3,0.0,9.0,92.0,8.0,0.24,9.0,0.07
+potato,potato,recipe_curated,vegetable,Vegetables,Tubers,USDA,"Potatoes, white, flesh and skin, raw",direct,1,0,175.0,False,68.917,1.68,0.1,15.71,2.4,1.15,0.0,0.0,16.0,407.0,9.0,0.52,62.0,0.29
+potato_chip,potato_chip,recipe_curated,vegetable,Snack foods,Snack foods,USDA,"Snacks, potato chips, plain, salted",direct,1,0,745.0,False,541.913,6.56,36.4,50.81,4.4,0.37,0.0,0.0,480.0,1642.0,24.0,1.61,155.0,2.39
+prawn,prawn,recipe_curated,fish/seafood,Aquatic foods,Crustaceans,USDA,"Crustaceans, shrimp, mixed species, raw",proxy,1,0,546.0,False,70.992,13.61,1.01,0.91,0.0,0.0,0.0,126.0,566.0,113.0,54.0,0.21,244.0,0.97
+prickly_pear,prickly_pear,recipe_curated,fruit,Fruits,Tropical fruits,USDA,"Prickly pears, raw",direct,1,1,449.0,False,41.054,0.73,0.51,9.57,3.6,9.35,0.0,0.0,5.0,220.0,56.0,0.3,24.0,0.12
+provolone_cheese,provolone_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, provolone",direct,1,0,631.0,False,351.289,25.58,26.62,2.14,0.0,0.56,0.0,69.0,876.0,138.0,756.0,0.52,496.0,3.23
+pumpkin,pumpkin,recipe_curated,vegetable,Gourds,Gourds,USDA,"Pumpkin, raw",direct,1,0,66.0,False,26.026,1.0,0.1,6.5,0.5,1.36,0.0,0.0,1.0,340.0,21.0,0.8,44.0,0.32
+quince,quince,recipe_curated,fruit,Fruits,Pomes,USDA,"Quinces, raw",direct,1,1,69.0,False,56.942,0.4,0.1,15.3,1.9,9.35,0.0,0.0,4.0,197.0,11.0,0.7,17.0,0.04
+radish,radish,recipe_curated,vegetable,Vegetables,Root vegetables,USDA,"Radishes, raw",direct,1,0,153.0,False,15.887,0.68,0.1,3.4,1.6,1.86,0.0,0.0,23.0,65.5,10.0,0.325,11.0,0.855
+raisin,raisin,recipe_curated,fruit,Fruits,Berries,USDA,"Raisins, seedless",direct,1,0,204.0,False,299.118,3.07,0.46,79.18,3.7,59.19,0.0,0.0,11.0,749.0,50.0,1.88,101.0,0.22
+rapeseed,rapeseed,recipe_curated,plant,Herbs and Spices,Oilseed crops,USDA,"Oil, canola",proxy,1,0,797.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+raspberry,raspberry,recipe_curated,fruit,Fruits,Berries,USDA,"Raspberries, raw",direct,1,0,160.0,False,52.291,1.2,0.65,11.94,6.5,4.42,0.0,0.0,1.0,151.0,25.0,0.69,29.0,0.42
+raw_beef,raw_beef,recipe_curated,meat,Animal foods,Bovines,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",direct,1,0,506.0,False,253.912,17.17,20.0,0.0,0.0,0.0,0.0,71.0,67.0,270.0,18.0,1.94,158.0,4.18
+red_algae,red_algae,recipe_curated,vegetable,Aquatic foods,Seaweed,USDA,"Seaweed, laver, raw",proxy,1,0,563.0,False,34.947,5.81,0.28,5.11,0.3,0.49,0.0,0.0,48.0,356.0,70.0,1.8,58.0,1.05
+red_bean,red_bean,recipe_curated,vegetable,Pulses,Beans,USDA,"Beans, kidney, red, mature seeds, raw",proxy,1,0,134.0,False,336.76,22.53,1.06,61.29,15.2,2.1,0.0,0.0,12.0,1359.0,83.0,6.69,406.0,2.79
+red_kidney_bean,red_kidney_bean,recipe_curated,vegetable,Pulses,Beans,USDA,"Beans, kidney, red, mature seeds, raw",direct,1,0,134.0,False,336.76,22.53,1.06,61.29,15.2,2.1,0.0,0.0,12.0,1359.0,83.0,6.69,406.0,2.79
+red_wine,red_wine,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, wine, table, red",direct,1,0,626.0,False,85.043,0.07,0.0,2.61,0.0,0.62,10.6,0.0,4.0,127.0,8.0,0.46,23.0,0.14
+rhubarb,rhubarb,recipe_curated,vegetable,Vegetables,Stalk vegetables,USDA,"Rhubarb, raw",direct,1,0,154.0,False,21.016,0.9,0.2,4.54,1.8,1.1,0.0,0.0,4.0,288.0,86.0,0.22,14.0,0.1
+rice,rice,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Rice, white, long-grain, regular, raw, enriched",direct,1,0,125.0,False,364.981,7.13,0.66,79.95,1.3,0.12,0.0,0.0,5.0,115.0,28.0,4.31,115.0,1.09
+roasted_almond,roasted_almond,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, almonds, dry roasted, without salt added",direct,1,0,148.0,False,595.062,21.06,52.05,21.2,10.9,4.93,0.0,0.0,3.0,712.0,267.0,3.83,470.0,3.3
+roasted_beef,roasted_beef,recipe_curated,meat,Animal foods,Bovines,USDA,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",proxy,1,0,506.0,False,270.777,25.75,17.82,0.0,0.0,0.0,0.0,91.0,75.0,304.0,24.0,2.48,194.0,6.25
+roasted_hazelnut,roasted_hazelnut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, hazelnuts or filberts, dry roasted, without salt added",direct,1,0,381.0,False,646.016,15.03,62.4,17.6,9.4,4.89,0.0,0.0,0.0,755.0,123.0,4.38,310.0,2.5
+roasted_meat,roasted_meat,recipe_curated,meat,Animal foods,Bovines,USDA,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",proxy,1,0,506.0,False,270.777,25.75,17.82,0.0,0.0,0.0,0.0,91.0,75.0,304.0,24.0,2.48,194.0,6.25
+roasted_nut,roasted_nut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",proxy,1,1,796.0,False,593.965,17.3,51.45,25.35,9.0,4.06,0.0,0.0,12.0,597.0,70.0,3.7,435.0,3.8
+roasted_peanut,roasted_peanut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Peanuts, all types, dry-roasted, without salt",direct,1,0,16.0,False,585.043,23.68,49.66,21.51,8.0,4.18,0.0,0.0,6.0,658.0,54.0,2.26,358.0,3.31
+roasted_pecan,roasted_pecan,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, pecans, dry roasted, without salt added",direct,1,0,44.0,False,709.804,9.5,74.27,13.55,9.4,4.06,0.0,0.0,1.0,424.0,72.0,2.8,293.0,5.07
+roasted_pork,roasted_pork,recipe_curated,meat,Animal foods,Swine,USDA,"Pork, fresh, loin, whole, separable lean and fat, cooked, roasted",direct,1,0,549.0,False,248.044,27.09,14.65,0.0,0.0,0.0,0.0,82.0,59.0,408.0,19.0,0.99,242.0,2.32
+roasted_sesame_seed,roasted_sesame_seed,recipe_curated,nut/seed/pulse,Herbs and Spices,Oilseed crops,USDA,"Seeds, sesame seeds, whole, roasted and toasted",direct,1,1,170.0,False,565.005,16.96,48.0,25.74,14.0,4.06,0.0,0.0,11.0,475.0,989.0,14.76,638.0,7.16
+romano_cheese,romano_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, romano",direct,1,0,631.0,False,386.856,31.8,26.94,3.63,0.0,0.73,0.0,104.0,1200.0,86.0,1064.0,0.77,760.0,2.58
+roquefort_cheese,roquefort_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, roquefort",direct,1,1,631.0,False,369.012,21.54,30.64,2.0,0.0,0.845,0.0,90.0,1809.0,91.0,662.0,0.56,392.0,2.08
+rosemary,rosemary,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Rosemary, fresh",direct,1,1,159.0,False,130.988,3.31,5.86,20.7,14.1,0.87,0.0,0.0,26.0,668.0,317.0,6.65,66.0,0.93
+rum,rum,recipe_curated,alcoholic beverage,Beverages,Distilled beverages,USDA,"Alcoholic beverage, distilled, rum, 80 proof",direct,1,0,646.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.12,5.0,0.07
+rutabaga,rutabaga,recipe_curated,vegetable,Vegetables,Root vegetables,USDA,"Rutabagas, raw",direct,1,0,28.0,False,36.045,1.2,0.2,8.13,2.5,5.6,0.0,0.0,14.0,192.5,26.5,0.32,33.0,0.22
+rye_bread,rye_bread,recipe_curated,cereal/crop,Cereals and cereal products,Leavened breads,USDA,"Bread, rye",direct,1,0,837.0,False,257.944,8.5,3.3,48.3,5.8,3.85,0.0,0.0,660.0,166.0,73.0,2.83,125.0,1.14
+rye_flour,rye_flour,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Rye flour, medium",direct,1,0,169.0,False,348.855,10.88,1.52,75.43,11.8,1.1,0.0,0.0,2.0,374.0,24.0,2.54,225.0,2.17
+saffron,saffron,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, saffron",direct,1,1,63.0,False,310.115,11.43,5.85,65.37,3.9,2.315,0.0,0.0,148.0,1724.0,111.0,11.1,252.0,1.09
+sage,sage,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spices, sage, ground",direct,1,0,165.0,False,314.885,10.63,12.75,60.73,40.3,1.71,0.0,0.0,11.0,1070.0,1652.0,28.12,91.0,4.7
+sake,sake,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, rice (sake)",direct,1,0,763.0,False,134.041,0.5,0.0,5.0,0.0,0.0,8.058,0.0,2.0,25.0,5.0,0.1,6.0,0.02
+salmon,salmon,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, salmon, Atlantic, wild, raw",direct,1,0,465.0,False,141.985,19.84,6.34,0.0,0.0,0.0,0.0,55.0,44.0,490.0,12.0,0.8,200.0,0.64
+salmon_roe,salmon_roe,recipe_curated,fish/seafood,Aquatic foods,Roe,USDA,"Fish, roe, mixed species, raw",proxy,1,0,722.0,False,143.082,22.32,6.42,1.5,0.0,0.0,0.0,374.0,91.0,221.0,22.0,0.6,402.0,1.0
+sauerkraut,sauerkraut,recipe_curated,vegetable,Vegetables,Cabbages,USDA,"Sauerkraut, canned, solids and liquids",direct,1,0,30.0,False,18.821,0.91,0.14,4.28,2.9,1.78,0.0,0.0,661.0,170.0,30.0,1.47,20.0,0.19
+savory,savory,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spices, savory, ground",direct,1,1,167.0,False,271.994,6.73,5.91,68.73,45.7,0.87,0.0,0.0,24.0,1051.0,2132.0,37.88,140.0,4.3
+scallion,scallion,recipe_curated,vegetable,Vegetables,Onion-family vegetables,USDA,"Onions, spring or scallions (includes tops and bulb), raw",direct,1,0,5.0,False,32.133,1.83,0.19,7.34,2.6,2.33,0.0,0.0,16.0,276.0,72.0,1.48,37.0,0.39
+scallop,scallop,recipe_curated,fish/seafood,Aquatic foods,Mollusks,USDA,"Mollusks, scallop, mixed species, raw",direct,1,0,472.0,False,69.036,12.06,0.49,3.18,0.0,0.0,0.0,24.0,392.0,205.0,6.0,0.38,334.0,0.91
+sea_algae,sea_algae,recipe_curated,vegetable,Aquatic foods,Seaweed,USDA,"Seaweed, wakame, raw",proxy,1,0,564.0,False,44.967,3.03,0.64,9.14,0.5,0.65,0.0,0.0,872.0,50.0,150.0,2.18,80.0,0.38
+seaweed,seaweed,recipe_curated,fish/seafood,Aquatic foods,Seaweed,USDA,"Seaweed, wakame, raw",direct,1,0,564.0,False,44.967,3.03,0.64,9.14,0.5,0.65,0.0,0.0,872.0,50.0,150.0,2.18,80.0,0.38
+seed,seed,recipe_curated,nut/seed/pulse,Herbs and Spices,Oilseed crops,USDA,"Seeds, sunflower seed kernels, dried",proxy,1,0,86.0,False,584.185,20.78,51.46,20.0,8.6,2.62,0.0,0.0,9.0,645.0,78.0,5.25,660.0,5.0
+sesame_oil,sesame_oil,recipe_curated,plant derivative,Herbs and Spices,Oilseed crops,USDA,"Oil, sesame, salad or cooking",direct,1,0,170.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sesame_seed,sesame_seed,recipe_curated,nut/seed/pulse,Herbs and Spices,Oilseed crops,USDA,"Seeds, sesame seeds, whole, dried",direct,1,0,170.0,False,572.948,17.73,49.67,23.45,11.8,0.3,0.0,0.0,11.0,468.0,975.0,14.55,629.0,7.75
+shallot,shallot,recipe_curated,vegetable,Vegetables,Onion-family vegetables,USDA,"Shallots, raw",direct,1,0,243.0,False,71.97,2.5,0.1,16.8,3.2,7.87,0.0,0.0,12.0,334.0,37.0,1.2,60.0,0.4
+sheep_cheese,sheep_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, romano",proxy,1,0,631.0,False,386.856,31.8,26.94,3.63,0.0,0.73,0.0,104.0,1200.0,86.0,1064.0,0.77,760.0,2.58
+shellfish,shellfish,recipe_curated,fish/seafood,Aquatic foods,Crustaceans,USDA,"Crustaceans, shrimp, mixed species, raw",proxy,1,0,546.0,False,70.992,13.61,1.01,0.91,0.0,0.0,0.0,126.0,566.0,113.0,54.0,0.21,244.0,0.97
+sherry,sherry,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, wine, dessert, dry",proxy,1,0,626.0,False,152.243,0.2,0.0,11.67,0.0,1.09,15.3,0.0,9.0,92.0,8.0,0.24,9.0,0.07
+shiitake,shiitake,recipe_curated,vegetable,Vegetables,Mushrooms,USDA,"Mushrooms, shiitake, raw",direct,1,1,562.0,False,33.85,2.24,0.49,6.79,2.5,2.38,0.0,0.0,7.0,193.0,1.5,0.312,68.0,0.715
+shrimp,shrimp,recipe_curated,fish/seafood,Aquatic foods,Crustaceans,USDA,"Crustaceans, shrimp, mixed species, raw",direct,1,0,546.0,False,70.992,13.61,1.01,0.91,0.0,0.0,0.0,126.0,566.0,113.0,54.0,0.21,244.0,0.97
+smoked_fish,smoked_fish,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, haddock, smoked",proxy,1,0,379.0,False,115.959,25.23,0.96,0.0,0.0,0.0,0.0,77.0,763.0,415.0,49.0,1.4,251.0,0.5
+smoked_salmon,smoked_salmon,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, salmon, chinook, smoked",direct,1,0,464.0,False,117.056,18.28,4.32,0.0,0.0,0.0,0.0,23.0,784.0,175.0,11.0,0.85,164.0,0.31
+smoked_sausage,smoked_sausage,recipe_curated,meat,Dishes,Ground meat,USDA,"Smoked link sausage, pork",direct,1,0,671.0,False,306.822,11.98,28.23,0.18,0.0,0.94,0.0,61.0,827.0,483.0,11.0,0.59,157.0,1.31
+sour_cherry,sour_cherry,recipe_curated,fruit,Fruits,Drupes,USDA,"Cherries, sour, red, raw",direct,1,0,146.0,False,49.976,1.0,0.3,12.18,1.6,8.49,0.0,0.0,3.0,173.0,16.0,0.32,15.0,0.1
+sour_milk,sour_milk,recipe_curated,dairy,Milk and milk products,Fermented milks,USDA,"Milk, buttermilk, fluid, cultured, lowfat",proxy,1,0,714.0,False,40.196,3.31,0.88,4.79,0.0,4.79,0.0,4.0,105.0,151.0,116.0,0.05,89.0,0.42
+soy_sauce,soy_sauce,recipe_curated,plant derivative,Soy,Soy products,USDA,Soy sauce made from soy and wheat (shoyu),direct,1,0,716.0,False,52.91,6.28,0.04,7.61,0.8,1.7,0.0,0.0,5637.0,217.0,19.0,1.93,125.0,0.52
+soybean,soybean,recipe_curated,vegetable,Soy,Soy,USDA,"Soybeans, mature seeds, raw",direct,1,0,85.0,False,445.992,36.49,19.94,30.16,9.3,7.33,0.0,0.0,2.0,1797.0,277.0,15.7,704.0,4.89
+soybean_oil,soybean_oil,recipe_curated,plant derivative,Soy,Soy,USDA,"Oil, soybean, salad or cooking",direct,1,0,85.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.01
+spearmint,spearmint,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spearmint, fresh",direct,1,1,112.0,False,43.989,3.29,0.73,8.41,6.8,0.87,0.0,0.0,30.0,458.0,199.0,11.87,60.0,1.09
+squash,squash,recipe_curated,vegetable,Gourds,Gourds,USDA,"Squash, winter, butternut, raw",proxy,1,0,321.0,False,44.967,1.0,0.1,11.69,2.0,2.2,0.0,0.0,4.0,352.0,48.0,0.7,33.0,0.15
+squid,squid,recipe_curated,fish/seafood,Aquatic foods,Mollusks,USDA,"Mollusks, squid, mixed species, raw",direct,1,0,545.0,False,92.009,15.58,1.38,3.08,0.0,0.0,0.0,233.0,44.0,246.0,32.0,0.68,221.0,1.53
+star_anise,star_anise,recipe_curated,spice,Herbs and Spices,Herbs,USDA,"Spices, anise seed",proxy,1,1,137.0,False,337.119,17.6,15.9,50.02,14.6,2.315,0.0,0.0,16.0,1441.0,646.0,36.96,440.0,5.3
+starch,starch,recipe_curated,plant derivative,Cereals and cereal products,Cereals,USDA,Cornstarch,direct,1,0,205.0,False,380.988,0.26,0.05,91.27,0.9,0.0,0.0,0.0,9.0,3.0,2.0,0.47,13.0,0.06
+strawberry,strawberry,recipe_curated,fruit,Fruits,Berries,USDA,"Strawberries, raw",direct,1,0,83.0,False,32.252,0.67,0.3,7.68,2.0,4.89,0.0,0.0,1.0,153.0,16.0,0.41,24.0,0.14
+strawberry_jam,strawberry_jam,recipe_curated,fruit,Fruits,Fruit products,USDA,Jams and preserves,proxy,1,0,681.0,False,277.982,0.37,0.07,68.86,1.1,48.5,0.0,0.0,32.0,77.0,20.0,0.49,19.0,0.06
+strawberry_juice,strawberry_juice,recipe_curated,fruit,Fruits,Berries,USDA,"Strawberries, raw",proxy,1,0,83.0,False,32.252,0.67,0.3,7.68,2.0,4.89,0.0,0.0,1.0,153.0,16.0,0.41,24.0,0.14
+sturgeon_caviar,sturgeon_caviar,recipe_curated,fish/seafood,Aquatic foods,Roe,USDA,"Fish, caviar, black and red, granular",direct,1,0,722.0,False,264.051,24.6,17.9,4.0,0.0,0.0,0.0,588.0,1500.0,181.0,275.0,11.88,356.0,0.95
+sunflower_oil,sunflower_oil,recipe_curated,plant derivative,Herbs and Spices,Oilseed crops,USDA,"Oil, sunflower, linoleic, (approx. 65%)",direct,1,0,86.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sweet_potato,sweet_potato,recipe_curated,vegetable,Vegetables,Tubers,USDA,"Sweet potato, raw, unprepared",direct,1,0,92.0,False,85.902,1.57,0.05,20.12,3.0,4.18,0.0,0.0,55.0,337.0,30.0,0.61,47.0,0.3
+swiss_cheese,swiss_cheese,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Cheese, swiss",direct,1,0,631.0,False,380.129,26.93,27.8,5.38,0.0,1.32,0.0,3.0,52.0,20.0,48.0,0.045,20.5,0.205
+tabasco_pepper,tabasco_pepper,recipe_curated,spice,Baking goods,Sauces,USDA,"Sauce, ready-to-serve, pepper, TABASCO",direct,1,0,665.0,False,11.975,1.29,0.76,0.8,0.6,0.13,0.0,0.0,633.0,128.0,12.0,1.16,23.0,0.16
+tamarind,tamarind,recipe_curated,spice,Fruits,Tropical fruits,USDA,"Tamarinds, raw",direct,1,0,180.0,False,239.003,2.8,0.6,62.5,5.1,57.4,0.0,0.0,28.0,628.0,74.0,2.8,113.0,0.1
+tangerine,tangerine,recipe_curated,fruit,Fruits,Citrus,USDA,"Tangerines, (mandarin oranges), raw",direct,1,0,56.0,False,53.149,0.81,0.31,13.34,1.8,10.58,0.0,0.0,2.0,99.5,23.25,0.1,11.25,0.04
+tarragon,tarragon,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Spices, tarragon, dried",direct,1,1,19.0,False,295.206,22.77,7.24,50.22,7.4,0.87,0.0,0.0,62.0,3020.0,1139.0,32.3,313.0,3.9
+tea,tea,recipe_curated,plant derivative,Teas,Teas,USDA,"Tea, black, brewed, prepared with tap water",direct,1,0,38.0,False,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02
+tequila,tequila,recipe_curated,alcoholic beverage,Beverages,Alcoholic beverages,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,1,0,279.0,False,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04
+thai_pepper,thai_pepper,recipe_curated,spice,Vegetables,Fruit vegetables,USDA,"Peppers, hot chili, red, raw",proxy,1,0,40.0,False,39.837,1.87,0.44,8.81,1.5,5.3,0.0,0.0,9.0,322.0,14.0,1.03,43.0,0.26
+thyme,thyme,recipe_curated,herb,Herbs and Spices,Herbs,USDA,"Thyme, fresh",direct,1,1,183.0,False,101.05,5.56,1.68,24.45,14.0,0.87,0.0,0.0,9.0,609.0,405.0,17.45,106.0,1.81
+tomato,tomato,recipe_curated,vegetable,Vegetables,Fruit vegetables,USDA,"Tomatoes, red, ripe, raw, year round average",direct,1,0,171.0,False,17.843,0.88,0.2,3.89,1.2,2.63,0.0,0.0,5.0,237.0,10.0,0.27,24.0,0.17
+tomato_juice,tomato_juice,recipe_curated,vegetable,Vegetables,Fruit vegetables,USDA,"Tomato juice, canned, without salt added",direct,1,0,171.0,False,17.224,0.76,0.05,4.24,0.4,3.56,0.0,0.0,10.0,229.0,10.0,0.43,18.0,0.15
+tuna,tuna,recipe_curated,fish/seafood,Aquatic foods,Fishes,USDA,"Fish, tuna, fresh, yellowfin, raw",direct,1,0,522.0,False,108.754,24.4,0.49,0.0,0.0,0.0,0.0,20.0,36.75,244.25,2.25,0.842,151.25,0.215
+turkey,turkey,recipe_curated,meat,Animal foods,Poultry,DTU,"Turkey, flesh and skin, raw",direct,1,2,505.0,False,125.8,20.2,5.0,0.0,0.0,0.0,0.0,72.0,93.0,230.0,10.0,0.8,158.0,1.35
+turmeric,turmeric,recipe_curated,spice,Herbs and Spices,Spices,USDA,"Spices, turmeric, ground",direct,1,0,68.0,False,353.984,7.83,9.88,64.93,21.1,3.21,0.0,0.0,32.5,2302.5,175.5,48.21,283.5,4.425
+turnip,turnip,recipe_curated,vegetable,Herbs and Spices,Herbs,USDA,"Turnips, raw",direct,1,0,36.0,False,27.982,0.9,0.1,6.43,1.8,3.8,0.0,0.0,67.0,191.0,30.0,0.3,27.0,0.27
+vanilla,vanilla,recipe_curated,spice,Herbs and Spices,Spices,USDA,Vanilla extract,direct,1,0,195.0,False,288.001,0.06,0.06,12.65,0.0,12.65,17.217,0.0,9.0,148.0,11.0,0.12,6.0,0.11
+veal,veal,recipe_curated,meat,Animal foods,Bovines,USDA,"Veal, ground, raw",direct,1,0,506.0,False,143.941,19.35,6.77,0.0,0.0,0.0,0.0,82.0,82.0,315.0,15.0,0.83,203.0,3.06
+vegetable_oil,vegetable_oil,recipe_curated,plant derivative,Soy,Soy,USDA,"Oil, soybean, salad or cooking",proxy,1,0,85.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.01
+vinegar,vinegar,recipe_curated,plant derivative,Baking goods,Seasonings,USDA,"Vinegar, distilled",direct,1,0,645.0,False,18.082,0.0,0.0,0.04,0.0,0.04,0.0,0.0,1.5,1.5,4.25,0.017,2.0,0.008
+walnut,walnut,recipe_curated,nut/seed/pulse,Nuts,Nuts,USDA,"Nuts, walnuts, english",direct,1,0,94.0,False,654.199,15.23,65.21,13.71,6.7,2.61,0.0,0.0,2.75,234.25,55.0,1.605,178.0,1.695
+wasabi,wasabi,recipe_curated,vegetable,Herbs and Spices,Spices,USDA,"Wasabi, root, raw",direct,1,1,509.0,False,108.993,4.8,0.63,23.54,7.8,2.04,0.0,0.0,12.5,322.0,68.5,0.58,40.25,1.41
+watercress,watercress,recipe_curated,vegetable,Herbs and Spices,Herbs,USDA,"Watercress, raw",direct,1,0,158.0,False,10.997,2.3,0.1,1.29,0.5,0.2,0.0,0.0,41.0,330.0,120.0,0.2,60.0,0.11
+watermelon,watermelon,recipe_curated,fruit,Gourds,Gourds,USDA,"Watermelon, raw",direct,1,0,52.0,False,30.177,0.61,0.15,7.55,0.4,6.2,0.0,0.0,1.75,89.25,6.0,0.238,9.0,0.198
+wheat,wheat,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Wheat flour, whole-grain",proxy,1,0,575.0,False,340.172,13.21,2.5,71.97,10.7,0.41,0.0,0.0,2.0,363.0,34.0,3.6,357.0,2.6
+wheat_bread,wheat_bread,recipe_curated,cereal/crop,Cereals and cereal products,Leavened breads,USDA,"Bread, wheat",direct,1,0,836.0,False,270.158,10.37,3.44,49.46,4.2,6.08,0.0,0.0,519.0,182.0,138.0,3.52,153.0,1.18
+whiskey,whiskey,recipe_curated,alcoholic beverage,Beverages,Distilled beverages,USDA,"Alcoholic beverage, distilled, whiskey, 86 proof",direct,1,0,640.0,False,250.0,0.0,0.0,0.1,0.0,0.1,36.0,0.0,0.0,1.0,0.0,0.02,3.0,0.02
+white_bread,white_bread,recipe_curated,cereal/crop,Cereals and cereal products,Leavened breads,USDA,"Bread, white, commercially prepared (includes soft bread crumbs)",direct,1,0,836.0,False,264.79,9.15,3.19,49.06,2.7,5.07,0.0,0.0,301.0,74.5,221.25,2.358,74.5,0.555
+white_wine,white_wine,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, wine, table, white",direct,1,0,626.0,False,81.87,0.07,0.0,2.6,0.0,0.96,10.3,0.0,5.0,71.0,9.0,0.27,18.0,0.12
+whole_grain_wheat_flour,whole_grain_wheat_flour,recipe_curated,cereal/crop,Cereals and cereal products,Cereals,USDA,"Wheat flour, whole-grain",direct,1,0,575.0,False,340.172,13.21,2.5,71.97,10.7,0.41,0.0,0.0,2.0,363.0,34.0,3.6,357.0,2.6
+wine,wine,recipe_curated,alcoholic beverage,Beverages,Fermented beverages,USDA,"Alcoholic beverage, wine, table, all",direct,1,0,626.0,False,82.967,0.07,0.0,2.72,0.0,0.79,10.4,0.0,5.0,99.0,8.0,0.37,20.0,0.13
+yam,yam,recipe_curated,vegetable,Vegetables,Tubers,USDA,"Yam, raw",direct,1,0,519.0,False,118.034,1.53,0.17,27.88,4.1,0.5,0.0,0.0,9.0,816.0,17.0,0.54,55.0,0.24
+yeast,yeast,recipe_curated,plant,Baking goods,Baking goods,USDA,"Leavening agents, yeast, baker's, active dry",direct,1,0,682.0,False,325.143,40.44,7.61,41.22,26.9,0.0,0.0,0.0,51.0,955.0,30.0,2.17,637.0,7.94
+yogurt,yogurt,recipe_curated,dairy,Milk and milk products,Fermented milk products,USDA,"Yogurt, plain, whole milk, 8 grams protein per 8 ounce",direct,1,0,634.0,False,61.212,3.47,3.25,4.66,0.0,4.66,0.0,13.0,46.0,155.0,121.0,0.05,95.0,0.59
+zucchini,zucchini,recipe_curated,vegetable,Gourds,Gourds,USDA,"Squash, summer, zucchini, includes skin, raw",direct,1,0,66.0,False,16.865,1.21,0.32,3.11,1.0,2.5,0.0,0.0,8.0,261.0,16.0,0.37,38.0,0.32
+custard_apple,Custard apple,foodb_auto,,Fruits,Tropical fruits,USDA,median of 2 USDA product(s),auto,2,1,14.0,False,101.05,1.7,0.6,25.2,2.4,9.35,0.0,0.0,6.5,314.5,27.0,0.655,26.5,0.1
+burdock,Burdock,foodb_auto,,Vegetables,Root vegetables,USDA,median of 1 USDA product(s),auto,1,0,17.0,False,72.09,1.53,0.15,17.34,3.3,2.9,0.0,0.0,5.0,308.0,41.0,0.8,51.0,0.33
+star_fruit,Star fruit,foodb_auto,,Fruits,Tropical fruits,USDA,median of 2 USDA product(s),auto,2,0,23.0,False,30.796,1.04,0.33,6.73,2.8,3.98,0.0,0.0,1.5,78.25,1.75,0.055,7.0,0.15
+brazil_nut,Brazil nut,foodb_auto,,Nuts,Nuts,USDA,median of 2 USDA product(s),auto,2,0,24.0,False,655.796,14.32,66.43,12.27,7.5,2.33,0.0,0.0,3.0,659.0,160.0,2.43,725.0,4.06
+borage,Borage,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 1 USDA product(s),auto,1,2,26.0,False,21.016,1.8,0.7,3.06,7.2,0.87,0.0,0.0,80.0,470.0,93.0,3.3,53.0,0.2
+chinese_mustard,Chinese mustard,foodb_auto,,Vegetables,Cabbages,USDA,median of 1 USDA product(s),auto,1,0,27.0,False,26.026,2.7,0.2,4.9,3.3,1.6,0.0,0.0,25.0,354.0,103.0,1.46,43.0,0.2
+rape,Rape,foodb_auto,,Vegetables,Root vegetables,DTU,median of 2 DTU product(s),auto,2,1,29.0,False,900.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pigeon_pea,Pigeon pea,foodb_auto,,Pulses,Peas,USDA,median of 2 USDA product(s),auto,2,0,37.0,False,239.487,14.45,1.565,43.33,10.05,3.0,0.0,0.0,17.0,1392.0,130.0,5.23,367.0,2.76
+capers,Capers,foodb_auto,,Herbs and Spices,Spices,USDA,median of 1 USDA product(s),auto,1,0,39.0,False,22.972,2.36,0.86,4.89,3.2,0.41,0.0,0.0,2656.0,40.0,40.0,1.67,10.0,0.32
+safflower,Safflower,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 4 USDA product(s),auto,4,0,42.0,False,700.5,8.09,69.225,17.145,0.0,0.0,0.0,0.0,1.5,34.0,38.5,2.43,319.0,2.505
+pummelo,Pummelo,foodb_auto,,Fruits,Citrus,USDA,median of 1 USDA product(s),auto,1,1,55.0,False,38.001,0.76,0.04,9.62,1.0,9.35,0.0,0.0,1.0,216.0,4.0,0.11,17.0,0.08
+arabica_coffee,Arabica coffee,foodb_auto,,Coffee and coffee products,Coffee,USDA,median of 1 USDA product(s),auto,1,0,59.0,False,509.28,1.96,29.1,59.94,0.5,59.0,0.0,0.0,819.0,909.0,18.0,0.06,135.0,0.02
+robusta_coffee,Robusta coffee,foodb_auto,,Coffee and coffee products,Coffee,USDA,median of 1 USDA product(s),auto,1,0,60.0,False,509.28,1.96,29.1,59.94,0.5,59.0,0.0,0.0,819.0,909.0,18.0,0.06,135.0,0.02
+japanese_persimmon,Japanese persimmon,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,0,73.0,False,70.014,0.58,0.19,18.59,3.6,12.53,0.0,0.0,1.0,161.0,8.0,0.15,17.0,0.11
+loquat,Loquat,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,76.0,False,47.042,0.43,0.2,12.14,1.7,9.35,0.0,0.0,1.0,266.0,16.0,0.28,27.0,0.05
+rocket_salad_ssp,Rocket salad (ssp.),foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,0,77.0,False,25.048,2.58,0.66,3.65,1.6,2.05,0.0,0.0,27.0,369.0,160.0,1.46,52.0,0.47
+swamp_cabbage,Swamp cabbage,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,1,91.0,False,18.941,2.6,0.2,3.14,2.1,1.945,0.0,0.0,113.0,312.0,77.0,1.67,39.0,0.18
+black_walnut,Black walnut,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,0,93.0,False,617.795,24.06,59.0,9.91,6.8,1.1,0.0,0.0,1.5,262.0,32.0,1.582,281.0,1.71
+garden_cress,Garden cress,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,0,99.0,False,32.013,2.6,0.7,5.5,1.1,4.4,0.0,0.0,14.0,606.0,81.0,1.3,76.0,0.23
+flaxseed,Flaxseed,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 3 USDA product(s),auto,3,0,101.0,False,878.173,0.37,99.01,0.39,13.65,0.775,0.0,0.0,9.0,98.25,39.5,1.082,43.25,0.397
+bitter_gourd,Bitter gourd,foodb_auto,,Gourds,Gourds,USDA,median of 2 USDA product(s),auto,2,1,115.0,False,23.5,3.15,0.43,3.495,2.8,2.35,0.0,0.0,5.0,296.0,19.0,0.43,31.0,0.8
+black_mulberry,Black mulberry,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,0,117.0,False,43.011,1.44,0.39,9.8,1.7,8.1,0.0,0.0,10.0,194.0,39.0,1.85,38.0,0.12
+millet,Millet,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 1 USDA product(s),auto,1,1,126.0,False,378.054,11.02,4.22,72.85,8.5,2.67,0.0,0.0,5.0,195.0,8.0,3.01,285.0,1.68
+poppy,Poppy,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 1 USDA product(s),auto,1,0,127.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pine_nut,Pine nut,foodb_auto,,Nuts,Nuts,USDA,median of 2 USDA product(s),auto,2,0,138.0,False,607.0,10.55,51.225,32.07,23.55,3.59,0.0,0.0,2.0,458.0,16.0,3.53,345.0,2.89
+purslane,Purslane,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,2,142.0,False,16.007,1.3,0.1,3.43,7.2,0.87,0.0,0.0,45.0,494.0,65.0,1.99,44.0,0.17
+prunus_cherry_plum,"Prunus (Cherry, Plum)",foodb_auto,,Fruits,Drupes,USDA,median of 1 USDA product(s),auto,1,0,143.0,False,164.957,0.22,0.21,41.97,3.2,38.77,0.0,0.0,4.0,21.0,54.0,0.43,3.0,0.26
+pomegranate,Pomegranate,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,0,151.0,False,82.848,1.67,1.17,18.7,4.0,13.67,0.0,0.0,1.5,127.25,5.5,0.178,21.75,0.202
+gooseberry,Gooseberry,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,1,157.0,False,43.989,0.88,0.58,10.18,4.3,9.35,0.0,0.0,1.0,198.0,25.0,0.31,27.0,0.12
+cloudberry,Cloudberry,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,6,161.0,True,51.074,2.4,0.8,8.6,2.7,9.35,0.0,0.0,2.0,154.75,18.0,0.7,35.0,0.1
+red_raspberry,Red raspberry,foodb_auto,,Fruits,Berries,USDA,median of 2 USDA product(s),auto,2,0,162.0,False,97.031,0.765,0.14,24.76,3.85,20.91,0.0,0.0,2.0,104.0,13.0,0.535,13.0,0.17
+sorrel,Sorrel,foodb_auto,,Herbs and Spices,Herbs,DTU,median of 1 DTU product(s),auto,1,1,164.0,False,21.3,2.0,0.7,1.75,1.45,0.0,0.0,0.0,4.0,390.0,44.0,2.4,63.0,0.2
+eggplant,Eggplant,foodb_auto,,Vegetables,Fruit vegetables,USDA,median of 1 USDA product(s),auto,1,0,174.0,False,24.189,1.01,0.19,5.7,3.4,2.35,0.0,0.0,1.5,129.5,5.25,0.145,14.25,0.11
+sorghum,Sorghum,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 4 USDA product(s),auto,4,0,177.0,False,349.949,9.585,3.295,76.05,6.45,1.87,0.0,0.0,4.0,311.0,12.0,2.99,287.0,0.9
+spinach,Spinach,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,0,178.0,False,23.092,2.86,0.39,3.63,2.2,0.42,0.0,0.0,79.0,558.0,99.0,2.71,49.0,0.53
+dandelion,Dandelion,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,0,181.0,False,44.967,2.7,0.7,9.2,3.5,0.71,0.0,0.0,76.0,397.0,187.0,3.1,66.0,0.41
+common_wheat,Common wheat,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 5 USDA product(s),auto,5,0,187.0,False,331.011,11.31,1.71,74.24,12.2,0.41,0.0,0.0,2.0,397.0,29.0,3.6,355.0,2.78
+bilberry,Bilberry,foodb_auto,,Fruits,Berries,DTU,median of 1 DTU product(s),auto,1,1,193.0,False,47.7,0.7,0.5,10.1,1.4,14.3,0.0,0.0,3.0,103.0,15.0,0.8,9.0,0.1
+broad_bean,Broad bean,foodb_auto,,Pulses,Beans,USDA,median of 3 USDA product(s),auto,3,0,197.0,False,88.216,7.92,0.73,17.63,14.6,5.7,0.0,0.0,25.0,332.0,37.0,1.9,129.0,1.0
+adzuki_bean,Adzuki bean,foodb_auto,,Pulses,Beans,USDA,median of 1 USDA product(s),auto,1,1,198.0,False,329.055,19.87,0.53,62.9,12.7,4.08,0.0,0.0,5.0,1254.0,66.0,4.98,381.0,5.04
+gram_bean,Gram bean,foodb_auto,,Pulses,Beans,USDA,median of 1 USDA product(s),auto,1,1,199.0,False,341.031,25.21,1.64,58.99,18.3,4.08,0.0,0.0,38.0,983.0,138.0,7.57,379.0,3.35
+cowpea,Cowpea,foodb_auto,,Pulses,Peas,USDA,median of 3 USDA product(s),auto,3,0,202.0,False,36.489,3.7,0.275,7.16,3.3,5.04,0.0,0.0,4.0,431.0,65.0,1.1,53.0,0.34
+muscadine_grape,Muscadine grape,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,2,203.0,False,56.942,0.81,0.47,13.93,3.9,9.35,0.0,0.0,1.0,203.0,37.0,0.26,24.0,0.11
+longan,Longan,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,224.0,False,59.995,1.31,0.1,15.14,1.1,9.35,0.0,0.0,0.0,266.0,1.0,0.13,21.0,0.05
+rambutan,Rambutan,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,234.0,False,81.989,0.65,0.21,20.87,0.9,9.35,0.0,0.0,11.0,42.0,22.0,0.35,9.0,0.08
+swiss_chard,Swiss chard,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,0,237.0,False,18.941,1.8,0.2,3.74,1.6,1.1,0.0,0.0,213.0,379.0,51.0,1.8,46.0,0.36
+welsh_onion,Welsh onion,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,0,241.0,False,33.969,1.9,0.4,6.5,2.4,2.18,0.0,0.0,17.0,212.0,18.0,1.22,49.0,0.52
+hard_wheat,Hard wheat,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 2 USDA product(s),auto,2,2,242.0,False,338.955,13.68,2.47,71.13,4.85,2.67,0.0,0.0,2.0,431.5,33.0,4.04,431.5,3.745
+triticale,Triticale,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 2 USDA product(s),auto,2,1,246.0,False,336.998,13.115,1.95,72.635,14.6,2.67,0.0,0.0,5.0,332.0,37.0,2.57,358.0,3.45
+black_cabbage,Black cabbage,foodb_auto,,Vegetables,Cabbages,USDA,median of 1 USDA product(s),auto,1,0,247.0,False,30.057,2.45,0.42,5.69,3.6,0.46,0.0,0.0,20.0,169.0,145.0,0.19,10.0,0.13
+celery_leaves,Celery leaves,foodb_auto,,Herbs and Spices,Herbs,DTU,median of 1 DTU product(s),auto,1,1,249.0,False,34.9,1.8,0.3,6.25,1.95,0.0,0.0,0.0,0.0,0.0,325.0,4.0,0.0,0.0
+pak_choy,Pak choy,foodb_auto,,Vegetables,Cabbages,USDA,median of 1 USDA product(s),auto,1,0,252.0,False,13.073,1.5,0.2,2.18,1.0,1.18,0.0,0.0,65.0,252.0,105.0,0.8,37.0,0.19
+daikon_radish,Daikon radish,foodb_auto,,Vegetables,Root vegetables,USDA,median of 2 USDA product(s),auto,2,0,261.0,False,18.082,0.6,0.1,4.1,1.6,2.5,0.0,0.0,22.0,146.25,18.5,0.363,17.0,0.502
+red_beetroot,Red beetroot,foodb_auto,,Vegetables,Root vegetables,DTU,median of 1 DTU product(s),auto,1,1,264.0,False,50.5,1.7,0.3,10.25,1.15,8.97,0.0,0.0,43.0,330.0,28.1,0.6,36.2,0.73
+biscuit,Biscuit,foodb_auto,,Cereals and cereal products,Cereal products,USDA,median of 7 USDA product(s),auto,7,0,275.0,False,428.03,4.6,14.9,67.3,2.9,5.87,0.0,0.0,303.0,208.0,25.0,2.05,82.0,0.6
+spirit,Spirit,foodb_auto,,Beverages,Distilled beverages,DTU,median of 4 DTU product(s),auto,4,1,277.0,False,2.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.015
+abalone,Abalone,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,0,280.0,False,104.962,17.1,0.76,6.01,0.0,0.0,0.0,85.0,301.0,250.0,31.0,3.19,190.0,0.82
+abiyuch,Abiyuch,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,281.0,False,69.156,1.5,0.1,17.6,5.3,8.55,0.0,0.0,20.0,304.0,8.0,1.61,47.0,0.31
+acerola,Acerola,foodb_auto,,Fruits,Tropical fruits,USDA,median of 2 USDA product(s),auto,2,0,282.0,False,27.5,0.4,0.3,6.245,0.7,4.5,0.0,0.0,7.0,146.0,12.0,0.2,11.0,0.1
+acorn,Acorn,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,2,283.0,False,386.975,6.15,23.86,40.75,8.6,4.06,0.0,0.0,0.0,539.0,41.0,0.79,79.0,0.51
+winter_squash,Winter squash,foodb_auto,,Gourds,Gourds,USDA,median of 2 USDA product(s),auto,2,0,284.0,False,39.957,1.4,0.3,9.56,2.7,3.95,0.0,0.0,3.0,347.0,33.0,0.7,36.0,0.13
+agar,Agar,foodb_auto,,Aquatic foods,Seaweed,USDA,median of 1 USDA product(s),auto,1,0,285.0,False,26.026,0.54,0.03,6.75,0.5,0.28,0.0,0.0,9.0,226.0,54.0,1.86,5.0,0.58
+red_king_crab,Red king crab,foodb_auto,,Aquatic foods,Crustaceans,USDA,median of 1 USDA product(s),auto,1,0,286.0,False,83.946,18.29,0.6,0.0,0.0,0.0,0.0,42.0,836.0,204.0,46.0,0.59,219.0,5.95
+alfalfa,Alfalfa,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 2 USDA product(s),auto,2,0,287.0,False,22.972,3.99,0.69,2.1,1.9,0.18,0.0,0.0,6.0,79.0,32.0,0.96,70.0,0.92
+amaranth,Amaranth,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 3 USDA product(s),auto,3,0,289.0,False,197.092,8.01,3.675,34.635,6.7,1.69,0.0,0.0,4.0,508.0,159.0,2.32,73.5,0.9
+arrowhead,Arrowhead,foodb_auto,,Vegetables,Tubers,USDA,median of 1 USDA product(s),auto,1,2,290.0,False,98.974,5.33,0.29,20.23,2.5,1.945,0.0,0.0,22.0,922.0,10.0,2.57,174.0,0.28
+arrowroot,Arrowroot,foodb_auto,,Vegetables,Tubers,USDA,median of 1 USDA product(s),auto,1,1,291.0,False,64.885,4.24,0.2,13.39,1.3,1.945,0.0,0.0,26.0,454.0,6.0,2.22,98.0,0.63
+asian_pear,Asian pear,foodb_auto,,Fruits,Pomes,USDA,median of 1 USDA product(s),auto,1,0,292.0,False,42.033,0.5,0.23,10.65,3.6,7.05,0.0,0.0,0.0,121.0,4.0,0.0,11.0,0.02
+painted_comber,Painted comber,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,295.0,False,87.596,16.91,1.705,0.0,0.0,0.0,0.0,57.5,317.0,206.5,31.0,0.245,274.0,0.32
+atlantic_pollock,Atlantic pollock,foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,296.0,False,105.009,22.18,1.12,0.0,0.0,0.0,0.0,71.0,90.0,356.0,60.0,0.59,221.0,0.6
+atlantic_wolffish,Atlantic wolffish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,297.0,False,109.54,19.97,2.725,0.0,0.0,0.0,0.0,46.0,85.0,300.0,6.0,0.09,200.0,0.78
+bamboo_shoots,Bamboo shoots,foodb_auto,,Vegetables,Shoot vegetables,USDA,median of 1 USDA product(s),auto,1,0,298.0,False,27.243,2.6,0.3,5.2,2.2,3.0,0.0,0.0,4.0,533.0,13.0,0.5,59.0,1.1
+striped_bass,Striped bass,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,299.0,False,110.518,20.23,2.66,0.0,0.0,0.0,0.0,80.0,69.0,256.0,15.0,0.84,198.0,0.4
+beech_nut,Beech nut,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,2,301.0,False,576.002,6.2,50.0,33.5,8.6,4.06,0.0,0.0,38.0,1017.0,1.0,2.46,0.0,0.36
+beluga_whale,Beluga whale,foodb_auto,,Aquatic foods,Cetaceans,USDA,median of 3 USDA product(s),auto,3,0,302.0,True,116.817,19.0,3.9,0.0,0.0,0.0,0.0,80.0,78.0,283.0,11.0,14.35,230.0,2.76
+alaska_blackfish,Alaska blackfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,4,305.0,True,81.87,15.5,1.75,0.0,0.0,0.0,0.0,55.5,75.0,320.0,236.0,4.6,287.0,0.64
+northern_bluefin_tuna,Northern bluefin tuna,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,308.0,False,164.0,26.62,5.59,0.0,0.0,0.0,0.0,38.0,39.0,252.0,8.0,1.02,254.0,0.6
+bluefish,Bluefish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,309.0,False,141.491,22.865,4.84,0.0,0.0,0.0,0.0,59.0,60.0,372.0,7.0,0.48,227.0,0.81
+bowhead_whale,Bowhead whale,foodb_auto,,Aquatic foods,Cetaceans,USDA,median of 3 USDA product(s),auto,3,3,311.0,True,869.99,0.4,96.5,0.0,0.0,0.0,0.0,102.0,75.0,320.0,2.5,0.25,5.0,0.64
+breadfruit,Breadfruit,foodb_auto,,Fruits,Tropical fruits,USDA,median of 2 USDA product(s),auto,2,0,312.0,False,146.989,4.235,2.91,28.18,5.05,11.0,0.0,0.0,2.0,490.0,17.0,0.54,30.0,0.12
+breadnut_tree_seed,Breadnut tree seed,foodb_auto,,Herbs and Spices,Other seeds,USDA,median of 1 USDA product(s),auto,1,2,313.0,False,217.009,5.97,0.99,46.28,7.2,0.87,0.0,0.0,31.0,1183.0,98.0,2.09,67.0,1.13
+rapini,Rapini,foodb_auto,,Vegetables,Cabbages,USDA,median of 1 USDA product(s),auto,1,1,314.0,False,21.994,3.17,0.49,2.85,2.7,0.38,0.0,0.0,33.0,196.0,108.0,2.14,73.0,0.77
+burbot,Burbot,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,317.0,False,102.533,22.035,0.925,0.0,0.0,0.0,0.0,60.0,97.0,404.0,50.0,0.9,200.0,0.76
+giant_butterbur,Giant butterbur,foodb_auto,,Vegetables,Other vegetables,USDA,median of 1 USDA product(s),auto,1,2,318.0,False,14.051,0.39,0.04,3.61,2.5,1.945,0.0,0.0,7.0,655.0,103.0,0.1,12.0,0.16
+american_butterfish,American butterfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,319.0,False,166.467,19.715,9.15,0.0,0.0,0.0,0.0,65.0,89.0,375.0,22.0,0.5,240.0,0.77
+butternut,Butternut,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,1,320.0,False,612.047,24.9,56.98,12.05,4.7,4.06,0.0,0.0,1.0,421.0,53.0,4.02,446.0,3.13
+calabash,Calabash,foodb_auto,,Gourds,Gourds,USDA,median of 1 USDA product(s),auto,1,1,322.0,False,14.051,0.62,0.02,3.39,0.5,2.35,0.0,0.0,2.0,150.0,26.0,0.2,13.0,0.7
+cardoon,Cardoon,foodb_auto,,Vegetables,Shoot vegetables,USDA,median of 1 USDA product(s),auto,1,1,323.0,False,16.985,0.7,0.1,4.07,1.6,1.945,0.0,0.0,170.0,400.0,70.0,0.7,23.0,0.17
+natal_plum,Natal plum,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,3,325.0,False,61.951,0.5,1.3,13.63,2.7,9.35,0.0,0.0,3.0,260.0,11.0,1.31,7.0,0.1
+common_carp,Common carp,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,327.0,False,144.5,20.345,6.385,0.0,0.0,0.0,0.0,66.0,49.0,333.0,41.0,1.24,415.0,1.48
+cherimoya,Cherimoya,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,0,331.0,False,74.904,1.57,0.68,17.71,3.0,12.87,0.0,0.0,6.5,179.0,7.5,0.252,15.75,0.118
+chia,Chia,foodb_auto,,Herbs and Spices,Other seeds,USDA,median of 1 USDA product(s),auto,1,1,333.0,False,486.069,16.54,30.74,42.12,34.4,0.87,0.0,0.0,9.5,326.75,336.25,7.72,509.75,2.838
+chinese_chestnut,Chinese chestnut,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,2,336.0,False,223.974,4.2,1.11,49.07,8.6,4.06,0.0,0.0,3.0,447.0,18.0,1.41,96.0,0.87
+chinese_water_chestnut,Chinese water chestnut,foodb_auto,,Vegetables,Other vegetables,USDA,median of 1 USDA product(s),auto,1,0,337.0,False,97.018,1.4,0.1,23.94,3.0,4.8,0.0,0.0,14.0,584.0,11.0,0.06,63.0,0.5
+garland_chrysanthemum,Garland chrysanthemum,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 2 USDA product(s),auto,2,1,338.0,False,23.95,3.36,0.56,3.015,3.0,1.945,0.0,0.0,118.0,567.0,117.0,2.29,54.0,0.71
+cisco,Cisco,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,0,339.0,False,97.996,18.99,1.91,0.0,0.0,0.0,0.0,50.0,55.0,354.0,12.0,0.4,152.0,0.37
+nuttall_cockle,Nuttall cockle,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,5,340.0,True,79.055,13.5,0.7,4.7,0.0,0.0,0.0,55.5,75.0,320.0,30.0,16.2,205.0,0.64
+pacific_cod,Pacific cod,foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,342.0,False,76.804,17.0,0.455,0.0,0.0,0.0,0.0,47.0,303.0,235.0,8.0,0.18,281.0,0.31
+corn_salad,Corn salad,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,2,345.0,False,21.016,2.0,0.4,3.6,2.5,1.945,0.0,0.0,4.0,459.0,38.0,2.18,53.0,0.59
+cottonseed,Cottonseed,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 6 USDA product(s),auto,6,0,346.0,False,436.544,36.775,21.245,29.0,1.5,0.0,0.0,0.0,25.0,1350.0,100.0,5.4,800.0,6.0
+catjang_pea,Catjang pea,foodb_auto,,Pulses,Peas,USDA,median of 1 USDA product(s),auto,1,1,347.0,False,342.987,23.85,2.07,59.64,10.7,4.08,0.0,0.0,58.0,1375.0,85.0,9.95,438.0,6.11
+malus_crab_apple,Malus (Crab apple),foodb_auto,,Fruits,Pomes,USDA,median of 1 USDA product(s),auto,1,3,348.0,False,76.002,0.4,0.3,19.95,2.7,9.35,0.0,0.0,1.0,194.0,18.0,0.36,15.0,0.1
+squashberry,Squashberry,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,3,349.0,True,55.225,1.1,0.2,12.3,6.7,9.35,0.0,0.0,26.0,140.0,20.0,1.0,15.0,0.1
+atlantic_croaker,Atlantic croaker,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,0,350.0,False,103.984,17.78,3.17,0.0,0.0,0.0,0.0,61.0,56.0,345.0,15.0,0.37,210.0,0.42
+cusk,Cusk,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,351.0,False,99.5,21.67,0.785,0.0,0.0,0.0,0.0,41.0,31.0,392.0,10.0,0.83,204.0,0.38
+cuttlefish,Cuttlefish,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,0,352.0,False,79.055,16.24,0.7,0.82,0.0,0.0,0.0,112.0,372.0,354.0,90.0,6.02,387.0,1.73
+devilfish,Devilfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,4,354.0,True,97.138,11.7,5.3,0.0,0.0,0.0,0.0,55.5,75.0,320.0,12.0,0.4,3.0,0.64
+dock,Dock,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,1,355.0,False,21.994,2.0,0.7,3.2,2.9,0.87,0.0,0.0,4.0,390.0,44.0,2.4,63.0,0.2
+dolphin_fish,Dolphin fish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,356.0,False,97.036,21.11,0.8,0.0,0.0,0.0,0.0,83.5,100.5,474.5,17.0,1.29,163.0,0.525
+freshwater_drum,Freshwater drum,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,357.0,False,135.994,20.015,5.625,0.0,0.0,0.0,0.0,64.0,75.0,275.0,60.0,0.9,180.0,0.66
+dungeness_crab,Dungeness crab,foodb_auto,,Aquatic foods,Crustaceans,USDA,median of 1 USDA product(s),auto,1,0,359.0,False,86.021,17.41,0.97,0.74,0.0,0.0,0.0,59.0,295.0,354.0,46.0,0.37,182.0,4.27
+oregon_yampah,Oregon yampah,foodb_auto,,Vegetables,Root vegetables,USDA,median of 1 USDA product(s),auto,1,2,366.0,False,150.048,4.6,1.8,31.68,2.5,1.945,0.0,0.0,12.0,340.0,110.0,1.15,165.0,1.15
+european_anchovy,European anchovy,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,0,367.0,False,130.988,20.35,4.84,0.0,0.0,0.0,0.0,60.0,104.0,383.0,147.0,3.25,174.0,1.72
+european_chestnut,European chestnut,foodb_auto,,Nuts,Nuts,USDA,median of 2 USDA product(s),auto,2,1,368.0,False,204.477,2.025,1.755,44.855,8.1,4.06,0.0,0.0,2.0,484.0,19.0,0.94,38.0,0.49
+turbot,Turbot,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,369.0,False,108.446,18.315,3.365,0.0,0.0,0.0,0.0,48.0,150.0,238.0,18.0,0.36,129.0,0.22
+fireweed,Fireweed,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 2 USDA product(s),auto,2,1,370.0,False,73.728,3.855,1.775,12.76,8.3,0.87,0.0,0.0,34.0,494.0,429.0,2.4,108.0,2.66
+florida_pompano,Florida pompano,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,371.0,False,187.5,21.085,10.805,0.0,0.0,0.0,0.0,50.0,65.0,381.0,22.0,0.6,195.0,0.72
+ginkgo_nuts,Ginkgo nuts,foodb_auto,,Herbs and Spices,Other seeds,USDA,median of 1 USDA product(s),auto,1,2,372.0,False,181.942,4.32,1.68,37.6,7.2,0.87,0.0,0.0,7.0,510.0,2.0,1.0,124.0,0.34
+greenland_halibut_turbot,Greenland halibut/turbot,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,375.0,False,212.5,16.395,15.79,0.0,0.0,0.0,0.0,46.0,80.0,268.0,3.0,0.66,164.0,0.4
+groundcherry,Groundcherry,foodb_auto,,Vegetables,Fruit vegetables,USDA,median of 2 USDA product(s),auto,2,5,376.0,False,53.03,1.9,0.7,11.2,2.5,1.945,0.0,0.0,14.0,312.0,9.0,1.0,40.0,0.308
+grouper,Grouper,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,377.0,False,105.009,22.11,1.16,0.0,0.0,0.0,0.0,37.0,53.0,483.0,27.0,0.89,162.0,0.48
+hippoglossus_common_halibut,Hippoglossus (Common halibut),foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,380.0,False,110.949,20.53,1.61,0.0,0.0,0.0,0.0,54.5,73.5,442.0,9.0,0.18,240.0,0.395
+hickory_nut,Hickory nut,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,1,382.0,False,657.013,12.72,64.37,18.25,6.4,4.06,0.0,0.0,1.0,436.0,61.0,2.12,336.0,4.31
+horseradish_tree,Horseradish tree,foodb_auto,,Vegetables,Other vegetables,USDA,median of 2 USDA product(s),auto,2,1,384.0,False,50.523,5.75,0.8,8.405,2.6,1.945,0.0,0.0,25.5,399.0,107.5,2.18,81.0,0.525
+hyacinth_bean,Hyacinth bean,foodb_auto,,Pulses,Beans,USDA,median of 2 USDA product(s),auto,2,0,386.0,False,195.0,13.0,0.945,34.965,3.3,4.08,0.0,0.0,21.0,1235.0,130.0,5.1,372.0,9.3
+irish_moss,Irish moss,foodb_auto,,Aquatic foods,Seaweed,USDA,median of 1 USDA product(s),auto,1,0,387.0,False,48.998,1.51,0.16,12.29,1.3,0.61,0.0,0.0,67.0,63.0,72.0,8.9,157.0,1.95
+jackfruit,Jackfruit,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,0,389.0,False,94.943,1.72,0.64,23.25,1.5,19.08,0.0,0.0,1.0,274.25,14.5,0.155,12.75,0.085
+japanese_chestnut,Japanese chestnut,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,2,390.0,False,153.96,2.25,0.53,34.91,8.6,4.06,0.0,0.0,14.0,329.0,31.0,1.45,72.0,1.1
+java_plum,Java plum,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,3,391.0,False,59.995,0.72,0.23,15.56,2.7,9.35,0.0,0.0,14.0,79.0,19.0,0.19,17.0,0.1
+jerusalem_artichoke,Jerusalem artichoke,foodb_auto,,Vegetables,Tubers,USDA,median of 1 USDA product(s),auto,1,0,392.0,False,72.829,2.0,0.01,17.44,1.6,9.6,0.0,0.0,4.0,429.0,14.0,3.4,78.0,0.12
+jujube,Jujube,foodb_auto,,Fruits,Other fruits,USDA,median of 1 USDA product(s),auto,1,2,393.0,False,79.055,1.2,0.2,20.23,2.7,9.35,0.0,0.0,3.0,250.0,21.0,0.48,23.0,0.05
+jute,Jute,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,2,394.0,False,33.969,4.65,0.25,5.8,2.5,1.945,0.0,0.0,8.0,559.0,208.0,4.76,83.0,0.79
+king_mackerel,King mackerel,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,397.0,False,119.5,23.14,2.28,0.0,0.0,0.0,0.0,53.0,158.0,435.0,31.0,1.78,248.0,0.56
+lambsquarters,Lambsquarters,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 2 USDA product(s),auto,2,1,399.0,False,45.011,4.205,0.54,7.13,5.15,1.945,0.0,0.0,43.0,452.0,309.0,1.2,72.0,0.44
+leather_chiton,Leather chiton,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,5,400.0,True,82.848,17.1,1.6,0.0,0.0,0.0,0.0,55.5,75.0,320.0,121.0,16.0,205.0,0.64
+common_ling,Common ling,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,402.0,False,98.949,21.67,0.73,0.0,0.0,0.0,0.0,40.0,135.0,379.0,34.0,0.65,198.0,0.78
+lingcod,Lingcod,foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,403.0,False,85.043,17.9,1.06,0.0,0.0,0.0,0.0,52.0,59.0,437.0,14.0,0.32,201.0,0.45
+lotus,Lotus,foodb_auto,,Herbs and Spices,Other seeds,USDA,median of 2 USDA product(s),auto,2,2,406.0,False,88.955,4.13,0.53,17.28,7.2,0.87,0.0,0.0,20.5,461.5,44.5,1.055,134.0,0.335
+sacred_lotus,Sacred lotus,foodb_auto,,Vegetables,Other vegetables,USDA,median of 1 USDA product(s),auto,1,1,407.0,False,74.165,2.6,0.1,17.23,4.9,1.945,0.0,0.0,40.0,556.0,45.0,1.16,100.0,0.39
+white_lupine,White lupine,foodb_auto,,Pulses,Other pulses,USDA,median of 1 USDA product(s),auto,1,2,408.0,False,370.968,36.17,9.74,40.38,14.6,4.08,0.0,0.0,15.0,1013.0,176.0,4.36,440.0,4.75
+malabar_spinach,Malabar spinach,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,2,409.0,False,18.941,1.8,0.3,3.4,2.5,1.945,0.0,0.0,24.0,510.0,109.0,1.2,52.0,0.43
+mammee_apple,Mammee apple,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,410.0,False,50.954,0.5,0.5,12.5,3.0,9.35,0.0,0.0,15.0,47.0,11.0,0.7,11.0,0.1
+purple_mangosteen,Purple mangosteen,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,411.0,False,72.948,0.41,0.58,17.91,1.8,9.35,0.0,0.0,7.0,48.0,12.0,0.3,8.0,0.21
+alpine_sweetvetch,Alpine sweetvetch,foodb_auto,,Vegetables,Root vegetables,USDA,median of 1 USDA product(s),auto,1,8,412.0,True,135.139,5.8,2.4,22.6,2.5,1.945,0.0,0.0,14.0,312.0,32.375,0.8,67.0,0.308
+milkfish,Milkfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,413.0,False,169.0,23.425,7.68,0.0,0.0,0.0,0.0,52.0,72.0,292.0,51.0,0.32,162.0,0.82
+monkfish,Monkfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,414.0,False,86.502,16.52,1.735,0.0,0.0,0.0,0.0,25.0,18.0,400.0,8.0,0.32,200.0,0.41
+moth_bean,Moth bean,foodb_auto,,Pulses,Beans,USDA,median of 1 USDA product(s),auto,1,2,416.0,False,342.987,22.94,1.61,61.52,14.6,4.08,0.0,0.0,30.0,1191.0,150.0,10.85,489.0,1.92
+mountain_yam,Mountain yam,foodb_auto,,Vegetables,Tubers,USDA,median of 1 USDA product(s),auto,1,2,417.0,False,66.961,1.34,0.1,16.31,2.5,1.945,0.0,0.0,13.0,418.0,26.0,0.44,34.0,0.27
+striped_mullet,Striped mullet,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,418.0,False,133.556,22.08,4.325,0.0,0.0,0.0,0.0,49.0,65.0,357.0,41.0,1.02,221.0,0.52
+mustard_spinach,Mustard spinach,foodb_auto,,Vegetables,Cabbages,USDA,median of 1 USDA product(s),auto,1,1,421.0,False,21.994,2.2,0.3,3.9,2.8,1.945,0.0,0.0,21.0,449.0,210.0,1.5,28.0,0.17
+new_zealand_spinach,New Zealand spinach,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,0,422.0,False,14.051,1.5,0.2,2.5,1.5,0.29,0.0,0.0,130.0,130.0,58.0,0.8,28.0,0.38
+nopal,Nopal,foodb_auto,,Vegetables,Other vegetables,USDA,median of 1 USDA product(s),auto,1,0,423.0,False,15.887,1.32,0.09,3.33,2.2,1.15,0.0,0.0,12.25,168.5,105.25,0.42,9.25,0.16
+ocean_pout,Ocean pout,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,424.0,False,90.555,18.985,1.04,0.0,0.0,0.0,0.0,52.0,61.0,400.0,10.0,0.28,200.0,1.03
+north_pacific_giant_octopus,North Pacific giant octopus,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,2,425.0,True,56.203,12.3,0.8,0.0,0.0,0.0,0.0,41.0,75.0,320.0,35.0,4.9,158.0,1.43
+ohelo_berry,Ohelo berry,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,3,426.0,False,27.982,0.38,0.22,6.84,2.7,9.35,0.0,0.0,1.0,38.0,7.0,0.09,10.0,0.1
+tunicate,Tunicate,foodb_auto,,Aquatic foods,Other aquatic foods,USDA,median of 1 USDA product(s),auto,1,4,428.0,True,66.841,11.7,2.2,0.0,0.0,0.0,0.0,55.5,75.0,320.0,53.0,20.7,103.0,0.64
+spotted_seal,Spotted seal,foodb_auto,,Aquatic foods,Pinnipeds,USDA,median of 1 USDA product(s),auto,1,1,431.0,True,893.941,0.0,99.32,0.0,0.0,0.0,0.0,55.5,0.0,0.0,0.0,0.0,0.0,0.0
+pacific_herring,Pacific herring,foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,432.0,False,250.0,21.01,13.88,0.0,0.0,0.0,0.0,77.0,74.0,423.0,83.0,1.12,260.0,0.53
+pacific_oyster,Pacific oyster,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,0,433.0,False,81.011,9.45,2.3,4.95,0.0,0.0,0.0,50.0,106.0,168.0,8.0,5.11,162.0,16.62
+pacific_rockfish,Pacific rockfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,434.0,False,99.672,20.295,1.48,0.0,0.0,0.0,0.0,50.0,74.0,386.0,14.0,0.3,205.0,0.36
+common_persimmon,Common persimmon,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,3,437.0,False,126.956,0.8,0.4,33.5,2.7,9.35,0.0,0.0,1.0,310.0,27.0,2.5,26.0,0.1
+northern_pike,Northern pike,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,439.0,False,100.5,21.975,0.785,0.0,0.0,0.0,0.0,39.0,39.0,259.0,57.0,0.55,220.0,0.67
+pili_nut,Pili nut,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,2,440.0,False,718.965,10.8,79.55,3.98,8.6,4.06,0.0,0.0,3.0,507.0,145.0,3.53,575.0,2.97
+colorado_pinyon,Colorado pinyon,foodb_auto,,Nuts,Nuts,USDA,median of 1 USDA product(s),auto,1,1,441.0,False,629.032,11.57,60.98,19.3,10.7,4.06,0.0,0.0,72.0,628.0,8.0,3.06,35.0,4.28
+pitanga,Pitanga,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,3,442.0,False,32.991,0.8,0.4,7.49,2.7,9.35,0.0,0.0,3.0,103.0,9.0,0.2,11.0,0.1
+plains_prickly_pear,Plains prickly pear,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,443.0,True,42.033,0.12,0.11,10.17,5.3,1.02,0.0,0.0,4.0,130.0,180.0,0.2,11.0,0.14
+french_plantain,French plantain,foodb_auto,,Fruits,Tropical fruits,USDA,median of 2 USDA product(s),auto,2,0,444.0,False,121.946,1.3,0.37,31.89,2.3,15.0,0.0,0.0,3.0,465.0,2.5,0.675,32.5,0.16
+american_pokeweed,American pokeweed,foodb_auto,,Vegetables,Shoot vegetables,USDA,median of 1 USDA product(s),auto,1,1,445.0,False,22.972,2.6,0.4,3.7,1.7,1.945,0.0,0.0,23.0,242.0,53.0,1.7,44.0,0.24
+opium_poppy,Opium poppy,foodb_auto,,Herbs and Spices,Spices,USDA,median of 1 USDA product(s),auto,1,0,447.0,False,524.928,17.99,41.56,28.13,19.5,2.99,0.0,0.0,26.0,719.0,1438.0,9.76,870.0,7.9
+prairie_turnip,Prairie turnip,foodb_auto,,Vegetables,Root vegetables,USDA,median of 1 USDA product(s),auto,1,1,448.0,True,156.155,2.62,0.36,35.67,8.0,0.82,0.0,0.0,3.0,79.5,66.5,0.645,17.0,0.195
+quinoa,Quinoa,foodb_auto,,Herbs and Spices,Other seeds,USDA,median of 1 USDA product(s),auto,1,1,450.0,False,367.915,14.12,6.07,64.16,7.0,0.87,0.0,0.0,3.25,311.5,23.75,2.41,246.0,1.625
+rainbow_smelt,Rainbow smelt,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,453.0,False,110.518,20.115,2.76,0.0,0.0,0.0,0.0,70.0,60.0,290.0,60.0,0.9,230.0,1.65
+rainbow_trout,Rainbow trout,foodb_auto,,Aquatic foods,Fishes,USDA,median of 4 USDA product(s),auto,4,0,454.0,False,145.5,21.7,6.0,0.0,0.0,0.0,0.0,59.0,51.0,450.0,67.0,0.38,270.0,0.54
+malabar_plum,Malabar plum,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,2,455.0,False,25.048,0.6,0.3,5.7,2.7,9.35,0.0,0.0,0.0,123.0,29.0,0.07,8.0,0.06
+rose_hip,Rose hip,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,1,456.0,True,162.142,1.6,0.34,38.22,24.1,2.58,0.0,0.0,4.0,429.0,169.0,1.06,61.0,0.25
+roselle,Roselle,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,3,457.0,False,48.998,0.96,0.64,11.31,7.2,0.87,0.0,0.0,6.0,208.0,215.0,1.48,37.0,1.04
+orange_roughy,Orange roughy,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,458.0,False,90.703,19.525,0.8,0.0,0.0,0.0,0.0,60.0,72.0,167.0,9.0,1.01,107.0,0.23
+sablefish,Sablefish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,459.0,False,222.514,15.3,17.46,0.0,0.0,0.0,0.0,49.0,56.0,358.0,35.0,1.28,168.0,0.32
+pink_salmon,Pink salmon,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,460.0,False,139.818,22.54,4.84,0.0,0.0,0.0,0.0,46.0,75.0,366.0,7.0,0.38,261.0,0.39
+chum_salmon,Chum salmon,foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,461.0,False,119.99,20.69,3.77,0.0,0.0,0.0,0.0,74.0,54.5,429.0,11.0,0.555,283.0,0.505
+coho_salmon,Coho salmon,foodb_auto,,Aquatic foods,Fishes,USDA,median of 5 USDA product(s),auto,5,0,462.0,False,146.016,22.56,5.93,0.0,0.0,0.0,0.0,53.0,49.5,428.5,24.0,0.555,277.0,0.42
+sockeye_salmon,Sockeye salmon,foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,463.0,False,153.101,21.94,6.69,0.0,0.0,0.0,0.0,58.0,86.0,351.5,8.5,0.46,253.0,0.46
+salmonberry,Salmonberry,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,1,466.0,True,46.803,0.85,0.33,10.05,1.9,3.66,0.0,0.0,14.0,110.0,13.0,0.4,27.0,0.28
+common_salsify,Common salsify,foodb_auto,,Vegetables,Root vegetables,USDA,median of 1 USDA product(s),auto,1,1,467.0,False,81.989,3.3,0.2,18.6,3.3,1.945,0.0,0.0,20.0,380.0,60.0,0.7,75.0,0.38
+sapodilla,Sapodilla,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,468.0,False,82.967,0.44,1.1,19.96,5.3,9.35,0.0,0.0,12.0,193.0,21.0,0.8,12.0,0.1
+mamey_sapote,Mamey sapote,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,0,469.0,False,124.141,1.45,0.46,32.1,5.4,20.14,0.0,0.0,4.75,302.25,15.25,1.1,20.25,0.132
+spanish_mackerel,Spanish mackerel,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,470.0,False,148.542,21.44,6.31,0.0,0.0,0.0,0.0,76.0,59.0,446.0,11.0,0.44,205.0,0.49
+pacific_sardine,Pacific sardine,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,0,471.0,False,184.995,20.86,10.45,0.54,0.1,0.43,0.0,61.0,414.0,341.0,240.0,2.3,366.0,1.4
+scup,Scup,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,473.0,False,120.0,21.545,3.115,0.0,0.0,0.0,0.0,52.0,42.0,287.0,40.0,0.53,185.0,0.48
+sea_cucumber,Sea cucumber,foodb_auto,,Aquatic foods,Other aquatic foods,USDA,median of 1 USDA product(s),auto,1,5,474.0,True,55.844,13.0,0.4,0.0,0.0,0.0,0.0,55.5,75.0,320.0,30.0,0.6,205.0,0.64
+steller_sea_lion,Steller sea lion,foodb_auto,,Aquatic foods,Pinnipeds,USDA,median of 6 USDA product(s),auto,6,0,475.0,True,128.466,20.1,4.15,0.5,0.0,0.0,0.0,95.0,88.0,319.0,6.0,9.0,263.0,3.32
+bearded_seal,Bearded seal,foodb_auto,,Aquatic foods,Pinnipeds,USDA,median of 2 USDA product(s),auto,2,0,476.0,True,148.184,25.165,5.285,0.0,0.0,0.0,0.0,110.5,57.0,210.0,7.0,14.95,169.0,2.6
+ringed_seal,Ringed seal,foodb_auto,,Aquatic foods,Pinnipeds,USDA,median of 2 USDA product(s),auto,2,2,477.0,True,129.0,23.5,3.25,1.45,0.0,0.0,0.0,90.0,110.0,320.0,9.0,16.55,120.5,0.64
+sea_trout,Sea trout,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,478.0,False,118.444,19.1,4.12,0.0,0.0,0.0,0.0,83.0,58.0,341.0,17.0,0.27,250.0,0.45
+sesbania_flower,Sesbania flower,foodb_auto,,Vegetables,Other vegetables,USDA,median of 1 USDA product(s),auto,1,3,479.0,False,27.004,1.28,0.04,6.73,2.5,1.945,0.0,0.0,15.0,184.0,19.0,0.84,30.0,0.308
+american_shad,American shad,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,480.0,False,224.456,19.32,15.71,0.0,0.0,0.0,0.0,75.0,51.0,384.0,47.0,0.97,272.0,0.37
+shark,Shark,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,0,481.0,False,130.01,20.98,4.51,0.0,0.0,0.0,0.0,51.0,79.0,160.0,34.0,0.84,210.0,0.43
+sheefish,Sheefish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,0,482.0,True,114.742,22.25,2.84,0.0,0.0,0.0,0.0,56.0,52.0,390.0,140.0,0.5,300.0,0.6
+sheepshead,Sheepshead,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,484.0,False,116.993,23.115,2.02,0.0,0.0,0.0,0.0,50.0,71.0,404.0,21.0,0.46,313.0,0.39
+hedge_mustard,Hedge mustard,foodb_auto,,Herbs and Spices,Other seeds,USDA,median of 1 USDA product(s),auto,1,2,485.0,False,318.058,12.14,4.6,58.26,7.2,0.87,0.0,0.0,92.0,2130.0,1633.0,0.11,6.0,0.3
+skipjack_tuna,Skipjack tuna,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,486.0,False,117.471,25.105,1.15,0.0,0.0,0.0,0.0,47.0,37.0,407.0,29.0,1.25,222.0,0.82
+snapper,Snapper,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,487.0,False,114.0,23.405,1.53,0.0,0.0,0.0,0.0,37.0,64.0,417.0,32.0,0.18,198.0,0.36
+soursop,Soursop,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,0,488.0,False,65.983,1.0,0.3,16.84,3.3,13.54,0.0,0.0,14.0,278.0,14.0,0.6,27.0,0.1
+spelt,Spelt,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 1 USDA product(s),auto,1,0,489.0,False,337.977,14.57,2.43,70.19,10.7,6.82,0.0,0.0,5.75,196.0,13.75,2.302,220.5,1.902
+spirulina,Spirulina,foodb_auto,,Aquatic foods,Seaweed,USDA,median of 1 USDA product(s),auto,1,0,490.0,False,26.026,5.92,0.39,2.42,0.0,0.0,0.0,0.0,98.0,127.0,12.0,2.79,11.0,0.2
+strawberry_guava,Strawberry guava,foodb_auto,,Fruits,Berries,USDA,median of 1 USDA product(s),auto,1,2,493.0,False,69.036,0.58,0.6,17.36,5.4,9.35,0.0,0.0,37.0,292.0,21.0,0.22,27.0,0.1
+greater_sturgeon,Greater sturgeon,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,494.0,False,120.0,18.42,4.61,0.0,0.0,0.0,0.0,60.0,54.0,284.0,13.0,0.7,211.0,0.42
+white_sucker,White sucker,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,495.0,False,105.509,19.125,2.645,0.0,0.0,0.0,0.0,41.0,40.0,380.0,70.0,1.3,210.0,0.75
+sugar_apple,Sugar apple,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,496.0,False,93.965,2.06,0.29,23.64,4.4,9.35,0.0,0.0,9.0,247.0,24.0,0.6,32.0,0.1
+pumpkinseed_sunfish,Pumpkinseed sunfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,497.0,False,101.5,22.135,0.8,0.0,0.0,0.0,0.0,67.0,80.0,350.0,80.0,1.2,180.0,1.55
+swordfish,Swordfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,498.0,False,157.803,21.555,7.29,0.0,0.0,0.0,0.0,66.0,81.0,418.0,5.0,0.38,255.0,0.66
+taro,Taro,foodb_auto,,Vegetables,Root vegetables,USDA,median of 4 USDA product(s),auto,4,0,499.0,False,43.141,2.145,0.47,6.805,3.9,1.705,0.0,0.0,11.0,591.0,43.0,0.6,60.0,0.23
+teff,Teff,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,1,500.0,False,367.056,13.3,2.38,73.13,8.0,1.84,0.0,0.0,8.5,224.5,93.0,4.985,228.0,1.975
+tilefish,Tilefish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,501.0,False,121.534,20.995,3.5,0.0,0.0,0.0,0.0,50.0,53.0,433.0,26.0,0.25,187.0,0.37
+mexican_groundcherry,Mexican groundcherry,foodb_auto,,Vegetables,Fruit vegetables,USDA,median of 1 USDA product(s),auto,1,0,502.0,False,31.894,0.96,1.02,5.84,1.9,3.93,0.0,0.0,1.0,268.0,7.0,0.62,39.0,0.22
+towel_gourd,Towel gourd,foodb_auto,,Gourds,Gourds,USDA,median of 1 USDA product(s),auto,1,0,503.0,False,20.038,1.2,0.2,4.35,1.1,2.02,0.0,0.0,3.0,139.0,20.0,0.36,32.0,0.07
+salmonidae_salmon_trout,"Salmonidae (Salmon, Trout)",foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,504.0,False,169.0,23.7,7.54,0.0,0.0,0.0,0.0,66.0,59.5,412.0,49.0,1.71,279.5,0.755
+walleye,Walleye,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,507.0,False,106.0,21.84,1.39,0.0,0.0,0.0,0.0,98.0,58.0,444.0,125.5,1.485,239.5,0.705
+alaska_pollock,Alaska pollock,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,508.0,False,83.449,17.835,0.795,0.0,0.0,0.0,0.0,66.0,376.0,295.0,43.5,0.39,275.5,0.44
+wax_gourd,Wax gourd,foodb_auto,,Gourds,Gourds,USDA,median of 1 USDA product(s),auto,1,1,510.0,False,12.953,0.4,0.2,3.0,2.9,2.35,0.0,0.0,111.0,6.0,19.0,0.4,19.0,0.61
+whelk,Whelk,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,0,511.0,False,136.975,23.84,0.4,7.76,0.0,0.0,0.0,65.0,206.0,347.0,57.0,5.03,141.0,1.63
+broad_whitefish,Broad whitefish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,4,513.0,True,105.418,14.8,4.0,2.55,0.0,0.0,0.0,55.5,75.0,320.0,53.0,6.25,269.5,0.64
+whitefish,Whitefish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 3 USDA product(s),auto,3,0,514.0,False,134.041,19.09,6.1,0.0,0.0,0.0,0.0,60.0,51.0,317.0,26.0,0.37,275.0,0.99
+whiting,Whiting,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,515.0,False,102.772,20.895,1.5,0.0,0.0,0.0,0.0,67.0,72.0,249.0,48.0,0.34,222.0,0.88
+wild_rice,Wild rice,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 1 USDA product(s),auto,1,0,516.0,False,357.037,14.73,1.08,74.9,6.2,2.5,0.0,0.0,7.0,427.0,21.0,1.96,433.0,5.96
+tea_leaf_willow,Tea leaf willow,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 2 USDA product(s),auto,2,6,517.0,True,356.889,4.35,31.3,14.4,7.2,0.87,0.0,0.0,16.0,458.0,130.0,2.6,126.0,1.04
+winged_bean,Winged bean,foodb_auto,,Pulses,Beans,USDA,median of 4 USDA product(s),auto,4,2,518.0,False,111.018,9.275,1.0,21.1,14.6,4.08,0.0,0.0,22.0,404.5,154.0,3.0,54.0,1.335
+jicama,Jicama,foodb_auto,,Vegetables,Root vegetables,USDA,median of 1 USDA product(s),auto,1,0,520.0,False,38.001,0.72,0.09,8.82,4.9,1.8,0.0,0.0,4.0,150.0,12.0,0.6,18.0,0.16
+yautia,Yautia,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,1,521.0,False,98.116,1.46,0.4,23.63,1.5,1.945,0.0,0.0,12.5,300.0,4.75,0.7,26.0,0.3
+yellowtail_amberjack,Yellowtail amberjack,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,523.0,False,166.467,26.405,5.98,0.0,0.0,0.0,0.0,55.0,39.0,420.0,23.0,0.49,157.0,0.52
+albacore_tuna,Albacore tuna,foodb_auto,,Aquatic foods,Fishes,USDA,median of 4 USDA product(s),auto,4,0,525.0,False,157.027,25.075,5.525,0.0,0.0,0.0,0.0,36.5,213.5,285.0,9.0,0.81,242.0,0.475
+pacific_salmon,Pacific salmon,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,6,529.0,True,158.969,15.9,10.6,0.0,0.0,0.0,0.0,55.5,75.0,320.0,26.0,0.834,46.0,0.64
+smelt,Smelt,foodb_auto,,Aquatic foods,Fishes,USDA,median of 1 USDA product(s),auto,1,0,530.0,True,385.878,56.19,17.9,0.0,0.0,0.0,0.0,249.0,420.0,1000.0,1600.0,5.4,1400.0,6.7
+clupeinae_herring_sardine_sprat,"Clupeinae (Herring, Sardine, Sprat)",foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,531.0,False,902.004,0.0,100.0,0.0,0.0,0.0,0.0,738.0,0.0,0.0,0.0,0.0,0.0,0.0
+spiny_lobster,Spiny lobster,foodb_auto,,Aquatic foods,Crustaceans,USDA,median of 1 USDA product(s),auto,1,0,532.0,False,112.047,20.6,1.51,2.43,0.0,0.0,0.0,70.0,177.0,180.0,49.0,1.22,238.0,5.67
+snow_crab,Snow crab,foodb_auto,,Aquatic foods,Crustaceans,USDA,median of 1 USDA product(s),auto,1,0,533.0,False,90.053,18.5,1.18,0.0,0.0,0.0,0.0,55.0,539.0,173.0,26.0,2.5,133.0,2.8
+black_eyed_pea,Black-eyed pea,foodb_auto,,Pulses,Peas,USDA,median of 2 USDA product(s),auto,2,0,534.0,False,213.0,13.235,0.805,39.43,7.8,4.95,0.0,0.0,10.0,771.5,118.0,4.685,238.5,2.19
+deer,Deer,foodb_auto,,Animal foods,Venison,USDA,median of 3 USDA product(s),auto,3,0,535.0,False,119.99,21.78,2.66,0.0,0.0,0.0,0.0,82.5,51.0,318.0,6.0,3.16,202.0,2.09
+percoidei_bass_and_others,Percoidei (Bass and others),foodb_auto,,Aquatic foods,Fishes,USDA,median of 7 USDA product(s),auto,7,0,537.0,False,115.503,21.51,2.28,0.0,0.0,0.0,0.0,80.0,70.0,328.0,80.0,0.9,200.0,0.65
+perciformes,Perciformes,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,538.0,False,179.5,22.9,9.005,0.0,0.0,0.0,0.0,53.5,98.0,463.5,26.0,1.325,142.5,0.765
+rabbit,Rabbit,foodb_auto,,Animal foods,Lagomorphs,USDA,median of 1 USDA product(s),auto,1,1,540.0,False,114.003,21.79,2.32,0.0,0.0,0.0,0.0,81.0,50.0,378.0,12.0,3.2,226.0,2.98
+domestic_goat,Domestic goat,foodb_auto,,Animal foods,Caprae,USDA,median of 2 USDA product(s),auto,2,0,541.0,False,108.993,20.6,2.31,0.0,0.0,0.0,0.0,57.0,82.0,385.0,13.0,2.83,180.0,4.0
+beefalo,Beefalo,foodb_auto,,Animal foods,Bovines,USDA,median of 1 USDA product(s),auto,1,0,542.0,False,142.963,23.3,4.8,0.0,0.0,0.0,0.0,44.0,78.0,436.0,18.0,2.32,224.0,4.86
+crayfish,Crayfish,foodb_auto,,Aquatic foods,Crustaceans,USDA,median of 2 USDA product(s),auto,2,0,547.0,False,74.48,15.41,0.96,0.0,0.0,0.0,0.0,110.5,60.0,281.5,26.0,0.695,237.0,1.155
+flatfish,Flatfish,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,548.0,False,78.134,13.825,2.15,0.0,0.0,0.0,0.0,45.0,296.0,160.0,21.0,0.18,252.0,0.32
+walrus,Walrus,foodb_auto,,Aquatic foods,Pinnipeds,USDA,median of 3 USDA product(s),auto,3,3,550.0,True,199.046,19.2,13.6,0.0,0.0,0.0,0.0,80.0,75.0,320.0,18.0,9.4,125.0,0.64
+alaska_wild_rhubarb,Alaska wild rhubarb,foodb_auto,,Vegetables,Stalk vegetables,USDA,median of 1 USDA product(s),auto,1,8,551.0,True,60.973,4.2,0.5,9.9,2.5,1.945,0.0,0.0,14.0,312.0,32.375,0.8,87.0,0.308
+oriental_wheat,Oriental wheat,foodb_auto,,Cereals and cereal products,Cereals,USDA,median of 1 USDA product(s),auto,1,1,552.0,False,337.119,14.7,2.2,70.38,9.1,8.19,0.0,0.0,6.0,446.0,24.0,4.41,386.0,3.68
+yardlong_bean,Yardlong bean,foodb_auto,,Pulses,Peas,USDA,median of 2 USDA product(s),auto,2,1,553.0,False,197.042,13.565,0.855,35.13,11.0,4.08,0.0,0.0,4.0,240.0,50.0,0.47,59.0,0.37
+quail,Quail,foodb_auto,,Animal foods,Poultry,USDA,median of 3 USDA product(s),auto,3,0,555.0,False,134.041,21.76,4.53,0.0,0.0,0.0,0.0,70.0,52.0,237.0,13.0,4.24,291.0,2.7
+boysenberry,Boysenberry,foodb_auto,,Fruits,Berries,USDA,median of 2 USDA product(s),auto,2,0,556.0,False,68.977,1.045,0.19,17.25,3.95,6.89,0.0,0.0,2.0,114.5,22.5,0.64,18.5,0.205
+feijoa,Feijoa,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,0,558.0,False,54.986,0.98,0.6,12.92,6.4,8.2,0.0,0.0,2.0,96.75,12.5,0.115,10.75,0.052
+rowal,Rowal,foodb_auto,,Herbs and Spices,Other seeds,USDA,median of 1 USDA product(s),auto,1,1,559.0,False,110.71,2.3,2.0,23.9,6.2,14.1,0.0,0.0,4.0,131.0,15.0,2.2,52.0,0.43
+jew_s_ear,Jew's ear,foodb_auto,,Vegetables,Mushrooms,USDA,median of 1 USDA product(s),auto,1,2,560.0,False,25.048,0.48,0.04,6.75,2.5,1.945,0.0,0.0,9.0,43.0,16.0,0.56,14.0,0.66
+epazote,Epazote,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,1,566.0,False,32.013,0.33,0.52,7.44,3.8,0.87,0.0,0.0,43.0,633.0,275.0,1.88,86.0,1.1
+oyster_mushroom,Oyster mushroom,foodb_auto,,Vegetables,Mushrooms,USDA,median of 1 USDA product(s),auto,1,0,567.0,False,33.111,3.31,0.41,6.09,2.3,1.11,0.0,0.0,18.0,293.0,3.25,1.08,76.25,0.51
+cloud_ear_fungus,Cloud ear fungus,foodb_auto,,Vegetables,Mushrooms,USDA,median of 1 USDA product(s),auto,1,1,568.0,False,284.208,9.25,0.73,73.01,70.1,1.945,0.0,0.0,35.0,754.0,159.0,5.88,184.0,1.32
+maitake,Maitake,foodb_auto,,Vegetables,Mushrooms,USDA,median of 1 USDA product(s),auto,1,0,569.0,False,31.035,1.94,0.19,6.97,2.7,2.07,0.0,0.0,0.75,107.0,1.0,0.158,74.0,0.75
+ostrich_fern,Ostrich fern,foodb_auto,,Vegetables,Leaf vegetables,USDA,median of 1 USDA product(s),auto,1,2,570.0,False,34.089,4.55,0.4,5.54,2.5,1.945,0.0,0.0,1.0,370.0,32.0,1.31,101.0,0.83
+spot_croaker,Spot croaker,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,571.0,False,140.535,21.12,5.59,0.0,0.0,0.0,0.0,60.0,29.0,496.0,14.0,0.32,186.0,0.51
+sourdock,Sourdock,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 1 USDA product(s),auto,1,6,572.0,True,41.793,2.3,0.7,6.5,7.2,0.87,0.0,0.0,16.0,458.0,2.0,0.8,55.0,1.04
+tinda,Tinda,foodb_auto,,Gourds,Gourds,USDA,median of 1 USDA product(s),auto,1,2,573.0,True,26.265,0.52,0.2,5.64,1.05,3.54,0.0,0.0,20.0,205.0,9.0,0.17,12.0,0.07
+atlantic_menhaden,Atlantic menhaden,foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,574.0,False,902.004,0.0,100.0,0.0,0.0,0.0,0.0,510.5,0.0,0.0,0.0,0.0,0.0,0.0
+common_chokecherry,Common chokecherry,foodb_auto,,Fruits,Drupes,USDA,median of 2 USDA product(s),auto,2,1,576.0,True,158.903,2.965,1.335,33.75,18.5,11.795,0.0,0.0,3.5,344.0,50.0,0.545,56.0,0.26
+agave,Agave,foodb_auto,,Vegetables,Other vegetables,USDA,median of 1 USDA product(s),auto,1,0,577.0,False,68.178,0.52,0.15,16.23,6.6,2.58,0.0,0.0,14.0,127.0,417.0,1.8,7.0,0.15
+narrowleaf_cattail,Narrowleaf cattail,foodb_auto,,Vegetables,Other vegetables,USDA,median of 1 USDA product(s),auto,1,1,578.0,True,25.167,1.18,0.0,5.14,4.5,0.22,0.0,0.0,72.25,179.75,35.0,0.76,27.0,0.142
+jellyfish,Jellyfish,foodb_auto,,Aquatic foods,Other aquatic foods,USDA,median of 1 USDA product(s),auto,1,0,579.0,False,36.045,5.5,1.4,0.0,0.0,0.0,0.0,5.0,9690.0,3.0,2.0,2.27,20.0,0.42
+blue_whiting,Blue whiting,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,581.0,False,79.6,18.1,0.8,0.0,0.0,0.0,0.0,55.5,51.0,0.0,24.0,1.0,0.0,0.0
+chanterelle,Chanterelle,foodb_auto,,Vegetables,Mushrooms,USDA,median of 1 USDA product(s),auto,1,1,583.0,False,38.12,1.49,0.53,6.86,3.8,1.16,0.0,0.0,5.0,259.5,10.0,2.06,31.75,0.372
+charr,Charr,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,585.0,False,106.3,20.5,2.7,0.0,0.0,0.0,0.0,55.5,80.0,370.0,0.0,0.75,260.0,0.67
+common_dab,Common dab,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,588.0,False,81.0,18.0,1.0,0.0,0.0,0.0,0.0,55.5,75.0,350.0,27.0,0.3,182.0,0.46
+spiny_dogfish,Spiny dogfish,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,589.0,False,156.5,19.1,8.9,0.0,0.0,0.0,0.0,55.5,100.0,223.0,13.0,1.32,253.0,0.52
+true_frog,True frog,foodb_auto,,Aquatic foods,Amphibians,USDA,median of 1 USDA product(s),auto,1,0,592.0,False,72.948,16.4,0.3,0.0,0.0,0.0,0.0,50.0,58.0,285.0,18.0,1.5,147.0,1.0
+garfish,Garfish,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,593.0,False,109.9,21.4,2.7,0.0,0.0,0.0,0.0,55.5,55.0,298.0,25.0,0.4,251.0,0.5
+mountain_hare,Mountain hare,foodb_auto,,Animal foods,Lagomorphs,DTU,median of 1 DTU product(s),auto,1,1,595.0,False,113.4,21.6,3.0,0.0,0.0,0.0,0.0,72.0,77.0,318.0,9.1,0.8,210.0,1.7
+lake_trout,Lake trout,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,596.0,False,146.6,19.1,7.8,0.0,0.0,0.0,0.0,55.5,80.0,370.0,0.0,0.75,260.0,0.44
+lumpsucker,Lumpsucker,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,599.0,False,167.0,9.8,14.2,0.0,0.0,0.0,0.0,55.5,69.0,485.0,20.0,0.5,203.0,0.0
+scombridae_bonito_mackerel_tuna,"Scombridae (Bonito, Mackerel, Tuna)",foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,600.0,False,292.0,18.1,24.4,0.0,0.0,0.0,0.0,55.5,70.0,256.0,15.0,0.75,267.0,0.1
+norway_lobster,Norway lobster,foodb_auto,,Aquatic foods,Crustaceans,DTU,median of 1 DTU product(s),auto,1,1,603.0,False,93.3,19.6,1.3,0.8,0.0,0.0,0.0,55.5,341.0,213.0,48.0,2.0,144.0,4.6
+oil_palm,Oil palm,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 8 USDA product(s),auto,8,0,605.0,False,884.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,1.0,0.15,0.0,0.04
+pikeperch,Pikeperch,foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,609.0,False,85.1,19.2,0.7,0.5,0.0,0.5,0.0,55.5,57.0,340.0,54.0,0.3,220.0,0.4
+pleuronectidae_dab_halibut_plaice,"Pleuronectidae (Dab, Halibut, Plaice)",foodb_auto,,Aquatic foods,Fishes,DTU,median of 1 DTU product(s),auto,1,1,610.0,False,86.3,18.2,1.5,0.0,0.0,0.0,0.0,55.5,92.0,321.0,45.0,0.3,220.0,0.68
+rock_ptarmigan,Rock ptarmigan,foodb_auto,,Animal foods,Poultry,DTU,median of 1 DTU product(s),auto,1,1,611.0,False,112.0,23.5,2.0,0.0,0.0,0.0,0.0,72.0,88.5,390.0,40.0,7.5,290.0,1.5
+true_seal,True seal,foodb_auto,,Aquatic foods,Pinnipeds,DTU,median of 1 DTU product(s),auto,1,1,614.0,False,117.0,23.4,2.6,0.0,0.0,0.0,0.0,55.5,183.0,285.0,16.0,12.1,213.0,2.5
+kombu,Kombu,foodb_auto,,Aquatic foods,Seaweed,DTU,median of 1 DTU product(s),auto,1,1,616.0,False,246.4,7.9,0.6,52.35,2.65,0.0,0.0,55.5,3100.0,7500.0,680.0,3.3,250.0,1.0
+snail,Snail,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,0,617.0,False,90.053,16.1,1.4,2.0,0.0,0.0,0.0,50.0,70.0,382.0,10.0,3.5,272.0,1.0
+thistle,Thistle,foodb_auto,,Vegetables,Root vegetables,DTU,median of 1 DTU product(s),auto,1,1,620.0,False,900.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+thunnus,Thunnus,foodb_auto,,Aquatic foods,Fishes,USDA,median of 5 USDA product(s),auto,5,0,621.0,False,186.951,25.51,8.21,0.0,0.0,0.0,0.0,18.0,338.0,207.0,13.0,1.39,178.0,0.77
+cetacea_dolphin_porpoise_whale,"Cetacea (Dolphin, Porpoise, Whale)",foodb_auto,,Aquatic foods,Cetaceans,DTU,median of 1 DTU product(s),auto,1,1,623.0,False,115.6,23.5,2.4,0.0,0.0,0.0,0.0,55.5,93.0,320.0,0.0,3.7,195.0,1.4
+conch,Conch,foodb_auto,,Aquatic foods,Mollusks,USDA,median of 1 USDA product(s),auto,1,0,625.0,False,130.01,26.3,1.2,1.7,0.0,0.0,0.0,65.0,153.0,163.0,98.0,1.41,217.0,1.71
+vodka,Vodka,foodb_auto,,Beverages,Distilled beverages,USDA,median of 1 USDA product(s),auto,1,0,639.0,False,231.059,0.0,0.0,0.0,0.0,0.0,16.717,0.0,1.0,1.0,0.0,0.01,5.0,0.0
+ice_cream,Ice cream,foodb_auto,,Confectioneries,Frozen desserts,USDA,median of 24 USDA product(s),auto,24,0,641.0,False,186.5,4.06,6.825,26.575,0.7,20.74,0.0,27.0,72.5,198.5,129.0,0.23,109.0,0.525
+liquorice,Liquorice,foodb_auto,,Confectioneries,Candies,DTU,median of 4 DTU product(s),auto,4,1,644.0,False,355.8,2.95,1.6,82.4,0.0,46.5,0.0,5.0,100.5,309.0,52.0,3.3,13.0,0.205
+vermouth,Vermouth,foodb_auto,,Beverages,Fortified wines,DTU,median of 1 DTU product(s),auto,1,1,648.0,False,21.2,0.1,0.0,5.2,0.0,5.2,0.0,0.0,17.0,40.0,7.0,0.34,7.0,0.024
+nougat,Nougat,foodb_auto,,Confectioneries,Other confectioneries,USDA,median of 1 USDA product(s),auto,1,0,651.0,False,397.972,3.33,1.67,92.39,3.3,83.33,0.0,0.0,33.0,105.0,32.0,0.59,55.0,0.42
+toffee,Toffee,foodb_auto,,Confectioneries,Other confectioneries,DTU,median of 2 DTU product(s),auto,2,1,653.0,False,449.75,2.0,15.75,75.0,0.0,60.4,0.0,5.0,215.0,156.5,60.0,1.025,32.0,0.275
+cake,Cake,foodb_auto,,Confectioneries,Desserts,USDA,median of 18 USDA product(s),auto,18,0,654.0,False,419.554,4.45,9.7,78.95,1.15,44.21,0.0,0.0,657.0,120.0,127.0,1.535,277.0,0.315
+pizza,Pizza,foodb_auto,,Dishes,Other dishes,USDA,median of 5 USDA product(s),auto,5,0,655.0,False,271.136,11.28,12.28,28.78,2.2,4.97,0.0,16.0,556.0,189.0,155.0,1.77,207.0,1.48
+ymer,Ymer,foodb_auto,,Milk and milk products,Fermented milk products,DTU,median of 2 DTU product(s),auto,2,1,656.0,False,65.05,6.1,2.65,4.2,0.0,3.36,0.0,70.125,46.3,153.0,196.0,0.07,132.0,0.738
+crisp_bread,Crisp bread,foodb_auto,,Cereals and cereal products,Flat breads,USDA,median of 1 USDA product(s),auto,1,0,659.0,False,365.959,7.9,1.3,82.2,16.5,1.07,0.0,0.0,453.0,319.0,31.0,2.43,269.0,2.39
+pastry,Pastry,foodb_auto,,Confectioneries,Desserts,USDA,median of 6 USDA product(s),auto,6,1,660.0,False,370.968,7.25,9.35,71.0,2.4,46.25,0.0,0.0,777.5,100.0,32.0,1.94,220.0,0.88
+drag_e,Dragée,foodb_auto,,Confectioneries,Candies,DTU,median of 4 DTU product(s),auto,4,1,661.0,False,416.05,2.0,9.45,80.75,0.0,69.5,0.0,5.0,73.0,309.5,269.5,3.1,0.0,0.595
+chewing_gum,Chewing gum,foodb_auto,,Confectioneries,Candies,USDA,median of 3 USDA product(s),auto,3,0,662.0,False,314.0,0.0,0.35,95.75,2.4,33.04,0.0,0.0,4.0,1.0,10.0,0.0,0.0,0.0
+marzipan,Marzipan,foodb_auto,,Confectioneries,Other confectioneries,DTU,median of 2 DTU product(s),auto,2,1,663.0,False,469.3,4.9,26.1,53.7,2.0,40.5,0.0,5.0,26.0,244.0,80.0,2.8,120.0,1.595
+salad_dressing,Salad dressing,foodb_auto,,Baking goods,Dressings,USDA,median of 59 USDA product(s),auto,59,0,664.0,False,262.834,0.9,20.0,14.9,0.1,6.4,0.0,5.0,838.0,59.5,17.0,0.29,26.0,0.18
+salt,Salt,foodb_auto,,Baking goods,Seasonings,USDA,median of 2 USDA product(s),auto,2,0,666.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20254.0,17.25,43.25,0.165,0.0,0.05
+butter_substitute,Butter substitute,foodb_auto,,Baking goods,Substitutes,USDA,median of 1 USDA product(s),auto,1,0,668.0,False,373.044,2.0,1.0,89.0,0.0,5.3,0.0,2.0,1200.0,2.0,23.0,2.0,8.0,0.0
+sugar,Sugar,foodb_auto,,Baking goods,Sugars,USDA,median of 5 USDA product(s),auto,5,0,670.0,False,386.856,0.0,0.0,99.77,0.0,97.81,0.0,0.0,3.0,29.0,12.0,0.37,1.0,0.03
+meatball,Meatball,foodb_auto,,Dishes,Ground meat,DTU,median of 2 DTU product(s),auto,2,1,672.0,False,137.7,7.1,9.5,5.95,0.0,0.0,0.0,16.0,532.5,140.0,27.5,1.15,0.0,1.3
+pate,Pate,foodb_auto,,Dishes,Ground meat,USDA,median of 5 USDA product(s),auto,5,0,674.0,False,326.741,11.4,28.5,4.67,0.0,0.0,0.0,150.0,697.0,138.0,70.0,5.5,200.0,2.14
+sugar_substitute,Sugar substitute,foodb_auto,,Baking goods,Substitutes,USDA,median of 1 USDA product(s),auto,1,0,676.0,False,368.034,0.0,0.0,100.0,0.0,92.7,0.0,0.0,12.0,0.0,0.0,0.1,0.0,0.0
+meat_bouillon,Meat bouillon,foodb_auto,,Baking goods,Baking goods,DTU,median of 5 DTU product(s),auto,5,1,677.0,False,28.7,2.7,0.7,2.9,0.0,0.0,0.0,0.0,4800.0,511.0,25.0,1.0,320.0,0.04
+whey,Whey,foodb_auto,,Milk and milk products,Other milk products,USDA,median of 4 USDA product(s),auto,4,0,679.0,False,183.0,6.29,0.45,39.295,0.0,39.295,0.0,2.5,511.0,1120.5,449.5,0.48,505.0,1.2
+casein,Casein,foodb_auto,,Milk and milk products,Other milk products,DTU,median of 1 DTU product(s),auto,1,1,680.0,False,369.3,88.2,1.5,0.75,0.25,0.5,0.0,70.125,0.0,0.0,0.0,0.0,0.0,0.0
+marshmallow,Marshmallow,foodb_auto,,Confectioneries,Candies,USDA,median of 1 USDA product(s),auto,1,0,683.0,False,318.058,1.8,0.2,81.3,0.1,57.56,0.0,0.0,80.0,5.0,3.0,0.23,8.0,0.04
+water,Water,foodb_auto,,Beverages,Waters,USDA,median of 7 USDA product(s),auto,7,0,685.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.01
+milk_human,Milk (Human),foodb_auto,,Milk and milk products,Unfermented milks,USDA,median of 1 USDA product(s),auto,1,0,687.0,False,69.775,1.03,4.38,6.89,0.0,6.89,0.0,14.0,17.0,51.0,32.0,0.03,14.0,0.17
+dumpling,Dumpling,foodb_auto,,Dishes,Other dishes,DTU,median of 1 DTU product(s),auto,1,2,691.0,False,183.8,5.4,11.6,14.45,3.1,1.542,0.0,16.0,150.0,55.0,36.0,0.8,0.0,0.59
+remoulade,Remoulade,foodb_auto,,Baking goods,Condiments,DTU,median of 2 DTU product(s),auto,2,1,697.0,False,337.75,0.8,30.15,15.8,0.25,6.0,0.0,0.0,265.0,49.0,14.0,1.2,55.0,0.6
+chocolate_spread,Chocolate spread,foodb_auto,,Confectioneries,Spreads,USDA,median of 1 USDA product(s),auto,1,0,698.0,False,540.815,5.41,29.73,62.16,5.4,54.05,0.0,0.0,41.0,407.0,108.0,4.38,152.0,1.06
+fruit_gum,Fruit gum,foodb_auto,,Confectioneries,Candies,DTU,median of 1 DTU product(s),auto,1,1,699.0,False,348.9,6.6,0.9,78.6,0.0,56.0,0.0,5.0,62.0,12.0,9.0,0.19,4.0,0.05
+curry_powder,Curry powder,foodb_auto,,Herbs and Spices,Herb and spice mixtures,USDA,median of 1 USDA product(s),auto,1,0,700.0,False,325.024,12.66,13.81,58.15,33.2,2.76,0.0,0.0,52.0,1543.0,478.0,29.59,349.0,4.05
+meringue,Meringue,foodb_auto,,Confectioneries,Other confectioneries,DTU,median of 1 DTU product(s),auto,1,1,702.0,False,426.3,4.4,16.5,65.05,0.25,46.0,0.0,5.0,31.0,230.0,17.0,3.3,6.0,0.79
+cocoa_butter,Cocoa butter,foodb_auto,,Cocoa and cocoa products,Cocoa products,USDA,median of 1 USDA product(s),auto,1,0,706.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+hot_chocolate,Hot chocolate,foodb_auto,,Cocoa and cocoa products,Cocoa products,USDA,median of 8 USDA product(s),auto,8,0,710.0,False,69.549,2.99,1.45,10.59,0.7,9.545,0.0,5.5,63.5,169.5,113.0,0.255,89.5,0.39
+dried_milk,Dried milk,foodb_auto,,Milk and milk products,Other milk products,USDA,median of 7 USDA product(s),auto,7,0,711.0,False,362.0,35.1,0.77,51.98,0.0,51.98,0.0,20.0,535.0,1705.0,1231.0,0.32,968.0,4.08
+milk_other_mammals,Milk (Other mammals),foodb_auto,,Milk and milk products,Unfermented milks,USDA,median of 3 USDA product(s),auto,3,0,712.0,False,96.779,3.75,6.89,5.18,0.0,4.45,0.0,19.0,50.0,178.0,169.0,0.1,117.0,0.3
+miso,Miso,foodb_auto,,Soy,Soy products,USDA,median of 1 USDA product(s),auto,1,0,717.0,False,198.807,11.69,6.01,26.47,5.4,6.2,0.0,0.0,3728.0,210.0,57.0,2.49,159.0,2.56
+tofu,Tofu,foodb_auto,,Soy,Soy products,USDA,median of 2 USDA product(s),auto,2,1,718.0,False,110.502,11.93,6.75,3.075,1.3,3.65,0.0,0.0,10.5,179.0,516.5,4.01,143.5,1.185
+zwieback,Zwieback,foodb_auto,,Cereals and cereal products,Leavened breads,USDA,median of 1 USDA product(s),auto,1,0,721.0,False,426.074,10.1,9.7,74.2,2.5,12.5,0.0,8.0,227.0,305.0,20.0,0.6,55.0,0.54
+cichlidae_tilapia,Cichlidae (Tilapia),foodb_auto,,Aquatic foods,Fishes,USDA,median of 2 USDA product(s),auto,2,0,723.0,False,112.0,23.115,2.175,0.0,0.0,0.0,0.0,50.0,52.0,302.0,10.0,0.56,170.0,0.33
+icing,Icing,foodb_auto,,Confectioneries,Other confectioneries,USDA,median of 7 USDA product(s),auto,7,0,724.0,False,404.199,1.11,5.2,74.28,0.1,0.01,0.0,0.0,124.0,117.0,6.0,0.09,7.0,0.02
+snack_bar,Snack bar,foodb_auto,,Snack foods,Snack foods,USDA,median of 28 USDA product(s),auto,28,0,725.0,False,440.549,7.5,17.4,66.55,4.2,30.485,0.0,0.0,278.0,283.0,78.5,2.47,203.0,1.485
+green_turtle,Green turtle,foodb_auto,,Aquatic foods,Other aquatic foods,USDA,median of 1 USDA product(s),auto,1,0,726.0,False,88.955,19.8,0.5,0.0,0.0,0.0,0.0,50.0,68.0,230.0,118.0,1.4,180.0,1.0
+energy_drink,Energy drink,foodb_auto,,Beverages,Nutritional beverages,USDA,median of 1 USDA product(s),auto,1,0,727.0,False,42.033,0.0,0.0,11.25,0.0,11.25,0.0,0.0,75.0,3.0,3.0,0.01,0.0,0.0
+burrito,Burrito,foodb_auto,,Dishes,Tex-Mex cuisine,USDA,median of 4 USDA product(s),auto,4,0,728.0,False,250.475,7.995,10.775,32.425,3.8,2.285,0.0,8.5,623.0,215.5,45.5,2.735,107.0,1.085
+hamburger,Hamburger,foodb_auto,,Dishes,Sandwiches,USDA,median of 3 USDA product(s),auto,3,0,729.0,False,262.953,12.97,11.79,27.81,1.1,6.22,0.0,35.0,626.0,203.0,160.0,2.35,140.0,1.91
+baked_beans,Baked beans,foodb_auto,,Dishes,Other dishes,USDA,median of 7 USDA product(s),auto,7,0,730.0,False,111.808,5.29,1.55,19.99,4.85,7.245,0.0,7.0,422.0,295.0,53.0,1.7,104.0,1.46
+chili,Chili,foodb_auto,,Dishes,Tex-Mex cuisine,USDA,median of 5 USDA product(s),auto,5,0,731.0,False,106.918,5.8,3.68,11.91,3.75,1.855,0.0,10.0,449.0,264.0,33.0,1.86,87.0,1.12
+taco,Taco,foodb_auto,,Dishes,Tex-Mex cuisine,USDA,median of 10 USDA product(s),auto,10,0,732.0,False,197.299,9.055,9.46,19.69,2.9,1.3,0.0,26.5,474.0,209.0,107.0,1.59,167.0,1.365
+tortilla,Tortilla,foodb_auto,,Cereals and cereal products,Flat breads,USDA,median of 7 USDA product(s),auto,7,0,733.0,False,276.145,7.83,2.85,49.94,3.3,2.75,0.0,0.0,482.0,133.0,106.0,3.3,213.0,0.68
+nachos,Nachos,foodb_auto,,Dishes,Tex-Mex cuisine,USDA,median of 6 USDA product(s),auto,6,1,734.0,False,301.984,7.675,16.755,30.8,3.95,1.542,0.0,17.5,610.0,164.5,120.0,1.165,195.0,1.39
+processed_cheese,Processed cheese,foodb_auto,,Milk and milk products,Fermented milk products,USDA,median of 10 USDA product(s),auto,10,0,735.0,False,302.5,17.23,23.385,8.56,0.0,6.945,0.0,71.5,1284.0,278.5,586.0,0.365,554.5,2.335
+salad,Salad,foodb_auto,,Dishes,Other dishes,USDA,median of 13 USDA product(s),auto,13,0,736.0,False,104.223,2.68,5.05,6.2,1.3,2.11,0.0,17.0,267.0,231.0,46.0,0.61,52.5,0.295
+cream_substitute,Cream substitute,foodb_auto,,Baking goods,Substitutes,USDA,median of 10 USDA product(s),auto,10,0,737.0,False,186.5,1.0,11.535,24.3,0.0,23.6,0.0,0.0,79.5,142.5,7.5,0.065,66.0,0.075
+dulce_de_leche,Dulce de leche,foodb_auto,,Confectioneries,Spreads,USDA,median of 1 USDA product(s),auto,1,0,738.0,False,315.005,6.84,7.35,55.35,0.0,49.74,0.0,29.0,129.0,350.0,251.0,0.17,193.0,0.79
+topping,Topping,foodb_auto,,Baking goods,Baking goods,USDA,median of 10 USDA product(s),auto,10,0,739.0,False,291.0,1.375,8.86,55.31,0.05,23.05,0.0,0.0,64.0,67.5,11.5,0.16,32.5,0.07
+sweet_custard,Sweet custard,foodb_auto,,Confectioneries,Milk desserts,USDA,median of 6 USDA product(s),auto,6,0,740.0,False,117.764,3.49,2.915,18.75,0.0,4.725,0.0,30.5,112.5,185.0,126.0,0.205,108.0,0.435
+egg_roll,Egg roll,foodb_auto,,Dishes,Asian cuisine,USDA,median of 3 USDA product(s),auto,3,0,742.0,False,196.731,9.94,4.67,29.5,2.4,5.57,0.0,14.0,560.0,250.0,46.0,1.69,91.0,0.55
+tortilla_chip,Tortilla chip,foodb_auto,,Snack foods,Snack foods,USDA,median of 12 USDA product(s),auto,12,0,746.0,False,484.383,8.025,23.05,65.44,5.3,1.0,0.0,1.0,560.5,248.5,157.0,1.63,248.5,1.43
+corn_chip,Corn chip,foodb_auto,,Snack foods,Snack foods,USDA,median of 9 USDA product(s),auto,9,0,747.0,False,523.0,6.5,32.7,57.3,3.05,2.76,0.0,0.0,896.0,185.0,58.0,1.7,128.0,0.6
+hibiscus_tea,Hibiscus tea,foodb_auto,,Teas,Herbal teas,USDA,median of 2 USDA product(s),auto,2,0,748.0,False,37.142,0.43,0.65,7.41,0.3,6.0,0.0,0.0,3.5,14.5,4.5,4.36,2.0,0.08
+stew,Stew,foodb_auto,,Dishes,Other dishes,USDA,median of 10 USDA product(s),auto,10,0,749.0,False,97.036,6.76,3.235,7.56,1.1,0.425,0.0,13.0,88.0,114.0,13.0,1.155,62.5,1.145
+junket,Junket,foodb_auto,,Confectioneries,Milk desserts,USDA,median of 6 USDA product(s),auto,6,1,751.0,False,92.5,3.045,2.565,13.405,0.25,46.25,0.0,7.0,48.5,160.5,122.5,0.185,96.0,0.43
+falafel,Falafel,foodb_auto,,Dishes,Other dishes,USDA,median of 1 USDA product(s),auto,1,2,752.0,False,332.967,13.31,17.8,31.84,2.1,1.542,0.0,0.0,294.0,585.0,54.0,3.42,192.0,1.5
+frybread,Frybread,foodb_auto,,Dishes,Other dishes,USDA,median of 2 USDA product(s),auto,2,0,753.0,True,319.414,7.535,11.18,47.135,1.7,1.785,0.0,5.5,500.0,76.0,54.5,3.735,117.5,0.41
+lasagna,Lasagna,foodb_auto,,Dishes,Pasta dishes,USDA,median of 2 USDA product(s),auto,2,0,755.0,False,134.312,6.705,5.685,14.01,1.8,3.385,0.0,13.5,318.0,176.0,130.5,0.91,123.5,0.89
+morchella_morel,Morchella (Morel),foodb_auto,,Vegetables,Mushrooms,USDA,median of 1 USDA product(s),auto,1,1,756.0,False,30.916,3.12,0.57,5.1,2.8,0.6,0.0,0.0,19.5,237.25,32.75,10.442,102.5,1.275
+pancake,Pancake,foodb_auto,,Dishes,Other dishes,USDA,median of 8 USDA product(s),auto,8,0,757.0,False,342.017,9.335,2.6,71.15,2.65,7.21,0.0,1.0,697.5,239.0,296.0,3.08,598.0,0.94
+pectin,Pectin,foodb_auto,,Baking goods,Baking goods,USDA,median of 1 USDA product(s),auto,1,1,758.0,False,325.024,0.3,0.3,90.4,8.6,5.3,0.0,0.0,200.0,7.0,7.0,2.71,2.0,0.47
+pudding,Pudding,foodb_auto,,Confectioneries,Desserts,USDA,median of 43 USDA product(s),auto,43,0,759.0,False,121.088,2.7,1.92,24.2,0.1,17.705,0.0,6.0,290.0,128.0,99.5,0.12,87.0,0.33
+waffle,Waffle,foodb_auto,,Dishes,Other dishes,USDA,median of 10 USDA product(s),auto,10,0,760.0,False,287.046,6.645,9.55,42.23,2.4,4.6,0.0,15.0,629.5,141.0,226.0,5.71,384.5,0.58
+soy_milk,Soy milk,foodb_auto,,Soy,Soy products,USDA,median of 13 USDA product(s),auto,13,0,761.0,False,43.619,2.47,1.16,5.6,0.4,3.65,0.0,0.0,50.0,120.0,123.0,0.46,57.0,0.23
+meatloaf,Meatloaf,foodb_auto,,Dishes,Ground meat,USDA,median of 12 USDA product(s),auto,12,0,762.0,False,210.713,14.26,12.475,5.65,0.0,0.9,0.0,41.5,1194.5,295.5,45.0,1.115,137.5,2.3
+cocktail,Cocktail,foodb_auto,,Beverages,Alcoholic beverages,USDA,median of 5 USDA product(s),auto,5,0,764.0,False,173.998,0.3,0.1,15.7,0.1,13.955,9.6,0.0,40.0,21.0,1.0,0.03,7.0,0.13
+couscous,Couscous,foodb_auto,,Dishes,Berber cuisine,USDA,median of 1 USDA product(s),auto,1,1,765.0,False,375.978,12.76,0.64,77.43,5.0,1.542,0.0,0.0,10.0,166.0,24.0,1.08,170.0,0.83
+bulgur,Bulgur,foodb_auto,,Cereals and cereal products,Cereal products,USDA,median of 1 USDA product(s),auto,1,0,766.0,False,342.009,12.29,1.33,75.87,18.3,0.41,0.0,0.0,17.0,410.0,35.0,2.46,300.0,1.93
+coffee_substitute,Coffee substitute,foodb_auto,,Baking goods,Substitutes,USDA,median of 5 USDA product(s),auto,5,0,767.0,False,65.005,3.3,0.2,5.6,0.4,0.08,0.0,0.0,49.0,172.0,58.0,0.11,99.0,0.37
+coffee_mocha,Coffee mocha,foodb_auto,,Coffee and coffee products,Coffee products,USDA,median of 2 USDA product(s),auto,2,0,768.0,False,256.966,9.0,13.21,71.4,4.8,34.98,0.0,0.0,500.0,1856.0,60.0,3.06,451.0,1.01
+chimichanga,Chimichanga,foodb_auto,,Dishes,Mexican cuisine,USDA,median of 4 USDA product(s),auto,4,2,769.0,False,232.5,10.245,10.69,22.79,2.1,1.542,0.0,16.5,523.0,253.0,79.0,2.15,76.0,2.205
+semolina,Semolina,foodb_auto,,Cereals and cereal products,Cereal products,USDA,median of 2 USDA product(s),auto,2,1,770.0,False,359.971,12.68,1.05,72.83,3.9,2.67,0.0,0.0,1.0,186.0,17.0,2.795,136.0,1.05
+tapioca_pearl,Tapioca pearl,foodb_auto,,Baking goods,Baking goods,USDA,median of 1 USDA product(s),auto,1,0,771.0,False,358.015,0.19,0.02,88.69,0.9,3.35,0.0,0.0,1.0,11.0,20.0,1.58,7.0,0.12
+tostada,Tostada,foodb_auto,,Dishes,Mexican cuisine,USDA,median of 1 USDA product(s),auto,1,2,772.0,False,137.953,4.78,8.91,12.27,2.1,1.542,0.0,15.0,306.0,249.0,162.0,0.62,89.0,1.56
+quesadilla,Quesadilla,foodb_auto,,Dishes,Mexican cuisine,USDA,median of 1 USDA product(s),auto,1,0,773.0,False,293.75,15.05,15.25,24.04,1.7,1.88,0.0,37.0,745.0,183.0,269.0,1.77,313.0,1.42
+hot_dog,Hot dog,foodb_auto,,Dishes,Sandwiches,USDA,median of 3 USDA product(s),auto,3,2,775.0,False,260.019,10.6,11.79,27.45,2.1,1.542,0.0,45.0,556.0,146.0,24.0,2.88,99.0,0.75
+spread,Spread,foodb_auto,,Baking goods,Baking goods,USDA,median of 8 USDA product(s),auto,8,0,776.0,False,219.288,13.455,16.81,9.025,0.2,0.47,0.0,47.0,956.0,156.0,15.0,0.775,96.5,1.125
+enchilada,Enchilada,foodb_auto,,Dishes,Mexican cuisine,USDA,median of 3 USDA product(s),auto,3,2,777.0,False,178.03,6.21,9.19,17.51,2.1,1.542,0.0,26.0,648.0,290.0,119.0,1.24,87.0,1.43
+egg_substitute,Egg substitute,foodb_auto,,Baking goods,Substitutes,USDA,median of 2 USDA product(s),auto,2,0,778.0,False,245.817,32.75,6.5,11.9,0.0,11.9,0.0,286.0,499.5,478.5,199.5,2.57,275.0,1.4
+nutritional_drink,Nutritional drink,foodb_auto,,Beverages,Nutritional beverages,USDA,median of 7 USDA product(s),auto,7,0,779.0,False,87.977,4.4,3.08,11.88,0.0,2.64,0.0,2.0,92.0,175.0,79.0,1.79,79.0,1.51
+ketchup,Ketchup,foodb_auto,,Baking goods,Condiments,USDA,median of 2 USDA product(s),auto,2,0,781.0,False,96.779,1.74,0.31,25.15,0.3,22.77,0.0,0.0,567.0,382.0,18.0,0.51,33.0,0.26
+breakfast_sandwich,Breakfast sandwich,foodb_auto,,Dishes,Sandwiches,USDA,median of 11 USDA product(s),auto,11,0,782.0,False,304.008,11.27,17.76,24.52,1.0,2.18,0.0,132.0,664.0,161.0,96.0,2.01,259.5,0.965
+adobo,Adobo,foodb_auto,,Baking goods,Seasonings,USDA,median of 1 USDA product(s),auto,1,0,783.0,False,270.777,2.0,20.9,18.6,1.3,2.03,0.0,0.0,17152.0,187.0,123.0,3.2,38.0,0.25
+macaroni_and_cheese,Macaroni and cheese,foodb_auto,,Dishes,Pasta dishes,USDA,median of 2 USDA product(s),auto,2,0,784.0,False,270.554,10.52,4.595,46.76,2.25,7.54,0.0,5.5,509.0,260.0,93.0,2.24,217.5,1.025
+horned_melon,Horned melon,foodb_auto,,Gourds,Gourds,USDA,median of 1 USDA product(s),auto,1,3,786.0,False,43.869,1.78,1.26,7.56,1.05,2.35,0.0,0.0,1.0,61.75,6.5,0.625,21.0,0.252
+hushpuppy,Hushpuppy,foodb_auto,,Dishes,American cuisine,USDA,median of 1 USDA product(s),auto,1,0,787.0,False,336.999,7.7,13.5,46.0,2.8,2.03,0.0,45.0,668.0,144.0,278.0,3.04,189.0,0.66
+fruit_juice,Fruit juice,foodb_auto,,Beverages,Other beverages,USDA,median of 25 USDA product(s),auto,25,0,788.0,False,50.0,0.2,0.1,12.2,0.1,10.69,0.0,0.0,5.0,61.0,8.0,0.18,6.0,0.04
+relish,Relish,foodb_auto,,Baking goods,Condiments,USDA,median of 5 USDA product(s),auto,5,0,789.0,False,129.032,0.63,0.47,34.48,1.5,26.505,0.0,0.0,811.0,76.0,5.0,1.14,17.0,0.175
+fruit_salad,Fruit salad,foodb_auto,,Fruits,Fruit products,USDA,median of 16 USDA product(s),auto,16,0,791.0,False,70.985,0.4,0.07,18.78,1.0,15.535,0.0,0.0,5.0,89.5,7.0,0.29,11.0,0.08
+soy_yogurt,Soy yogurt,foodb_auto,,Soy,Soy products,USDA,median of 1 USDA product(s),auto,1,0,792.0,False,94.084,3.5,1.8,15.96,0.2,1.24,0.0,0.0,35.0,47.0,118.0,1.06,38.0,0.31
+vegetarian_food,Vegetarian food,foodb_auto,,Dishes,Other dishes,USDA,median of 3 USDA product(s),auto,3,0,793.0,False,289.957,23.0,6.3,14.27,6.1,0.935,0.0,0.0,490.0,600.0,136.0,2.41,450.0,1.4
+cold_cut,Cold cut,foodb_auto,,Dishes,Ground meat,USDA,median of 8 USDA product(s),auto,8,0,795.0,False,208.633,14.89,15.9,2.215,0.0,0.0,0.0,58.5,1235.5,213.0,9.5,1.465,120.5,2.055
+babassu_palm,Babassu palm,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 1 USDA product(s),auto,1,0,798.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cupua_u,Cupuaçu,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 1 USDA product(s),auto,1,1,799.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.07,0.0,0.0
+shea_tree,Shea tree,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 1 USDA product(s),auto,1,0,800.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+oil_seed_camellia,Oil-seed Camellia,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 1 USDA product(s),auto,1,0,801.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ucuhuba,Ucuhuba,foodb_auto,,Herbs and Spices,Oilseed crops,USDA,median of 1 USDA product(s),auto,1,0,802.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+phyllo_dough,Phyllo dough,foodb_auto,,Baking goods,Baking goods,USDA,median of 1 USDA product(s),auto,1,0,803.0,False,298.998,7.1,6.0,52.6,1.9,0.18,0.0,0.0,483.0,74.0,11.0,3.21,75.0,0.49
+cooking_oil,Cooking oil,foodb_auto,,Baking goods,Baking goods,USDA,median of 3 USDA product(s),auto,3,0,804.0,False,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pie_crust,Pie crust,foodb_auto,,Baking goods,Wrappers,USDA,median of 2 USDA product(s),auto,2,1,805.0,False,509.463,6.8,30.9,51.25,1.8,5.3,0.0,0.0,741.0,63.0,60.5,2.185,85.0,0.395
+pie_filling,Pie filling,foodb_auto,,Baking goods,Baking goods,USDA,median of 4 USDA product(s),auto,4,0,806.0,False,107.672,0.39,0.13,27.05,1.1,13.8,0.0,0.0,15.0,110.0,11.0,0.31,13.5,0.06
+pie,Pie,foodb_auto,,Confectioneries,Desserts,USDA,median of 28 USDA product(s),auto,28,0,807.0,False,268.441,2.9,12.7,34.865,1.6,17.265,0.0,2.5,244.0,94.0,22.0,1.01,55.5,0.255
+shortening,Shortening,foodb_auto,,Fats and oils,Vegetable fats,USDA,median of 19 USDA product(s),auto,19,0,808.0,False,884.082,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+soy_cream,Soy cream,foodb_auto,,Soy,Soy products,USDA,median of 3 USDA product(s),auto,3,3,809.0,False,132.887,0.0,6.67,20.0,0.0,20.0,0.0,0.0,67.0,179.0,0.0,0.0,125.0,0.52
+ice_cream_cone,Ice cream cone,foodb_auto,,Baking goods,Wrappers,USDA,median of 3 USDA product(s),auto,3,0,810.0,False,402.004,7.9,6.9,79.0,1.7,25.0,0.0,0.0,251.0,145.0,44.0,3.6,103.0,0.75
+cracker,Cracker,foodb_auto,,Snack foods,Snack foods,USDA,median of 38 USDA product(s),auto,38,0,812.0,False,420.825,10.0,11.685,71.51,3.4,1.505,0.0,0.0,730.5,212.5,60.0,3.755,242.5,1.115
+nance,Nance,foodb_auto,,Fruits,Tropical fruits,USDA,median of 2 USDA product(s),auto,2,1,813.0,False,83.891,0.61,1.22,19.88,7.25,11.985,0.0,0.0,3.0,194.0,42.0,0.37,7.0,0.06
+naranjilla,Naranjilla,foodb_auto,,Fruits,Tropical fruits,USDA,median of 1 USDA product(s),auto,1,1,814.0,False,24.809,0.44,0.22,5.9,1.1,3.74,0.0,0.0,3.75,105.25,5.25,0.255,8.5,0.062
+natto,Natto,foodb_auto,,Soy,Soy products,USDA,median of 1 USDA product(s),auto,1,0,815.0,False,211.999,17.72,11.0,14.36,5.4,4.89,0.0,0.0,7.0,729.0,217.0,8.6,174.0,3.03
+ravioli,Ravioli,foodb_auto,,Dishes,Pasta dishes,USDA,median of 3 USDA product(s),auto,3,0,816.0,False,99.094,3.41,2.61,13.73,1.4,3.72,0.0,5.0,306.0,232.0,33.0,0.93,50.0,0.43
+scrapple,Scrapple,foodb_auto,,Dishes,American cuisine,USDA,median of 1 USDA product(s),auto,1,0,817.0,False,213.216,8.06,13.87,14.06,0.3,0.2,0.0,49.0,659.0,158.0,7.0,1.89,76.0,1.06
+succotash,Succotash,foodb_auto,,Dishes,American cuisine,USDA,median of 1 USDA product(s),auto,1,1,819.0,False,98.974,5.03,1.02,19.59,3.8,1.542,0.0,0.0,4.0,369.0,18.0,1.83,113.0,0.61
+tamale,Tamale,foodb_auto,,Dishes,Latin American cuisine,USDA,median of 2 USDA product(s),auto,2,0,820.0,True,160.5,9.735,5.41,18.2,3.2,1.28,0.0,22.0,362.5,190.5,23.5,0.94,120.0,1.375
+rice_cake,Rice cake,foodb_auto,,Dishes,Asian cuisine,USDA,median of 1 USDA product(s),auto,1,0,822.0,False,391.746,7.1,4.3,81.1,4.2,0.88,0.0,0.0,71.0,428.0,11.0,1.49,360.0,3.0
+tree_fern,Tree fern,foodb_auto,,Vegetables,Other vegetables,USDA,median of 2 USDA product(s),auto,2,1,823.0,False,39.957,0.29,0.07,10.88,3.7,1.945,0.0,0.0,5.0,5.0,8.0,0.16,4.0,0.31
+evaporated_milk,Evaporated milk,foodb_auto,,Milk and milk products,Other milk products,USDA,median of 4 USDA product(s),auto,4,0,824.0,False,134.161,6.81,7.56,10.04,0.0,10.04,0.0,29.0,106.0,303.0,261.0,0.19,203.0,0.77
+flour,Flour,foodb_auto,,Cereals and cereal products,Cereal products,USDA,median of 2 USDA product(s),auto,2,1,825.0,False,380.5,8.77,8.8,66.56,5.3,2.67,0.0,0.0,1385.0,132.5,184.0,4.11,631.5,0.615
+akutaq,Akutaq,foodb_auto,,Confectioneries,Desserts,USDA,median of 3 USDA product(s),auto,3,1,826.0,True,353.245,9.0,31.8,10.5,0.5,46.25,0.0,26.0,24.0,206.0,12.0,0.3,134.0,0.47
+pita_bread,Pita bread,foodb_auto,,Cereals and cereal products,Flat breads,USDA,median of 3 USDA product(s),auto,3,0,829.0,False,275.0,9.1,1.2,55.7,2.2,1.06,0.0,0.0,536.0,120.0,86.0,2.62,97.0,0.84
+focaccia,Focaccia,foodb_auto,,Cereals and cereal products,Flat breads,USDA,median of 1 USDA product(s),auto,1,0,830.0,False,249.261,8.77,7.89,35.82,1.8,1.75,0.0,0.0,561.0,114.0,35.0,3.16,128.0,1.33
+bagel,Bagel,foodb_auto,,Cereals and cereal products,Leavened breads,USDA,median of 10 USDA product(s),auto,10,0,831.0,False,275.0,10.5,1.61,53.4,2.3,5.9,0.0,0.0,511.0,101.0,19.5,3.68,96.0,0.89
+piki_bread,Piki bread,foodb_auto,,Cereals and cereal products,Flat breads,USDA,median of 2 USDA product(s),auto,2,1,834.0,True,287.79,6.08,4.345,56.03,6.4,7.27,0.0,0.0,34.5,359.0,109.0,3.845,234.0,2.285
+french_toast,French toast,foodb_auto,,Cereals and cereal products,Leavened breads,USDA,median of 2 USDA product(s),auto,2,1,835.0,False,220.984,7.55,8.45,28.55,1.1,2.67,0.0,99.0,487.0,134.0,103.5,1.94,128.0,0.72
+oat_bread,Oat bread,foodb_auto,,Cereals and cereal products,Leavened breads,USDA,median of 8 USDA product(s),auto,8,0,838.0,False,237.5,9.35,4.4,43.5,4.5,7.7,0.0,0.0,433.0,123.5,69.5,3.135,131.5,1.035
+potato_bread,Potato bread,foodb_auto,,Cereals and cereal products,Other breads,USDA,median of 1 USDA product(s),auto,1,0,839.0,False,266.246,12.5,3.13,47.07,6.3,12.5,0.0,0.0,375.0,718.0,188.0,2.25,369.0,1.44
+cornbread,Cornbread,foodb_auto,,Cereals and cereal products,Flat breads,USDA,median of 3 USDA product(s),auto,3,0,840.0,False,418.0,7.0,12.2,69.5,6.5,20.34,0.0,2.0,817.0,113.0,57.0,1.9,489.0,0.57
+corn_grits,Corn grits,foodb_auto,,Cereals and cereal products,Cereal products,USDA,median of 4 USDA product(s),auto,4,0,841.0,False,370.578,8.225,1.345,79.6,2.75,0.605,0.0,0.0,1.0,137.0,3.0,1.95,74.5,0.505
+multigrain_bread,Multigrain bread,foodb_auto,,Cereals and cereal products,Leavened breads,USDA,median of 2 USDA product(s),auto,2,0,842.0,False,276.381,13.94,4.415,45.225,7.75,6.665,0.0,0.0,438.5,240.0,107.0,2.61,237.5,1.775
+rice_bread,Rice bread,foodb_auto,,Cereals and cereal products,Leavened breads,USDA,median of 2 USDA product(s),auto,2,0,843.0,False,253.5,9.3,4.8,45.4,5.1,4.875,0.0,0.0,390.5,213.5,72.0,3.765,176.0,1.345
+pan_dulce,Pan dulce,foodb_auto,,Cereals and cereal products,Leavened breads,USDA,median of 1 USDA product(s),auto,1,0,844.0,False,367.176,9.42,11.58,56.38,2.3,12.5,0.0,30.0,228.0,103.0,86.0,2.87,94.0,0.84
+raisin_bread,Raisin bread,foodb_auto,,Cereals and cereal products,Sweet breads,USDA,median of 3 USDA product(s),auto,3,0,845.0,False,274.0,7.9,4.4,52.3,4.3,5.93,0.0,0.0,390.0,227.0,66.0,2.9,109.0,0.72
+wonton_wrapper,Wonton wrapper,foodb_auto,,Baking goods,Wrappers,USDA,median of 1 USDA product(s),auto,1,1,846.0,False,291.054,9.8,1.5,57.9,1.8,5.3,0.0,9.0,572.0,82.0,47.0,3.36,81.0,0.71
+trail_mix,Trail mix,foodb_auto,,Snack foods,Snack foods,USDA,median of 5 USDA product(s),auto,5,2,848.0,False,462.0,13.8,29.4,44.9,4.3,1.252,0.0,0.0,27.0,685.0,78.0,3.05,345.0,3.14
+greenthread_tea,Greenthread tea,foodb_auto,,Teas,Herbal teas,USDA,median of 1 USDA product(s),auto,1,3,849.0,True,2.195,0.12,0.2,0.0,0.0,0.0,0.0,0.0,27.0,44.0,5.0,0.03,0.0,0.05
+fruit_flavor_drink,Fruit-flavor drink,foodb_auto,,Beverages,Other beverages,USDA,median of 2 USDA product(s),auto,2,0,850.0,False,208.413,0.225,0.02,87.82,0.05,0.0,0.0,0.0,202.0,249.5,923.5,0.04,619.5,0.0
+vegetable_juice,Vegetable juice,foodb_auto,,Beverages,Other beverages,USDA,median of 3 USDA product(s),auto,3,0,851.0,False,20.777,0.63,0.09,4.55,0.8,3.3,0.0,0.0,173.0,193.0,11.0,0.42,17.0,0.2
+horchata,Horchata,foodb_auto,,Beverages,Other beverages,USDA,median of 1 USDA product(s),auto,1,0,852.0,False,413.12,7.5,7.46,79.05,4.0,38.9,0.0,0.0,3.0,180.0,60.0,5.8,180.0,1.6
+soft_drink,Soft drink,foodb_auto,,Beverages,Other beverages,USDA,median of 20 USDA product(s),auto,20,0,853.0,False,35.5,0.0,0.0,9.18,0.0,8.75,0.0,0.0,10.0,2.0,3.0,0.04,0.5,0.035
+frozen_yogurt,Frozen yogurt,foodb_auto,,Confectioneries,Frozen desserts,USDA,median of 5 USDA product(s),auto,5,0,854.0,False,127.0,4.0,3.6,21.6,2.0,19.58,0.0,5.0,81.0,234.0,143.0,0.46,129.0,0.42
+milkshake,Milkshake,foodb_auto,,Confectioneries,Frozen desserts,USDA,median of 1 USDA product(s),auto,1,0,855.0,False,329.055,23.5,2.6,52.9,1.6,51.3,0.0,14.0,780.0,2200.0,880.0,7.7,150.0,3.6
+chocolate_mousse,Chocolate mousse,foodb_auto,,Confectioneries,Desserts,USDA,median of 1 USDA product(s),auto,1,0,856.0,False,224.952,4.14,16.0,16.07,0.6,14.81,0.0,140.0,38.0,143.0,96.0,0.55,117.0,0.64
+dripping,Dripping,foodb_auto,,Fats and oils,Animal fats,USDA,median of 1 USDA product(s),auto,1,0,857.0,False,889.051,0.0,98.59,0.0,0.0,0.0,0.0,101.0,545.0,0.0,0.0,0.0,0.0,0.0
+pupusa,Pupusa,foodb_auto,,Dishes,Latin American cuisine,USDA,median of 3 USDA product(s),auto,3,0,858.0,False,232.037,11.51,10.43,23.02,2.9,1.3,0.0,30.5,400.0,255.0,51.0,1.01,162.0,1.62
+empanada,Empanada,foodb_auto,,Dishes,Latin American cuisine,USDA,median of 1 USDA product(s),auto,1,0,859.0,False,335.163,11.31,18.37,31.19,2.0,1.84,0.0,26.0,440.0,190.0,20.0,2.7,103.0,1.86
+arepa,Arepa,foodb_auto,,Dishes,Latin American cuisine,USDA,median of 1 USDA product(s),auto,1,0,860.0,False,218.965,5.48,5.38,37.14,2.6,0.87,0.0,5.0,270.0,88.0,89.0,1.04,117.0,0.8
+ascidians,Ascidians,foodb_auto,,Aquatic foods,Other aquatic foods,USDA,median of 1 USDA product(s),auto,1,2,861.0,True,19.799,3.8,0.5,0.0,0.0,0.0,0.0,7.0,656.0,102.0,47.0,3.3,205.0,0.64
+gefilte_fish,Gefilte fish,foodb_auto,,Dishes,Jewish cuisine,USDA,median of 1 USDA product(s),auto,1,1,862.0,False,83.946,9.07,1.73,7.41,0.0,1.542,0.0,30.0,524.0,91.0,23.0,2.48,73.0,0.82
+yellow_pond_lily,Yellow pond-lily,foodb_auto,,Herbs and Spices,Herbs,USDA,median of 2 USDA product(s),auto,2,0,863.0,False,197.589,4.295,0.71,43.54,10.75,0.215,0.0,0.0,17.5,370.0,25.0,1.34,121.0,3.315
+fish_burger,Fish burger,foodb_auto,,Dishes,Sandwiches,USDA,median of 2 USDA product(s),auto,2,0,864.0,False,258.928,11.73,10.545,29.265,1.0,3.46,0.0,26.5,474.5,184.5,121.5,1.56,124.5,0.52
+pot_pie,Pot pie,foodb_auto,,Dishes,Other dishes,USDA,median of 3 USDA product(s),auto,3,0,866.0,False,213.955,6.5,10.83,22.05,1.1,3.81,0.0,21.0,365.0,119.5,21.5,1.1,74.5,0.83
+stuffing,Stuffing,foodb_auto,,Baking goods,Baking goods,USDA,median of 1 USDA product(s),auto,1,0,867.0,False,128.054,6.97,3.89,16.32,1.3,4.82,0.0,14.0,326.0,230.0,27.0,0.79,106.0,0.48
+edible_shell,Edible shell,foodb_auto,,Baking goods,Wrappers,USDA,median of 3 USDA product(s),auto,3,0,868.0,False,467.987,7.08,22.6,62.72,5.8,1.23,0.0,0.0,389.0,223.0,101.0,1.86,226.0,1.4
+fudge,Fudge,foodb_auto,,Confectioneries,Candies,USDA,median of 7 USDA product(s),auto,7,0,869.0,False,434.876,3.0,13.69,74.61,1.7,72.06,0.0,14.0,47.0,134.0,47.0,0.96,71.0,0.58
+candy_bar,Candy bar,foodb_auto,,Confectioneries,Candies,USDA,median of 33 USDA product(s),auto,33,0,870.0,False,490.839,6.62,24.85,62.85,2.6,48.86,0.0,9.0,170.0,305.0,100.0,1.09,139.0,1.0
+condensed_milk,Condensed milk,foodb_auto,,Milk and milk products,Other milk products,USDA,median of 1 USDA product(s),auto,1,0,871.0,False,320.873,7.91,8.7,54.4,0.0,54.4,0.0,34.0,127.0,371.0,284.0,0.19,253.0,0.94
+margarine,Margarine,foodb_auto,,Fats and oils,Vegetable fats,USDA,median of 13 USDA product(s),auto,13,0,872.0,False,714.388,0.2,80.2,0.71,0.0,0.0,0.0,0.0,657.0,18.0,3.0,0.06,5.0,0.0
+margarine_like_spread,Margarine-like spread,foodb_auto,,Fats and oils,Vegetable fats,USDA,median of 24 USDA product(s),auto,24,0,873.0,False,532.983,0.17,59.17,0.69,0.0,0.0,0.0,0.0,611.0,30.0,21.0,0.0,16.0,0.0
+hummus,Hummus,foodb_auto,,Dishes,Levantine cuisine,USDA,median of 2 USDA product(s),auto,2,0,874.0,False,171.554,6.38,9.095,17.205,5.0,0.27,0.0,0.0,310.5,200.5,43.5,2.0,143.0,1.46
+potato_puffs,Potato puffs,foodb_auto,,Dishes,Potato dishes,USDA,median of 2 USDA product(s),auto,2,0,876.0,False,182.6,2.04,8.195,26.86,2.2,0.23,0.0,0.0,468.5,298.5,13.5,0.635,100.0,0.305
+potato_gratin,Potato gratin,foodb_auto,,Dishes,Potato dishes,USDA,median of 4 USDA product(s),auto,4,1,877.0,False,203.5,5.035,4.21,43.385,2.6,1.542,0.0,11.0,1008.5,562.0,72.5,1.005,146.0,0.575
+milk_substitute,Milk substitute,foodb_auto,,Baking goods,Substitutes,USDA,median of 1 USDA product(s),auto,1,1,878.0,False,61.212,1.75,3.41,6.16,0.0,5.3,0.0,0.0,78.0,114.0,33.0,0.39,74.0,1.18
+herbal_tea,Herbal tea,foodb_auto,,Teas,Teas,USDA,median of 2 USDA product(s),auto,2,0,1021.0,False,0.978,0.0,0.0,0.2,0.0,0.0,0.0,0.0,1.0,9.0,2.0,0.08,0.0,0.04
+fish_oil,Fish oil,foodb_auto,,,,DTU,median of 1 DTU product(s),auto,1,1,1022.0,False,899.1,0.0,99.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+taco_shell,Taco shell,foodb_auto,,,,USDA,median of 2 USDA product(s),auto,2,0,1023.0,False,467.487,7.14,21.715,62.56,6.05,1.23,0.0,0.0,202.0,201.0,130.5,2.18,237.0,1.505
+tostada_shell,Tostada shell,foodb_auto,,,,USDA,median of 1 USDA product(s),auto,1,2,1024.0,False,473.974,6.15,23.38,64.43,5.8,1.69,0.0,0.0,657.0,237.0,76.0,1.53,203.0,1.23

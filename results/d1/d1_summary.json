@@ -1,0 +1,181 @@
+{
+  "cleaning": {
+    "raw_ingredients": 1530,
+    "raw_compounds": 1107,
+    "raw_edges": 36781,
+    "duplicate_edges_removed": 0,
+    "duplicate_ingredient_names": 0,
+    "duplicate_compound_names": 0,
+    "dangling_edges_removed": 0,
+    "ingredients_without_compounds": [
+      "abies_sibirica_oil",
+      "bitter_almond_oil",
+      "estragon_oil",
+      "japanese_hop_oil",
+      "sesame_seed_oil"
+    ],
+    "compounds_without_ingredients": 0
+  },
+  "verification": {
+    "paper_pairs_checked": 221777,
+    "shared_compound_match_rate": 1.0
+  },
+  "recipes": {
+    "recipes": 56498,
+    "within_recipe_duplicates_removed": 0,
+    "unique_recipe_ingredients": 381,
+    "recipe_ingredients_matched_to_compounds": 381,
+    "recipe_ingredients_unmatched": [],
+    "recipes_dropped_lt2_ingredients": 354
+  },
+  "matrix_all": {
+    "ingredients": 1525,
+    "compounds": 1107,
+    "nonzeros": 36781,
+    "density": 0.021787433174878197
+  },
+  "matrix_recipe_ingredients": {
+    "ingredients": 381,
+    "compounds": 1021,
+    "nonzeros": 19508,
+    "density": 0.050148971339405296
+  },
+  "compounds_per_ingredient_all": {
+    "count": 1525.0,
+    "mean": 24.12,
+    "std": 43.12,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 2.0,
+    "75%": 24.0,
+    "max": 239.0
+  },
+  "compounds_per_ingredient_recipe": {
+    "count": 381.0,
+    "mean": 51.2,
+    "std": 54.66,
+    "min": 1.0,
+    "25%": 7.0,
+    "50%": 32.0,
+    "75%": 78.0,
+    "max": 239.0
+  },
+  "ingredients_per_compound": {
+    "count": 1107.0,
+    "mean": 33.23,
+    "std": 50.68,
+    "min": 1.0,
+    "25%": 3.0,
+    "50%": 12.0,
+    "75%": 40.0,
+    "max": 299.0
+  },
+  "recipe_size": {
+    "count": 56144.0,
+    "mean": 8.27,
+    "std": 3.53,
+    "min": 2.0,
+    "25%": 6.0,
+    "50%": 8.0,
+    "75%": 10.0,
+    "max": 32.0
+  },
+  "recipes_per_cuisine": {
+    "NorthAmerican": 41263,
+    "SouthernEuropean": 4161,
+    "LatinAmerican": 2910,
+    "WesternEuropean": 2637,
+    "EastAsian": 2484,
+    "MiddleEastern": 641,
+    "SouthAsian": 614,
+    "SoutheastAsian": 454,
+    "EasternEuropean": 380,
+    "African": 351,
+    "NorthernEuropean": 249
+  },
+  "top_compound_rich_recipe_ingredients": [
+    [
+      "black_tea",
+      239
+    ],
+    [
+      "coffee",
+      234
+    ],
+    [
+      "beer",
+      227
+    ],
+    [
+      "white_wine",
+      222
+    ],
+    [
+      "roasted_beef",
+      216
+    ],
+    [
+      "beef",
+      199
+    ],
+    [
+      "raw_beef",
+      199
+    ],
+    [
+      "green_tea",
+      197
+    ],
+    [
+      "strawberry",
+      196
+    ],
+    [
+      "apple",
+      195
+    ]
+  ],
+  "sparse_recipe_ingredients_le3_compounds": 67,
+  "most_prevalent_compounds": [
+    [
+      "1-octanol",
+      299
+    ],
+    [
+      "n-nonanal",
+      298
+    ],
+    [
+      "isobutyl_alcohol",
+      286
+    ],
+    [
+      "hexyl_alcohol",
+      283
+    ],
+    [
+      "isoamyl_alcohol",
+      283
+    ],
+    [
+      "n-octanal",
+      276
+    ],
+    [
+      "3-methylbutyraldehyde",
+      268
+    ],
+    [
+      "octanoic_acid",
+      265
+    ],
+    [
+      "1-octen-3-ol",
+      263
+    ],
+    [
+      "phenylacetaldehyde",
+      261
+    ]
+  ]
+}

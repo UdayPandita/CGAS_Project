@@ -1,0 +1,25 @@
+ingredient,goal,rank,substitute,nutrient_similarity,distance,category,origin,match_type,description,confidence,energy_kcal,protein_g,fat_g,carbohydrate_g,sugars_g,sodium_mg,identical_record,same_category,flavor_similarity,variant,name_nested
+butter,lower fat,1,cream,0.697,0.436,dairy,recipe_curated,direct,"Cream, fluid, heavy whipping",High,344.943,2.050,37.000,2.790,0.110,21.250,False,True,0.150,False,False
+butter,lower fat,2,cream_cheese,0.511,0.958,dairy,recipe_curated,direct,"Cheese, cream",High,342.009,5.930,34.240,4.070,3.210,321.000,False,True,0.298,False,False
+butter,lower fat,3,emmental_cheese,0.507,0.972,dairy,recipe_curated,proxy,"Cheese, swiss",Medium,380.129,26.930,27.800,5.380,1.320,52.000,False,True,0.302,False,False
+cream,lower fat,1,emmental_cheese,0.575,0.738,dairy,recipe_curated,proxy,"Cheese, swiss",Medium,380.129,26.930,27.800,5.380,1.320,52.000,False,True,0.173,False,False
+cream,lower fat,2,swiss_cheese,0.575,0.738,dairy,recipe_curated,direct,"Cheese, swiss",High,380.129,26.930,27.800,5.380,1.320,52.000,False,True,0.184,False,False
+cream,lower fat,3,chicken,0.562,0.779,meat,recipe_curated,direct,"Chicken, flesh and skin, raw",Medium,181.400,18.800,11.800,0.000,0.000,76.000,False,False,0.126,False,False
+beef,lower fat higher protein,1,roasted_pork,0.787,0.270,meat,recipe_curated,direct,"Pork, fresh, loin, whole, separable lean and fat, cooked, roasted",High,248.044,27.090,14.650,0.000,0.000,59.000,False,True,0.459,False,False
+beef,lower fat higher protein,2,veal,0.775,0.290,meat,recipe_curated,direct,"Veal, ground, raw",High,143.941,19.350,6.770,0.000,0.000,82.000,False,True,0.246,False,False
+beef,lower fat higher protein,3,chicken_liver,0.683,0.464,meat,recipe_curated,direct,"Liver, chicken (hen), raw",Medium,135.500,22.100,4.700,1.200,0.000,68.000,False,True,0.020,False,False
+cheddar_cheese,lower sodium lower fat,1,goat_cheese,0.648,0.544,dairy,recipe_curated,direct,"Cheese, goat, soft type",High,267.963,18.520,21.080,0.890,0.890,368.000,False,True,0.831,False,False
+cheddar_cheese,lower sodium lower fat,2,egg,0.596,0.678,animal product,recipe_curated,direct,"Egg, whole, raw, fresh",High,143.082,12.560,9.510,0.720,0.370,142.000,False,False,0.190,False,False
+cheddar_cheese,lower sodium lower fat,3,herring,0.582,0.717,fish/seafood,recipe_curated,direct,"Fish, herring, Atlantic, raw",High,157.991,17.960,9.040,0.000,0.000,90.000,False,False,0.193,False,False
+rice,higher fiber,1,corn_grit,0.707,0.415,cereal/crop,recipe_curated,direct,"Cereals, corn grits, white, regular and quick, enriched, dry",High,370.110,7.650,1.750,79.090,0.570,1.000,False,True,0.000,False,False
+rice,higher fiber,2,macaroni,0.704,0.420,cereal/crop,recipe_curated,direct,"Macaroni, dry, enriched",High,371.088,13.040,1.510,74.670,2.670,6.000,False,True,0.000,False,False
+rice,higher fiber,3,brown_rice,0.696,0.437,cereal/crop,recipe_curated,direct,"Rice, brown, long-grain, raw",High,369.990,7.940,2.920,77.240,0.850,7.000,False,True,0.949,False,True
+cane_molasses,lower sugar,1,strawberry_jam,0.571,0.752,fruit,recipe_curated,proxy,Jams and preserves,Medium,277.982,0.370,0.070,68.860,48.500,32.000,False,False,0.000,False,False
+cane_molasses,lower sugar,2,black_currant,0.524,0.910,fruit,recipe_curated,direct,"Currants, european black, raw",Medium,63.049,1.400,0.410,15.380,9.350,2.000,False,False,0.000,False,False
+cane_molasses,lower sugar,3,shallot,0.518,0.930,vegetable,recipe_curated,direct,"Shallots, raw",High,71.970,2.500,0.100,16.800,7.870,12.000,False,False,0.000,False,False
+bacon,lower sodium,1,pork_sausage,0.785,0.274,meat,recipe_curated,direct,"Pork sausage, fresh, raw",High,303.888,15.090,26.530,0.000,0.000,636.000,False,True,0.992,False,False
+bacon,lower sodium,2,pork,0.676,0.480,meat,recipe_curated,direct,"Pork, fresh, ground, raw",High,262.953,16.880,21.190,0.000,0.000,56.000,False,True,0.958,False,False
+bacon,lower sodium,3,chicken,0.673,0.486,meat,recipe_curated,direct,"Chicken, flesh and skin, raw",Medium,181.400,18.800,11.800,0.000,0.000,76.000,False,True,0.528,False,False
+white_bread,higher protein higher fiber,1,wheat_bread,0.775,0.291,cereal/crop,recipe_curated,direct,"Bread, wheat",High,270.158,10.370,3.440,49.460,6.080,519.000,False,True,0.520,False,False
+white_bread,higher protein higher fiber,2,macaroni,0.579,0.726,cereal/crop,recipe_curated,direct,"Macaroni, dry, enriched",High,371.088,13.040,1.510,74.670,2.670,6.000,False,True,0.068,False,False
+white_bread,higher protein higher fiber,3,saffron,0.578,0.732,spice,recipe_curated,direct,"Spices, saffron",Medium,310.115,11.430,5.850,65.370,2.315,148.000,False,False,0.032,False,False

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Flavor Swap</title>
+<meta name="description" content="Find an alternative ingredient by shared flavor chemistry or by nutrition.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <span class="brand">
+      <svg viewBox="0 0 32 32" aria-hidden="true" class="brand-mark"><circle cx="9" cy="16" r="6"/><circle cx="23" cy="16" r="6"/><path d="M15 16h2"/></svg>
+      Flavor Swap
+    </span>
+  </div>
+</header>
+
+<main>
+  <section id="finder" class="finder-band">
+    <div class="wrap">
+      <div class="section-head">
+        <h1>Find an alternative ingredient</h1>
+        <p>Pick an ingredient, then choose whether the substitute should taste alike or match nutritionally.</p>
+      </div>
+
+      <div class="finder">
+        <form class="controls" id="controls" autocomplete="off">
+          <div class="search">
+            <label for="q" class="label">Ingredient</label>
+            <div class="combo">
+              <input id="q" name="q" type="text" role="combobox" aria-expanded="false" aria-controls="suggest"
+                     aria-autocomplete="list" placeholder="Try butter, lemon, quinoa…" value="butter">
+              <button type="submit" class="go">Find substitutes</button>
+              <ul id="suggest" role="listbox" hidden></ul>
+            </div>
+          </div>
+
+          <div class="mode" role="radiogroup" aria-label="Substitution mode">
+            <button type="button" role="radio" aria-checked="true" data-mode="flavor" id="mode-flavor">
+              <span class="dot flavor"></span>Tastes alike<small>shared flavor compounds</small></button>
+            <button type="button" role="radio" aria-checked="false" data-mode="nutrient" id="mode-nutrient">
+              <span class="dot nutrient"></span>Nutritionally alike<small>14 nutrients per 100 g</small></button>
+          </div>
+
+          <div class="opts" id="opts-flavor">
+            <label>Similarity
+              <select id="weighting"><option value="jaccard">Jaccard</option><option value="idf">IDF-weighted Jaccard</option></select></label>
+            <label>Show
+              <select id="minconf-f"><option value="">all confidence levels</option><option value="Medium">Medium and High</option><option value="High">High only</option></select></label>
+            <label class="check"><input type="checkbox" id="samecat-f"> same category only</label>
+            <label>Results
+              <select id="k-f"><option>5</option><option selected>8</option><option>12</option><option>20</option></select></label>
+          </div>
+
+          <div class="opts" id="opts-nutrient" hidden>
+            <div class="goals" id="goals" aria-label="Nutrient goals">
+              <span class="label">Goals <small>tap to cycle: any → lower → higher</small></span>
+              <div class="goal-chips" id="goal-chips"></div>
+            </div>
+            <label>Search among
+              <select id="catalog"><option value="all">all 808 foods</option><option value="recipe">recipe ingredients only</option></select></label>
+            <label>Compare on
+              <select id="features"><option value="full">all 14 nutrients</option><option value="macro">macronutrients only</option></select></label>
+            <label class="check"><input type="checkbox" id="samecat-n"> same food group only</label>
+            <label>Results
+              <select id="k-n"><option>5</option><option selected>8</option><option>12</option><option>20</option></select></label>
+          </div>
+        </form>
+
+        <div class="output">
+          <article class="card ingredient" id="ingredient" aria-live="polite"></article>
+          <div class="results-wrap">
+            <div class="results-head" id="results-head"></div>
+            <p class="note" id="note" hidden></p>
+            <p class="error" id="error" hidden></p>
+            <ol class="results" id="results"></ol>
+            <p class="legend" id="legend"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

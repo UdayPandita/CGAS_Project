@@ -1,0 +1,7 @@
+# One-click deploy on Render (render.com): New + > Blueprint > pick this repository.
+services:
+  - type: web
+    name: flavor-swap
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz

@@ -1,0 +1,382 @@
+ingredient,category,source,description,match_type,energy_kcal,protein_g,fat_g,carbohydrate_g,fiber_g,sugars_g,alcohol_g,cholesterol_mg,sodium_mg,potassium_mg,calcium_mg,iron_mg,phosphorus_mg,zinc_mg,foodb_food_id,n_imputed,energy_check_kcal_diff
+almond,nut/seed/pulse,USDA,"Nuts, almonds",direct,575.263,21.22,49.42,21.67,12.2,3.89,0.0,0.25,3.25,442.25,175.75,2.495,293.25,2.042,148.0,0,-41.1
+angelica,herb,,,none,,,,,,,,,,,,,,,,0,
+anise,spice,USDA,"Spices, anise seed",direct,337.119,17.6,15.9,50.02,14.6,2.315,0.0,0.0,16.0,1441.0,646.0,36.96,440.0,5.3,137.0,1,-76.5
+anise_seed,spice,USDA,"Spices, anise seed",direct,337.119,17.6,15.9,50.02,14.6,2.315,0.0,0.0,16.0,1441.0,646.0,36.96,440.0,5.3,137.0,1,-76.5
+apple,fruit,USDA,"Apples, raw, with skin",direct,52.052,0.26,0.17,13.81,2.4,10.39,0.0,0.0,1.0,107.0,6.0,0.12,11.0,0.04,105.0,0,-5.8
+apple_brandy,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+apricot,fruit,USDA,"Apricots, raw",direct,48.02,1.4,0.39,11.12,2.0,9.24,0.0,0.0,1.0,156.5,11.25,0.31,15.25,0.148,144.0,0,-5.6
+armagnac,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+artemisia,plant,,,none,,,,,,,,,,,,,,,,0,
+artichoke,vegetable,USDA,"Artichokes, (globe or french), raw",direct,47.042,3.27,0.15,10.51,5.4,0.99,0.0,0.0,94.0,370.0,44.0,1.28,90.0,0.49,71.0,0,-9.4
+asparagus,vegetable,USDA,"Asparagus, raw",direct,20.158,2.2,0.12,3.88,2.1,1.88,0.0,0.0,2.0,109.75,13.5,2.435,26.5,0.298,21.0,0,-5.2
+avocado,fruit,USDA,"Avocados, raw, all commercial varieties",direct,160.067,2.0,14.66,8.53,6.7,0.66,0.0,0.0,7.5,360.5,8.75,0.505,36.0,0.44,130.0,0,-14.0
+bacon,meat,USDA,"Pork, cured, bacon, raw",direct,458.207,11.6,45.04,0.66,0.0,0.0,0.0,68.0,833.0,208.0,6.0,0.48,188.0,1.17,549.0,0,3.8
+baked_potato,vegetable,USDA,"Potatoes, baked, flesh and skin, with salt",direct,93.106,2.5,0.13,21.15,2.2,1.18,0.0,0.0,10.0,535.0,15.0,1.08,70.0,0.36,175.0,0,-2.7
+balm,herb,,,none,,,,,,,,,,,,,,,,0,
+banana,fruit,USDA,"Bananas, raw",direct,88.836,1.09,0.33,22.84,2.6,12.23,0.0,0.0,1.75,208.5,3.25,0.185,14.5,0.108,208.0,0,-9.9
+barley,cereal/crop,USDA,"Barley, pearled, raw",direct,352.028,9.91,1.16,77.72,15.6,0.8,0.0,0.0,9.0,280.0,29.0,2.5,221.0,2.13,88.0,0,-8.9
+bartlett_pear,fruit,USDA,"Pears, raw",proxy,57.92,0.38,0.12,15.46,3.1,9.8,0.0,0.0,1.0,119.0,9.0,0.17,11.0,0.1,152.0,0,-6.5
+basil,herb,USDA,"Basil, fresh",direct,22.733,3.15,0.64,2.65,1.6,0.3,0.0,0.0,2.25,256.75,102.75,3.17,35.25,0.565,119.0,0,-6.2
+bay,herb,USDA,"Spices, bay leaf",direct,313.288,7.61,8.36,74.97,26.3,0.87,0.0,0.0,23.0,529.0,834.0,43.0,113.0,3.7,97.0,1,-92.3
+bean,vegetable,USDA,"Beans, snap, green, raw",proxy,31.155,1.83,0.22,6.97,2.7,3.26,0.0,0.0,6.0,211.0,37.0,1.03,38.0,0.24,134.0,0,-6.0
+beech,plant,,,none,,,,,,,,,,,,,,,,0,
+beef,meat,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",direct,253.912,17.17,20.0,0.0,0.0,0.0,0.0,71.0,67.0,270.0,18.0,1.94,158.0,4.18,506.0,0,5.2
+beef_broth,meat,USDA,"Soup, beef broth or bouillon canned, ready-to-serve",direct,6.966,1.14,0.22,0.04,0.0,0.0,0.0,0.0,372.0,54.0,6.0,0.17,13.0,0.0,692.0,0,0.3
+beef_liver,meat,USDA,"Beef, variety meats and by-products, liver, raw",direct,134.9,20.36,3.63,3.89,0.0,0.0,0.0,275.0,69.0,313.0,5.0,4.9,387.0,4.0,506.0,0,5.2
+beer,alcoholic beverage,USDA,"Alcoholic beverage, beer, regular, all",direct,43.13,0.46,0.0,3.55,0.0,0.0,1.952,0.0,2.5,15.25,2.5,0.015,8.75,0.008,268.0,0,13.4
+beet,vegetable,USDA,"Beets, raw",direct,43.011,1.61,0.17,9.56,2.8,6.76,0.0,0.0,78.0,325.0,16.0,0.8,40.0,0.35,25.0,0,-3.2
+bell_pepper,vegetable,USDA,"Peppers, sweet, red, raw",direct,30.916,0.99,0.3,6.03,2.1,4.2,0.0,0.0,4.0,211.0,7.0,0.43,26.0,0.25,40.0,0,0.1
+bergamot,flower,,,none,,,,,,,,,,,,,,,,0,
+berry,fruit,USDA,"Blueberries, raw",proxy,57.181,0.74,0.33,14.49,2.4,9.96,0.0,0.0,1.0,77.0,6.0,0.28,12.0,0.16,188.0,0,-6.7
+bitter_orange,fruit,USDA,"Oranges, raw, all commercial varieties",proxy,47.042,0.94,0.12,11.75,2.4,9.35,0.0,0.0,0.0,181.0,40.0,0.1,14.0,0.07,57.0,0,-4.8
+black_bean,vegetable,USDA,"Beans, black, mature seeds, raw",direct,340.792,21.6,1.42,62.36,15.5,2.12,0.0,0.0,5.0,1483.0,123.0,5.02,352.0,3.65,134.0,0,-7.8
+black_currant,fruit,USDA,"Currants, european black, raw",direct,63.049,1.4,0.41,15.38,2.4,9.35,0.0,0.0,2.0,322.0,55.0,1.54,59.0,0.27,155.0,2,-7.8
+black_mustard_seed_oil,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+black_pepper,spice,USDA,"Spices, pepper, black",direct,250.978,10.39,3.26,63.95,25.3,0.64,0.0,0.0,13.5,1045.5,302.0,9.568,92.25,0.84,139.0,0,-75.7
+black_raspberry,fruit,USDA,"Raspberries, raw",proxy,52.291,1.2,0.65,11.94,6.5,4.42,0.0,0.0,1.0,151.0,25.0,0.69,29.0,0.42,160.0,0,-6.1
+black_sesame_seed,nut/seed/pulse,USDA,"Seeds, sesame seeds, whole, dried",proxy,572.948,17.73,49.67,23.45,11.8,0.3,0.0,0.0,11.0,468.0,975.0,14.55,629.0,7.75,170.0,0,-38.8
+black_tea,plant derivative,USDA,"Tea, black, brewed, prepared with tap water",direct,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02,38.0,0,-0.2
+blackberry,fruit,USDA,"Blackberries, raw",direct,43.13,1.39,0.49,9.61,5.3,4.88,0.0,0.0,1.0,162.0,29.0,0.62,22.0,0.53,160.0,0,-5.3
+blackberry_brandy,alcoholic beverage,USDA,"Alcoholic beverage, liqueur, coffee, 53 proof",proxy,326.002,0.1,0.3,46.8,0.0,46.43,21.7,0.0,8.0,30.0,1.0,0.06,6.0,0.03,630.0,0,-16.2
+blue_cheese,dairy,USDA,"Cheese, blue",direct,353.006,21.4,28.74,2.34,0.0,0.5,0.0,75.0,1270.5,256.0,528.0,0.31,387.0,2.66,631.0,0,-0.6
+blueberry,fruit,USDA,"Blueberries, raw",direct,57.181,0.74,0.33,14.49,2.4,9.96,0.0,0.0,1.0,77.0,6.0,0.28,12.0,0.16,188.0,0,-6.7
+bone_oil,animal product,,,none,,,,,,,,,,,,,,,,0,
+bourbon_whiskey,alcoholic beverage,USDA,"Alcoholic beverage, distilled, whiskey, 86 proof",direct,250.0,0.0,0.0,0.1,0.0,0.1,36.0,0.0,0.0,1.0,0.0,0.02,3.0,0.02,640.0,0,-2.4
+brandy,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+brassica,plant,USDA,"Cabbage, raw",proxy,24.809,1.28,0.1,5.8,2.5,3.2,0.0,0.0,18.0,170.0,40.0,0.47,26.0,0.18,30.0,0,-4.4
+bread,cereal/crop,USDA,"Bread, white, commercially prepared (includes soft bread crumbs)",direct,264.79,9.15,3.19,49.06,2.7,5.07,0.0,0.0,301.0,74.5,221.25,2.358,74.5,0.555,836.0,0,3.2
+broccoli,vegetable,USDA,"Broccoli, raw",direct,33.85,2.82,0.37,6.64,2.6,1.7,0.0,0.0,23.0,171.5,29.5,0.482,38.5,0.23,34.0,0,-7.3
+brown_rice,cereal/crop,USDA,"Rice, brown, long-grain, raw",direct,369.99,7.94,2.92,77.24,3.5,0.85,0.0,0.0,7.0,223.0,23.0,1.47,333.0,2.02,125.0,0,3.0
+brussels_sprout,vegetable,USDA,"Brussels sprouts, raw",direct,42.891,3.38,0.3,8.95,3.8,2.2,0.0,0.0,25.0,389.0,42.0,1.4,69.0,0.42,32.0,0,-9.1
+buckwheat,cereal/crop,USDA,Buckwheat,direct,342.987,13.25,3.4,71.5,10.0,1.1,0.0,0.0,1.0,460.0,18.0,2.2,347.0,2.4,79.0,1,-26.6
+butter,dairy,USDA,"Butter, without salt",direct,716.889,0.85,81.11,0.06,0.0,0.06,0.0,108.5,11.0,14.75,14.75,0.048,14.0,0.098,667.0,0,-16.7
+buttermilk,dairy,USDA,"Milk, buttermilk, fluid, cultured, lowfat",direct,40.196,3.31,0.88,4.79,0.0,4.79,0.0,4.0,105.0,151.0,116.0,0.05,89.0,0.42,714.0,0,-0.1
+cabbage,vegetable,USDA,"Cabbage, raw",direct,24.809,1.28,0.1,5.8,2.5,3.2,0.0,0.0,18.0,170.0,40.0,0.47,26.0,0.18,30.0,0,-4.4
+cabernet_sauvignon_wine,alcoholic beverage,USDA,"Alcoholic Beverage, wine, table, red, Cabernet Sauvignon",direct,82.967,0.07,0.0,2.6,0.0,0.0,10.5,0.0,1.5,2.0,0.0,0.05,5.0,0.04,626.0,9,-1.2
+cacao,plant derivative,USDA,"Chocolate, dark, 70-85% cacao solids",proxy,598.235,7.79,42.63,45.9,10.9,23.99,0.0,3.0,20.0,715.0,73.0,11.9,308.0,3.31,709.0,0,-0.2
+camembert_cheese,dairy,USDA,"Cheese, camembert",direct,299.737,19.8,24.26,0.46,0.0,0.46,0.0,72.0,842.0,187.0,388.0,0.33,347.0,2.38,631.0,0,0.4
+cane_molasses,plant derivative,USDA,Molasses,direct,289.957,0.0,0.1,74.73,0.0,55.49,0.0,0.0,37.0,1464.0,205.0,4.72,31.0,0.29,811.0,0,-9.9
+caraway,spice,USDA,"Spices, caraway seed",direct,332.967,19.77,14.59,49.9,38.0,0.64,0.0,0.0,17.0,1351.0,689.0,16.23,568.0,5.5,43.0,0,-77.0
+cardamom,spice,USDA,"Spices, cardamom",direct,311.212,10.76,6.7,68.47,28.0,2.315,0.0,0.0,18.0,1119.0,383.0,13.97,178.0,7.47,74.0,1,-66.0
+carnation,flower,,,none,,,,,,,,,,,,,,,,0,
+carob,fruit,USDA,Carob flour,direct,222.018,4.62,0.65,88.88,39.8,49.08,0.0,0.0,35.0,827.0,348.0,2.94,79.0,0.92,326.0,0,-157.8
+carrot,vegetable,USDA,"Carrots, raw",direct,41.174,0.93,0.24,9.58,2.8,4.74,0.0,0.0,69.0,320.0,33.0,0.3,35.0,0.24,245.0,0,-3.0
+cashew,nut/seed/pulse,USDA,"Nuts, cashew nuts, raw",direct,553.03,18.22,43.85,30.19,3.3,5.91,0.0,0.0,12.0,660.0,37.0,6.68,593.0,5.78,11.0,0,-35.3
+cassava,vegetable,USDA,"Cassava, raw",direct,159.708,1.36,0.28,38.06,1.8,1.7,0.0,0.0,14.0,271.0,16.0,0.27,27.0,0.34,328.0,0,-0.5
+catfish,fish/seafood,USDA,"Fish, catfish, channel, wild, raw",direct,94.943,16.38,2.82,0.0,0.0,0.0,0.0,58.0,43.0,358.0,14.0,0.3,209.0,0.51,329.0,0,4.0
+cauliflower,vegetable,USDA,"Cauliflower, raw",direct,24.928,1.92,0.28,4.97,2.0,1.91,0.0,0.0,17.25,157.5,11.75,0.25,23.75,0.153,31.0,0,-5.2
+caviar,fish/seafood,USDA,"Fish, caviar, black and red, granular",direct,264.051,24.6,17.9,4.0,0.0,0.0,0.0,588.0,1500.0,181.0,275.0,11.88,356.0,0.95,722.0,0,-11.4
+cayenne,spice,USDA,"Spices, pepper, red or cayenne",direct,318.058,12.01,17.27,56.63,27.2,10.34,0.0,0.0,30.0,2014.0,148.0,7.8,293.0,2.48,40.0,0,-111.9
+celery,vegetable,USDA,"Celery, raw",direct,16.007,0.69,0.17,2.97,1.6,1.83,0.0,0.0,51.0,156.0,30.0,0.24,13.0,0.335,15.0,0,-0.2
+celery_oil,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+cereal,cereal/crop,USDA,"Cereals ready-to-eat, corn flakes, low sodium",proxy,398.831,7.7,0.3,88.8,1.1,6.11,0.0,0.0,10.0,73.0,43.0,2.22,49.0,0.27,270.0,0,10.1
+chamomile,flower,USDA,"Tea, herb, chamomile, brewed",direct,0.978,0.0,0.0,0.2,0.0,0.0,0.0,0.0,1.0,9.0,2.0,0.08,0.0,0.04,38.0,0,0.2
+champagne_wine,alcoholic beverage,USDA,"Alcoholic beverage, wine, table, white",proxy,81.87,0.07,0.0,2.6,0.0,0.96,10.3,0.0,5.0,71.0,9.0,0.27,18.0,0.12,626.0,0,-0.9
+chayote,fruit,USDA,"Chayote, fruit, raw",direct,19.06,0.82,0.13,4.51,1.7,1.66,0.0,0.0,2.0,125.0,17.0,0.34,18.0,0.74,330.0,0,-3.4
+cheddar_cheese,dairy,USDA,"Cheese, cheddar",direct,402.743,24.9,33.14,1.28,0.0,0.52,0.0,105.0,621.0,98.0,721.0,0.68,512.0,3.11,631.0,0,-0.2
+cheese,dairy,USDA,"Cheese, cheddar",proxy,402.743,24.9,33.14,1.28,0.0,0.52,0.0,105.0,621.0,98.0,721.0,0.68,512.0,3.11,631.0,0,-0.2
+cherry,fruit,USDA,"Cherries, sweet, raw",direct,62.929,1.06,0.2,16.01,2.1,12.82,0.0,0.0,0.0,222.0,13.0,0.36,21.0,0.07,145.0,0,-7.2
+cherry_brandy,alcoholic beverage,USDA,"Alcoholic beverage, liqueur, coffee, 53 proof",proxy,326.002,0.1,0.3,46.8,0.0,46.43,21.7,0.0,8.0,30.0,1.0,0.06,6.0,0.03,630.0,0,-16.2
+chervil,herb,USDA,"Spices, chervil, dried",direct,236.808,23.2,3.9,49.1,11.3,0.87,0.0,0.0,83.0,4740.0,1346.0,31.95,450.0,8.8,332.0,1,-87.5
+chicken,meat,DTU,"Chicken, flesh and skin, raw",direct,181.4,18.8,11.8,0.0,0.0,0.0,0.0,72.0,76.0,281.0,11.0,0.585,158.0,0.916,334.0,2,0.0
+chicken_broth,meat,USDA,"Soup, chicken broth, canned, prepared with equal volume water",direct,16.007,2.02,0.57,0.38,0.0,0.29,0.0,0.0,306.0,86.0,4.0,0.21,30.0,0.1,692.0,0,1.3
+chicken_liver,meat,DTU,"Liver, chicken (hen), raw",direct,135.5,22.1,4.7,1.2,0.0,0.0,0.0,72.0,68.0,218.0,18.0,7.6,158.0,2.9,334.0,2,-0.0
+chickpea,vegetable,USDA,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",direct,364.242,19.3,6.04,60.65,17.4,10.7,0.0,0.0,24.0,563.5,69.5,3.698,224.25,2.343,47.0,0,-9.9
+chicory,vegetable,USDA,"Chicory greens, raw",direct,22.972,1.7,0.3,4.7,4.0,0.7,0.0,0.0,45.0,420.0,100.0,0.9,47.0,0.42,49.0,0,-5.3
+chinese_cabbage,vegetable,USDA,"Cabbage, chinese (pe-tsai), raw",direct,16.007,1.2,0.2,3.23,1.2,1.41,0.0,0.0,9.0,238.0,77.0,0.31,29.0,0.23,253.0,0,-3.5
+chive,vegetable,USDA,"Chives, raw",direct,30.057,3.27,0.73,4.35,2.5,1.85,0.0,0.0,3.0,296.0,92.0,1.6,58.0,0.56,9.0,0,-7.0
+cider,alcoholic beverage,USDA,"Alcoholic beverage, wine, table, white",proxy,81.87,0.07,0.0,2.6,0.0,0.96,10.3,0.0,5.0,71.0,9.0,0.27,18.0,0.12,626.0,0,-0.9
+cilantro,herb,USDA,"Coriander (cilantro) leaves, raw",direct,22.853,2.13,0.52,3.67,2.8,0.87,0.0,0.0,32.0,297.5,42.0,1.435,30.25,0.255,61.0,0,-5.0
+cinnamon,spice,USDA,"Spices, cinnamon, ground",direct,247.185,3.99,1.24,80.59,53.1,2.17,0.0,0.0,9.0,267.5,591.5,8.458,40.5,1.27,50.0,0,-102.3
+citrus,fruit,USDA,"Oranges, raw, all commercial varieties",proxy,47.042,0.94,0.12,11.75,2.4,9.35,0.0,0.0,0.0,181.0,40.0,0.1,14.0,0.07,57.0,0,-4.8
+citrus_peel,plant,USDA,"Orange peel, raw",proxy,96.899,1.5,0.2,25.0,10.6,1.6,0.0,0.0,3.0,212.0,161.0,0.8,21.0,0.25,57.0,1,-10.9
+clam,fish/seafood,USDA,"Mollusks, clam, mixed species, raw",direct,86.021,14.67,0.96,3.57,0.0,0.0,0.0,17.0,303.75,26.75,20.75,0.838,108.25,0.262,544.0,0,4.4
+clove,spice,USDA,"Spices, cloves, ground",direct,273.831,5.97,13.0,65.53,33.9,2.38,0.0,0.0,142.75,1020.0,632.0,12.312,104.0,1.562,179.0,0,-129.2
+cocoa,plant derivative,USDA,"Cocoa, dry powder, unsweetened",direct,227.767,19.6,13.7,57.9,33.2,1.75,0.0,0.0,21.0,1524.0,128.0,13.86,734.0,6.81,707.0,0,-205.5
+coconut,nut/seed/pulse,USDA,"Nuts, coconut meat, raw",direct,353.984,3.33,33.49,15.23,9.0,6.23,0.0,0.0,20.0,356.0,14.0,2.43,113.0,1.1,341.0,0,-21.7
+coconut_oil,plant derivative,USDA,"Oil, coconut",direct,862.047,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.032,0.0,0.002,341.0,0,-38.0
+cod,fish/seafood,USDA,"Fish, cod, Atlantic, raw",direct,81.989,17.81,0.67,0.0,0.0,0.0,0.0,43.0,54.0,413.0,16.0,0.38,203.0,0.45,343.0,0,4.7
+coffee,plant derivative,USDA,"Coffee, brewed from grounds, prepared with tap water",direct,0.739,0.12,0.02,0.0,0.0,0.0,0.0,0.0,2.0,49.0,2.0,0.01,3.0,0.02,58.0,0,0.1
+cognac,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+concord_grape,fruit,USDA,"Grapes, american type (slip skin), raw",direct,66.961,0.63,0.35,17.15,0.9,16.25,0.0,0.0,2.0,191.0,14.0,0.29,10.0,0.04,374.0,0,-7.3
+condiment,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+coriander,spice,USDA,"Spices, coriander seed",direct,297.781,12.37,17.77,54.99,41.9,2.315,0.0,0.0,35.0,1267.0,709.0,16.32,409.0,4.7,61.0,1,-131.6
+corn,cereal/crop,USDA,"Corn, sweet, yellow, raw",direct,86.021,3.27,1.35,18.7,2.0,6.26,0.0,0.0,15.0,270.0,2.0,0.52,89.0,0.46,205.0,0,-14.0
+corn_flake,cereal/crop,USDA,"Cereals ready-to-eat, corn flakes, low sodium",proxy,398.831,7.7,0.3,88.8,1.1,6.11,0.0,0.0,10.0,73.0,43.0,2.22,49.0,0.27,270.0,0,10.1
+corn_grit,cereal/crop,USDA,"Cereals, corn grits, white, regular and quick, enriched, dry",direct,370.11,7.65,1.75,79.09,4.6,0.57,0.0,0.0,1.0,141.0,4.0,3.05,111.0,0.72,205.0,0,7.4
+cottage_cheese,dairy,USDA,"Cheese, cottage, creamed, large or small curd",direct,98.235,11.12,4.3,3.38,0.0,2.67,0.0,17.0,364.0,104.0,83.0,0.07,159.0,0.4,631.0,0,1.5
+crab,fish/seafood,USDA,"Crustaceans, crab, blue, raw",direct,86.999,18.06,1.08,0.04,0.0,0.0,0.0,78.0,293.0,329.0,89.0,0.74,229.0,3.54,306.0,0,4.9
+cranberry,fruit,USDA,"Cranberries, raw",direct,46.184,0.39,0.13,12.2,4.6,4.04,0.0,0.0,2.0,85.0,8.0,0.25,13.0,0.1,192.0,0,-5.3
+cream,dairy,USDA,"Cream, fluid, heavy whipping",direct,344.943,2.05,37.0,2.79,0.0,0.11,0.0,71.25,21.25,41.25,34.0,0.073,32.5,0.128,669.0,0,-7.4
+cream_cheese,dairy,USDA,"Cheese, cream",direct,342.009,5.93,34.24,4.07,0.0,3.21,0.0,110.0,321.0,138.0,98.0,0.38,106.0,0.51,631.0,0,-6.2
+cucumber,vegetable,USDA,"Cucumber, with peel, raw",direct,15.268,0.65,0.11,3.63,0.5,1.67,0.0,0.0,2.0,73.5,8.0,0.14,12.0,0.1,65.0,0,-2.8
+cumin,spice,USDA,"Spices, cumin seed",direct,374.761,17.81,22.27,44.24,10.5,2.25,0.0,0.0,168.0,1788.0,931.0,66.36,499.0,4.8,67.0,0,-73.9
+cured_pork,meat,USDA,"Pork, cured, salt pork, raw",direct,748.044,5.05,80.5,0.0,0.0,0.0,0.0,86.0,1424.0,66.0,6.0,0.44,52.0,0.9,549.0,0,3.3
+currant,fruit,USDA,"Currants, red and white, raw",direct,55.964,1.4,0.2,13.8,4.3,7.37,0.0,0.0,1.0,275.0,33.0,1.0,44.0,0.23,156.0,0,-6.6
+date,fruit,USDA,"Dates, medjool",direct,277.123,1.81,0.15,74.97,6.7,66.47,0.0,0.0,0.75,350.75,34.25,0.505,32.0,0.225,135.0,1,-31.3
+dill,herb,USDA,"Dill weed, fresh",direct,43.011,3.46,1.12,7.02,2.1,0.87,0.0,0.0,61.0,738.0,208.0,6.59,66.0,0.91,13.0,1,-9.0
+durian,fruit,USDA,"Durian, raw or frozen",direct,146.994,1.47,5.33,27.09,3.8,9.35,0.0,0.0,2.0,226.25,3.5,0.228,19.75,0.192,360.0,1,-15.2
+eel,fish/seafood,USDA,"Fish, eel, mixed species, raw",direct,184.017,18.44,11.66,0.0,0.0,0.0,0.0,126.0,51.0,272.0,20.0,0.5,216.0,1.62,362.0,0,5.3
+egg,animal product,USDA,"Egg, whole, raw, fresh",direct,143.082,12.56,9.51,0.72,0.0,0.37,0.0,372.0,142.0,138.0,56.0,1.75,198.0,1.29,633.0,0,4.4
+egg_noodle,cereal/crop,USDA,"Noodles, egg, dry, enriched",direct,384.28,14.16,4.44,71.27,3.3,1.88,0.0,84.0,21.0,244.0,35.0,4.01,241.0,1.92,274.0,0,2.6
+elderberry,fruit,USDA,"Elderberries, raw",direct,72.948,0.66,0.5,18.4,7.0,9.35,0.0,0.0,6.0,280.0,38.0,1.6,39.0,0.11,363.0,1,-7.8
+emmental_cheese,dairy,USDA,"Cheese, swiss",proxy,380.129,26.93,27.8,5.38,0.0,1.32,0.0,3.0,52.0,20.0,48.0,0.045,20.5,0.205,631.0,0,0.7
+endive,vegetable,USDA,"Endive, raw",direct,16.985,1.25,0.2,3.35,3.1,0.25,0.0,0.0,22.0,314.0,52.0,0.83,28.0,0.79,48.0,0,-3.2
+enokidake,vegetable,USDA,"Mushrooms, enoki, raw",direct,36.784,2.66,0.29,7.81,2.7,0.22,0.0,0.0,3.0,359.0,0.0,1.15,105.0,0.65,565.0,0,-7.7
+fennel,herb,USDA,"Fennel, bulb, raw",direct,31.035,1.24,0.2,7.29,3.1,0.87,0.0,0.0,52.0,414.0,49.0,0.73,50.0,0.2,82.0,1,-4.9
+fenugreek,herb,USDA,"Spices, fenugreek seed",direct,323.068,23.0,6.41,58.35,24.6,0.87,0.0,0.0,67.0,770.0,176.0,33.53,296.0,2.5,186.0,1,-60.0
+feta_cheese,dairy,USDA,"Cheese, feta",direct,263.812,14.21,21.28,4.09,0.0,4.09,0.0,89.0,1127.5,62.0,493.0,0.65,337.0,2.88,631.0,0,-0.9
+fig,fruit,USDA,"Figs, raw",direct,74.046,0.75,0.3,19.18,2.9,16.26,0.0,0.0,1.0,232.0,35.0,0.37,14.0,0.15,81.0,0,-8.4
+fish,fish/seafood,USDA,"Fish, cod, Atlantic, raw",proxy,81.989,17.81,0.67,0.0,0.0,0.0,0.0,43.0,54.0,413.0,16.0,0.38,203.0,0.45,343.0,0,4.7
+flower,flower,,,none,,,,,,,,,,,,,,,,0,
+frankfurter,meat,USDA,"Frankfurter, beef, unheated",direct,312.929,11.18,27.8,3.72,0.0,1.3,0.0,55.0,1037.0,290.0,13.0,1.25,155.0,2.06,671.0,0,3.1
+fruit,fruit,,,none,,,,,,,,,,,,,,,,0,
+galanga,spice,USDA,"Ginger root, raw",proxy,79.794,1.82,0.75,17.77,2.0,1.7,0.0,0.0,6.5,207.5,8.75,0.348,20.75,0.17,206.0,0,-5.3
+gardenia,flower,,,none,,,,,,,,,,,,,,,,0,
+garlic,vegetable,USDA,"Garlic, raw",direct,148.95,6.36,0.5,33.06,2.1,1.0,0.0,0.0,17.0,401.0,181.0,1.7,153.0,1.16,8.0,0,-13.2
+gelatin,animal product,USDA,"Gelatins, dry powder, unsweetened",direct,335.043,85.6,0.1,0.0,0.0,0.0,0.0,0.0,196.0,16.0,55.0,1.11,39.0,0.14,750.0,0,-8.3
+geranium,flower,,,none,,,,,,,,,,,,,,,,0,
+gin,alcoholic beverage,USDA,"Alcoholic beverage, distilled, gin, 90 proof",direct,262.953,0.0,0.0,0.0,0.0,0.0,37.9,0.0,2.0,0.0,0.0,0.0,0.0,0.0,642.0,0,-2.3
+ginger,spice,USDA,"Ginger root, raw",direct,79.794,1.82,0.75,17.77,2.0,1.7,0.0,0.0,6.5,207.5,8.75,0.348,20.75,0.17,206.0,0,-5.3
+goat_cheese,dairy,USDA,"Cheese, goat, soft type",direct,267.963,18.52,21.08,0.89,0.0,0.89,0.0,46.0,368.0,26.0,140.0,1.9,256.0,0.92,631.0,0,0.6
+grape,fruit,USDA,"Grapes, red or green (European type, such as Thompson seedless), raw",direct,68.917,0.72,0.16,18.1,0.9,15.48,0.0,0.0,3.25,135.0,7.75,0.428,13.5,0.08,204.0,0,-7.8
+grape_brandy,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+grape_juice,fruit,USDA,"Grape juice, canned or bottled, unsweetened, without added ascorbic acid",direct,60.115,0.37,0.13,14.77,0.2,14.2,0.0,0.0,5.0,104.0,11.0,0.25,14.0,0.07,374.0,0,-1.6
+grapefruit,fruit,USDA,"Grapefruit, raw, pink and red, all areas",direct,42.033,0.77,0.14,10.66,1.6,6.89,0.0,0.0,0.0,85.0,16.0,0.053,10.25,0.048,256.0,0,-4.9
+green_bell_pepper,vegetable,USDA,"Peppers, sweet, green, raw",direct,20.038,0.86,0.17,4.64,1.7,2.4,0.0,0.0,3.0,175.0,10.0,0.34,20.0,0.13,40.0,0,-3.5
+green_tea,plant derivative,USDA,"Tea, black, brewed, prepared with tap water",proxy,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02,38.0,0,-0.2
+gruyere_cheese,dairy,USDA,"Cheese, gruyere",direct,413.001,29.81,32.34,0.36,0.0,0.36,0.0,110.0,336.0,81.0,1011.0,0.17,605.0,3.9,631.0,0,1.3
+guava,fruit,USDA,"Guavas, common, raw",direct,68.058,2.55,0.95,14.32,5.4,8.92,0.0,0.0,1.5,230.0,9.25,0.16,21.75,0.138,150.0,0,-8.0
+haddock,fish/seafood,USDA,"Fish, haddock, raw",direct,73.926,16.32,0.45,0.0,0.0,0.0,0.0,6.0,188.0,84.0,5.0,0.055,79.0,0.05,379.0,0,4.6
+ham,meat,USDA,"Ham, sliced, regular (approximately 11% fat)",direct,163.12,16.6,8.6,3.83,1.3,0.0,0.0,57.0,1304.0,287.0,24.0,1.02,153.0,1.35,549.0,0,4.0
+hazelnut,nut/seed/pulse,USDA,"Nuts, hazelnuts or filberts",direct,628.173,14.95,60.75,16.7,9.7,4.34,0.0,0.0,0.5,17.5,2.5,0.15,10.0,0.05,381.0,0,-45.2
+herring,fish/seafood,USDA,"Fish, herring, Atlantic, raw",direct,157.991,17.96,9.04,0.0,0.0,0.0,0.0,60.0,90.0,327.0,57.0,1.1,236.0,0.99,293.0,0,4.8
+holy_basil,herb,USDA,"Basil, fresh",proxy,22.733,3.15,0.64,2.65,1.6,0.3,0.0,0.0,2.25,256.75,102.75,3.17,35.25,0.565,119.0,0,-6.2
+honey,animal product,USDA,Honey,direct,304.008,0.3,0.0,82.4,0.2,82.12,0.0,0.0,4.0,52.0,6.0,0.42,4.0,0.22,643.0,0,-26.8
+hop,cereal/crop,,,none,,,,,,,,,,,,,,,,0,
+horseradish,plant derivative,USDA,"Horseradish, prepared",direct,48.02,1.18,0.69,11.29,3.3,7.99,0.0,0.0,367.0,246.0,56.0,0.42,31.0,0.83,18.0,0,-8.1
+huckleberry,fruit,USDA,"Huckleberries, raw (Alaska Native)",direct,37.142,0.4,0.1,8.7,2.4,9.35,0.0,0.0,10.0,151.0,15.0,0.3,14.25,0.104,385.0,6,-0.2
+jamaican_rum,alcoholic beverage,USDA,"Alcoholic beverage, distilled, rum, 80 proof",direct,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.12,5.0,0.07,646.0,0,-2.7
+japanese_plum,fruit,USDA,"Plums, raw",proxy,45.945,0.7,0.28,11.42,1.4,9.92,0.0,0.0,0.5,102.5,8.5,0.215,12.0,0.115,147.0,0,-5.1
+jasmine,flower,,,none,,,,,,,,,,,,,,,,0,
+jasmine_tea,plant derivative,USDA,"Tea, black, brewed, prepared with tap water",proxy,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02,38.0,0,-0.2
+juniper_berry,fruit,,,none,,,,,,,,,,,,,,,,0,
+kale,vegetable,USDA,"Kale, raw",direct,49.857,3.3,0.7,10.01,2.0,2.04,0.0,0.0,44.25,245.5,87.0,1.56,31.75,0.312,30.0,1,-9.7
+katsuobushi,fish/seafood,,,none,,,,,,,,,,,,,,,,0,
+kelp,vegetable,USDA,"Seaweed, kelp, raw",direct,43.011,1.68,0.56,9.57,1.3,0.6,0.0,0.0,233.0,89.0,168.0,2.85,42.0,1.23,396.0,0,-7.0
+kidney_bean,vegetable,USDA,"Beans, kidney, red, mature seeds, raw",direct,336.76,22.53,1.06,61.29,15.2,2.1,0.0,0.0,12.0,1359.0,83.0,6.69,406.0,2.79,134.0,0,-8.1
+kiwi,fruit,USDA,"Kiwifruit, green, raw",direct,60.973,1.14,0.52,14.66,3.0,8.99,0.0,0.0,3.0,208.25,22.75,0.198,20.75,0.092,4.0,0,-6.9
+kohlrabi,vegetable,USDA,"Kohlrabi, raw",direct,27.004,1.7,0.1,6.2,3.6,2.6,0.0,0.0,20.0,350.0,24.0,0.4,46.0,0.03,33.0,0,-5.5
+kumquat,fruit,USDA,"Kumquats, raw",direct,70.873,1.88,0.86,15.9,6.5,9.36,0.0,0.0,5.5,96.5,38.5,0.492,11.0,0.12,398.0,0,-8.0
+lamb,meat,DTU,"Lamb, meat, average values, raw",direct,332.9,14.6,30.5,0.0,0.0,0.0,0.0,72.0,66.0,218.0,20.0,1.5,158.0,3.42,483.0,2,0.0
+lard,animal product,USDA,Lard,direct,902.004,0.0,100.0,0.0,0.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0,0.11,703.0,0,2.0
+laurel,plant,USDA,"Spices, bay leaf",proxy,313.288,7.61,8.36,74.97,26.3,1.6,0.0,0.0,23.0,529.0,834.0,43.0,113.0,3.7,97.0,1,-92.3
+lavender,flower,,,none,,,,,,,,,,,,,,,,0,
+leaf,plant,,,none,,,,,,,,,,,,,,,,0,
+leek,vegetable,USDA,"Leeks, (bulb and lower leaf-portion), raw",direct,60.973,1.5,0.3,14.15,1.8,3.9,0.0,0.0,20.0,180.0,59.0,2.1,35.0,0.12,401.0,0,-4.3
+lemon,fruit,USDA,"Lemons, raw, without peel",direct,28.96,1.1,0.3,9.32,2.8,2.5,0.0,0.0,2.0,138.0,26.0,0.6,16.0,0.06,54.0,0,-15.4
+lemon_juice,fruit,USDA,"Lemon juice, raw",direct,21.875,0.35,0.24,6.9,0.3,2.52,0.0,0.0,1.0,103.0,6.0,0.08,8.0,0.05,54.0,0,-9.3
+lemon_peel,plant,USDA,"Lemon peel, raw",direct,47.042,1.5,0.3,16.0,10.6,4.17,0.0,0.0,6.0,160.0,134.0,0.8,12.0,0.25,54.0,0,-25.7
+lemongrass,herb,USDA,"Lemon grass (citronella), raw",direct,98.974,1.82,0.49,25.31,8.0,0.87,0.0,0.0,6.0,723.0,65.0,8.17,101.0,2.23,70.0,2,-14.0
+lentil,nut/seed/pulse,USDA,"Lentils, raw",direct,353.006,25.8,1.06,60.08,30.5,2.03,0.0,0.0,3.5,183.0,20.5,10.62,98.0,2.46,98.0,0,-0.1
+lettuce,vegetable,USDA,"Lettuce, green leaf, raw",direct,14.909,1.36,0.15,2.87,1.3,0.78,0.0,0.0,28.0,194.0,36.0,0.86,29.0,0.18,95.0,0,-3.4
+licorice,spice,,,none,,,,,,,,,,,,,,,,0,
+lilac_flower_oil,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+lima_bean,vegetable,USDA,"Lima beans, large, mature seeds, raw",direct,337.977,21.46,0.69,63.38,19.0,8.5,0.0,0.0,18.0,1724.0,81.0,7.51,385.0,2.83,133.0,0,-7.6
+lime,fruit,USDA,"Limes, raw",direct,30.057,0.7,0.2,10.54,2.8,1.69,0.0,0.0,2.0,102.0,33.0,0.6,18.0,0.11,557.0,0,-16.7
+lime_juice,fruit,USDA,"Lime juice, raw",direct,24.928,0.42,0.07,8.42,0.4,1.69,0.0,0.0,2.0,117.0,14.0,0.09,14.0,0.08,557.0,0,-11.1
+lime_peel_oil,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+lingonberry,fruit,USDA,"Cranberries, raw",proxy,46.184,0.39,0.13,12.2,4.6,4.04,0.0,0.0,2.0,85.0,8.0,0.25,13.0,0.1,192.0,0,-5.3
+litchi,fruit,USDA,"Litchis, raw",direct,65.983,0.83,0.44,16.53,1.3,15.23,0.0,0.0,1.0,171.0,5.0,0.31,31.0,0.07,103.0,0,-7.4
+liver,meat,USDA,"Beef, variety meats and by-products, liver, raw",proxy,134.9,20.36,3.63,3.89,0.0,0.0,0.0,275.0,69.0,313.0,5.0,4.9,387.0,4.0,506.0,0,5.2
+lobster,fish/seafood,USDA,"Crustaceans, lobster, northern, raw",direct,77.219,16.52,0.75,0.0,0.0,0.0,0.0,127.0,423.0,200.0,84.0,0.26,161.0,3.53,404.0,0,4.4
+lovage,herb,,,none,,,,,,,,,,,,,,,,0,
+macadamia_nut,nut/seed/pulse,USDA,"Nuts, macadamia nuts, raw",direct,717.987,7.91,75.77,13.82,8.6,4.57,0.0,0.0,1.5,14.5,15.5,1.04,16.5,0.135,536.0,0,-50.9
+macaroni,cereal/crop,USDA,"Macaroni, dry, enriched",direct,371.088,13.04,1.51,74.67,3.2,2.67,0.0,0.0,6.0,223.0,21.0,3.3,189.0,1.41,274.0,0,6.7
+mace,spice,USDA,"Spices, mace, ground",direct,475.191,6.71,32.38,50.5,20.2,2.315,0.0,0.0,80.0,463.0,252.0,13.9,110.0,2.3,118.0,1,-45.1
+mackerel,fish/seafood,USDA,"Fish, mackerel, Atlantic, raw",direct,205.033,18.6,13.89,0.0,0.0,0.0,0.0,70.0,90.0,314.0,12.0,1.63,217.0,0.63,294.0,0,5.6
+malt,cereal/crop,USDA,Barley malt flour,direct,360.949,10.28,1.84,78.3,7.1,0.8,0.0,0.0,11.0,224.0,37.0,4.71,303.0,2.06,88.0,0,-9.9
+mandarin,fruit,USDA,"Tangerines, (mandarin oranges), raw",direct,53.149,0.81,0.31,13.34,1.8,10.58,0.0,0.0,2.0,99.5,23.25,0.1,11.25,0.04,56.0,0,-6.2
+mandarin_peel,plant,USDA,"Orange peel, raw",proxy,96.899,1.5,0.2,25.0,10.6,1.6,0.0,0.0,3.0,212.0,161.0,0.8,21.0,0.25,57.0,1,-10.9
+mango,fruit,USDA,"Mangos, raw",direct,59.876,0.82,0.38,14.98,1.6,13.66,0.0,0.0,1.25,106.75,7.75,0.16,9.0,0.068,106.0,0,-6.7
+maple_syrup,plant derivative,USDA,"Syrups, maple",direct,260.019,0.04,0.06,67.04,0.0,60.44,0.0,0.0,12.0,212.0,102.0,0.11,2.0,1.47,695.0,0,-8.8
+marjoram,herb,USDA,"Spices, marjoram, dried",direct,271.255,12.66,7.04,60.56,40.3,4.09,0.0,0.0,77.0,1522.0,1990.0,82.71,306.0,3.6,122.0,0,-85.0
+mate,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+matsutake,vegetable,USDA,"Mushrooms, white, raw",proxy,22.114,2.635,0.34,3.26,1.0,1.98,0.0,0.0,5.0,318.0,3.0,0.5,86.0,0.52,561.0,0,-4.5
+meat,meat,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",proxy,253.912,17.17,20.0,0.0,0.0,0.0,0.0,71.0,67.0,270.0,18.0,1.94,158.0,4.18,506.0,0,5.2
+melon,fruit,USDA,"Melons, cantaloupe, raw",direct,33.85,0.84,0.19,8.16,0.9,7.86,0.0,0.0,20.0,181.0,6.75,0.215,10.75,0.315,64.0,0,-3.9
+milk,dairy,USDA,"Milk, whole, 3.25% milkfat, with added vitamin D",direct,60.973,3.15,3.25,4.8,0.0,5.05,0.0,10.0,43.0,132.0,113.0,0.03,84.0,0.37,632.0,0,-0.1
+milk_fat,dairy,USDA,"Butter oil, anhydrous",direct,875.859,0.28,99.48,0.0,0.0,0.0,0.0,256.0,2.0,5.0,4.0,0.0,3.0,0.01,785.0,0,-20.6
+mint,herb,USDA,"Peppermint, fresh",proxy,70.014,3.75,0.94,14.89,8.0,0.87,0.0,0.0,31.0,569.0,243.0,5.08,73.0,1.11,113.0,1,-13.0
+mozzarella_cheese,dairy,USDA,"Cheese, mozzarella, whole milk",direct,299.857,22.17,22.35,2.19,0.0,1.03,0.0,79.0,627.0,76.0,505.0,0.44,354.0,2.92,631.0,0,1.3
+mung_bean,vegetable,USDA,"Mung beans, mature seeds, raw",direct,347.018,23.86,1.15,62.62,16.3,6.6,0.0,0.0,15.0,1246.0,132.0,6.74,367.0,2.68,200.0,0,-9.3
+munster_cheese,dairy,USDA,"Cheese, muenster",direct,368.154,23.41,30.04,1.12,0.0,1.12,0.0,96.0,628.0,134.0,717.0,0.41,468.0,2.81,631.0,0,-0.3
+muscat_grape,fruit,USDA,"Grapes, red or green (European type, such as Thompson seedless), raw",proxy,68.917,0.72,0.16,18.1,0.9,15.48,0.0,0.0,3.25,135.0,7.75,0.428,13.5,0.08,204.0,0,-7.8
+mushroom,vegetable,USDA,"Mushrooms, white, raw",direct,22.114,2.635,0.34,3.26,1.0,1.98,0.0,0.0,5.0,318.0,3.0,0.5,86.0,0.52,561.0,0,-4.5
+mussel,fish/seafood,USDA,"Mollusks, mussel, blue, raw",direct,86.021,11.9,2.24,3.69,0.0,0.0,0.0,28.0,286.0,320.0,26.0,3.95,197.0,1.6,307.0,0,3.5
+mustard,plant derivative,USDA,"Mustard, prepared, yellow",direct,66.722,4.37,4.01,5.33,3.3,0.86,0.0,0.0,1135.0,138.0,58.0,1.51,106.0,0.64,420.0,0,-8.2
+mutton,meat,DTU,"Mutton, shoulder, raw",direct,227.8,18.7,17.0,0.0,0.0,0.0,0.0,72.0,84.0,301.0,7.5,1.8,158.0,3.5,696.0,2,0.0
+nectarine,fruit,USDA,"Nectarines, raw",direct,44.108,1.06,0.32,10.55,1.7,7.89,0.0,0.0,3.0,123.5,4.5,0.22,15.0,0.128,229.0,0,-5.2
+nira,vegetable,USDA,"Chives, raw",proxy,30.057,3.27,0.73,4.35,2.5,1.85,0.0,0.0,3.0,296.0,92.0,1.6,58.0,0.56,9.0,0,-7.0
+nut,nut/seed/pulse,USDA,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",proxy,593.965,17.3,51.45,25.35,9.0,4.06,0.0,0.0,12.0,597.0,70.0,3.7,435.0,3.8,796.0,1,-39.7
+nutmeg,spice,USDA,"Spices, nutmeg, ground",direct,524.928,5.84,36.31,49.29,20.8,28.49,0.0,0.0,16.0,350.0,184.0,3.04,213.0,2.15,118.0,0,-22.4
+oat,cereal/crop,USDA,Oats,direct,389.051,16.89,6.9,66.27,10.6,1.1,0.0,0.0,2.0,429.0,54.0,4.72,523.0,3.97,22.0,1,-5.7
+oatmeal,cereal/crop,USDA,"Cereals, oats, regular and quick, not fortified, dry",direct,379.032,13.15,6.52,67.7,10.1,0.99,0.0,0.0,6.0,362.0,52.0,4.25,410.0,3.64,270.0,0,-3.0
+octopus,fish/seafood,USDA,"Mollusks, octopus, common, raw",direct,81.989,14.91,1.04,2.2,0.0,0.0,0.0,48.0,230.0,350.0,53.0,5.3,186.0,1.68,344.0,0,4.2
+okra,fruit,USDA,"Okra, raw",direct,30.916,2.0,0.1,7.03,3.2,1.2,0.0,0.0,6.0,167.0,50.25,0.49,33.5,0.305,427.0,0,-6.1
+olive,fruit,USDA,"Olives, ripe, canned (small-extra large)",direct,114.981,0.84,10.68,6.26,3.2,0.0,0.0,0.0,735.0,8.0,88.0,3.3,3.0,0.22,121.0,0,-9.5
+olive_oil,plant derivative,USDA,"Oil, olive, salad or cooking",direct,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.56,0.0,0.0,121.0,0,-16.0
+onion,vegetable,USDA,"Onions, raw",direct,39.837,1.1,0.1,9.34,1.7,4.24,0.0,0.0,3.5,72.0,13.0,0.275,13.5,0.105,5.0,0,-2.8
+orange,fruit,USDA,"Oranges, raw, all commercial varieties",direct,47.042,0.94,0.12,11.75,2.4,9.35,0.0,0.0,0.0,181.0,40.0,0.1,14.0,0.07,57.0,0,-4.8
+orange_flower,flower,,,none,,,,,,,,,,,,,,,,0,
+orange_juice,fruit,USDA,"Orange juice, raw",direct,44.967,0.7,0.2,10.4,0.2,8.4,0.0,0.0,1.0,200.0,11.0,0.2,17.0,0.05,57.0,0,-1.2
+orange_peel,plant,USDA,"Orange peel, raw",direct,96.899,1.5,0.2,25.0,10.6,1.6,0.0,0.0,3.0,212.0,161.0,0.8,21.0,0.25,57.0,1,-10.9
+oregano,herb,USDA,"Spices, oregano, dried",direct,264.79,9.0,4.28,68.92,42.5,4.09,0.0,0.0,10.5,70.0,45.0,8.2,9.0,1.3,124.0,0,-85.4
+ouzo,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+oyster,fish/seafood,USDA,"Mollusks, oyster, eastern, wild, raw",direct,50.954,5.71,1.71,2.72,0.0,0.62,0.0,40.0,85.0,156.0,59.0,4.61,97.0,39.3,361.0,0,1.8
+palm,plant,USDA,"Hearts of palm, raw",proxy,96.899,1.5,0.25,25.0,10.6,1.6,0.0,0.0,14.0,1806.0,18.0,1.69,140.0,3.73,743.0,6,-11.4
+papaya,fruit,USDA,"Papayas, raw",direct,42.891,0.47,0.26,10.82,1.7,7.82,0.0,0.0,9.0,124.25,15.5,0.255,8.75,0.055,41.0,0,-4.6
+parmesan_cheese,dairy,USDA,"Cheese, parmesan, hard",direct,392.104,35.75,25.83,3.22,0.0,0.8,0.0,68.0,1602.0,92.0,1184.0,0.82,694.0,2.75,631.0,0,3.8
+parsley,herb,USDA,"Parsley, fresh",direct,36.045,2.97,0.79,6.33,3.3,0.85,0.0,0.0,56.0,554.0,138.0,6.2,58.0,1.07,131.0,0,-8.3
+parsnip,vegetable,USDA,"Parsnips, raw",direct,75.024,1.2,0.3,17.99,4.9,4.8,0.0,0.0,10.0,375.0,36.0,0.59,71.0,0.59,129.0,0,-4.4
+passion_fruit,fruit,USDA,"Passion-fruit, (granadilla), purple, raw",direct,97.018,2.2,0.7,23.38,10.4,11.2,0.0,0.0,28.0,348.0,12.0,1.6,68.0,0.1,128.0,0,-11.6
+pea,vegetable,USDA,"Peas, green, raw",direct,81.011,5.42,0.4,14.45,5.1,5.67,0.0,0.0,5.0,244.0,25.0,1.47,108.0,1.24,141.0,0,-2.1
+peach,fruit,USDA,"Peaches, yellow, raw",direct,52.72,0.81,0.29,12.66,2.4,9.35,0.0,0.0,10.5,50.0,4.0,0.15,2.5,0.055,149.0,7,-3.8
+peanut,nut/seed/pulse,USDA,"Peanuts, all types, raw",direct,567.2,25.8,49.24,16.13,8.5,3.97,0.0,0.0,18.0,705.0,92.0,4.58,376.0,3.27,16.0,0,-43.7
+peanut_butter,plant derivative,USDA,"Peanut butter, smooth style, without salt",direct,588.216,25.09,50.39,19.56,6.0,9.22,0.0,0.0,17.0,649.0,43.0,1.87,358.0,2.91,16.0,0,-43.9
+peanut_oil,plant derivative,USDA,"Oil, peanut, salad or cooking",direct,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.01,16.0,0,-16.0
+pear,fruit,USDA,"Pears, raw",direct,57.92,0.38,0.12,15.46,3.1,9.8,0.0,0.0,1.0,119.0,9.0,0.17,11.0,0.1,152.0,0,-6.5
+pear_brandy,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+pecan,nut/seed/pulse,USDA,"Nuts, pecans",direct,690.744,9.17,71.97,13.86,9.6,3.97,0.0,0.0,0.0,219.25,38.75,1.49,153.5,2.365,44.0,0,-49.1
+pelargonium,flower,,,none,,,,,,,,,,,,,,,,0,
+pepper,spice,USDA,"Spices, pepper, black",proxy,250.978,10.39,3.26,63.95,25.3,0.64,0.0,0.0,13.5,1045.5,302.0,9.568,92.25,0.84,139.0,0,-75.7
+peppermint,herb,USDA,"Peppermint, fresh",direct,70.014,3.75,0.94,14.89,8.0,0.87,0.0,0.0,31.0,569.0,243.0,5.08,73.0,1.11,113.0,1,-13.0
+peppermint_oil,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+pimenta,spice,USDA,"Spices, allspice, ground",direct,262.834,6.09,8.69,72.12,21.6,2.315,0.0,0.0,77.0,1044.0,661.0,7.06,113.0,1.01,288.0,1,-128.2
+pimento,spice,USDA,"Pimento, canned",direct,22.972,1.1,0.3,5.1,1.9,2.71,0.0,0.0,14.0,158.0,6.0,1.68,17.0,0.19,40.0,0,-4.5
+pineapple,fruit,USDA,"Pineapple, raw, all varieties",direct,49.976,0.54,0.12,13.12,1.4,9.85,0.0,0.0,1.0,74.75,9.75,0.248,7.0,0.088,12.0,0,-5.7
+pistachio,nut/seed/pulse,USDA,"Nuts, pistachio nuts, raw",direct,562.071,20.27,45.39,27.51,10.3,7.66,0.0,0.0,0.75,564.75,58.25,2.355,490.0,2.2,140.0,0,-37.6
+plum,fruit,USDA,"Plums, raw",direct,45.945,0.7,0.28,11.42,1.4,9.92,0.0,0.0,0.5,102.5,8.5,0.215,12.0,0.115,147.0,0,-5.1
+popcorn,cereal/crop,USDA,"Snacks, popcorn, air-popped",direct,387.095,12.94,4.54,77.9,14.5,0.87,0.0,0.0,8.0,329.0,7.0,3.19,358.0,3.08,744.0,0,-17.1
+porcini,vegetable,USDA,"Mushrooms, white, raw",proxy,22.114,2.635,0.34,3.26,1.0,1.98,0.0,0.0,5.0,318.0,3.0,0.5,86.0,0.52,561.0,0,-4.5
+pork,meat,USDA,"Pork, fresh, ground, raw",direct,262.953,16.88,21.19,0.0,0.0,0.0,0.0,72.0,56.0,287.0,14.0,0.88,175.0,2.2,549.0,0,4.7
+pork_liver,meat,USDA,"Pork, fresh, variety meats and by-products, liver, raw",direct,134.041,21.39,3.65,2.47,0.0,0.0,0.0,301.0,87.0,273.0,9.0,23.3,288.0,5.76,549.0,0,5.8
+pork_sausage,meat,USDA,"Pork sausage, fresh, raw",direct,303.888,15.09,26.53,0.0,0.0,0.0,0.0,72.0,636.0,248.0,9.0,1.11,135.0,2.17,671.0,0,4.8
+port_wine,alcoholic beverage,USDA,"Alcoholic beverage, wine, dessert, sweet",proxy,160.186,0.2,0.0,13.69,0.0,7.78,15.3,0.0,9.0,92.0,8.0,0.24,9.0,0.07,626.0,0,-2.5
+potato,vegetable,USDA,"Potatoes, white, flesh and skin, raw",direct,68.917,1.68,0.1,15.71,2.4,1.15,0.0,0.0,16.0,407.0,9.0,0.52,62.0,0.29,175.0,0,-1.5
+potato_chip,vegetable,USDA,"Snacks, potato chips, plain, salted",direct,541.913,6.56,36.4,50.81,4.4,0.37,0.0,0.0,480.0,1642.0,24.0,1.61,155.0,2.39,745.0,0,-15.2
+prawn,fish/seafood,USDA,"Crustaceans, shrimp, mixed species, raw",proxy,70.992,13.61,1.01,0.91,0.0,0.0,0.0,126.0,566.0,113.0,54.0,0.21,244.0,0.97,546.0,0,3.8
+prickly_pear,fruit,USDA,"Prickly pears, raw",direct,41.054,0.73,0.51,9.57,3.6,9.35,0.0,0.0,5.0,220.0,56.0,0.3,24.0,0.12,449.0,1,-4.7
+provolone_cheese,dairy,USDA,"Cheese, provolone",direct,351.289,25.58,26.62,2.14,0.0,0.56,0.0,69.0,876.0,138.0,756.0,0.52,496.0,3.23,631.0,0,0.8
+pumpkin,vegetable,USDA,"Pumpkin, raw",direct,26.026,1.0,0.1,6.5,0.5,1.36,0.0,0.0,1.0,340.0,21.0,0.8,44.0,0.32,66.0,0,-4.9
+quince,fruit,USDA,"Quinces, raw",direct,56.942,0.4,0.1,15.3,1.9,9.35,0.0,0.0,4.0,197.0,11.0,0.7,17.0,0.04,69.0,1,-6.8
+radish,vegetable,USDA,"Radishes, raw",direct,15.887,0.68,0.1,3.4,1.6,1.86,0.0,0.0,23.0,65.5,10.0,0.325,11.0,0.855,153.0,0,-1.3
+raisin,fruit,USDA,"Raisins, seedless",direct,299.118,3.07,0.46,79.18,3.7,59.19,0.0,0.0,11.0,749.0,50.0,1.88,101.0,0.22,204.0,0,-34.0
+rapeseed,plant,USDA,"Oil, canola",proxy,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,797.0,0,-16.0
+raspberry,fruit,USDA,"Raspberries, raw",direct,52.291,1.2,0.65,11.94,6.5,4.42,0.0,0.0,1.0,151.0,25.0,0.69,29.0,0.42,160.0,0,-6.1
+raw_beef,meat,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",direct,253.912,17.17,20.0,0.0,0.0,0.0,0.0,71.0,67.0,270.0,18.0,1.94,158.0,4.18,506.0,0,5.2
+red_algae,vegetable,USDA,"Seaweed, laver, raw",proxy,34.947,5.81,0.28,5.11,0.3,0.49,0.0,0.0,48.0,356.0,70.0,1.8,58.0,1.05,563.0,0,-11.3
+red_bean,vegetable,USDA,"Beans, kidney, red, mature seeds, raw",proxy,336.76,22.53,1.06,61.29,15.2,2.1,0.0,0.0,12.0,1359.0,83.0,6.69,406.0,2.79,134.0,0,-8.1
+red_kidney_bean,vegetable,USDA,"Beans, kidney, red, mature seeds, raw",direct,336.76,22.53,1.06,61.29,15.2,2.1,0.0,0.0,12.0,1359.0,83.0,6.69,406.0,2.79,134.0,0,-8.1
+red_wine,alcoholic beverage,USDA,"Alcoholic beverage, wine, table, red",direct,85.043,0.07,0.0,2.61,0.0,0.62,10.6,0.0,4.0,127.0,8.0,0.46,23.0,0.14,626.0,0,0.1
+rhubarb,vegetable,USDA,"Rhubarb, raw",direct,21.016,0.9,0.2,4.54,1.8,1.1,0.0,0.0,4.0,288.0,86.0,0.22,14.0,0.1,154.0,0,-2.5
+rice,cereal/crop,USDA,"Rice, white, long-grain, regular, raw, enriched",direct,364.981,7.13,0.66,79.95,1.3,0.12,0.0,0.0,5.0,115.0,28.0,4.31,115.0,1.09,125.0,0,10.7
+roasted_almond,nut/seed/pulse,USDA,"Nuts, almonds, dry roasted, without salt added",direct,595.062,21.06,52.05,21.2,10.9,4.93,0.0,0.0,3.0,712.0,267.0,3.83,470.0,3.3,148.0,0,-42.4
+roasted_beef,meat,USDA,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",proxy,270.777,25.75,17.82,0.0,0.0,0.0,0.0,91.0,75.0,304.0,24.0,2.48,194.0,6.25,506.0,0,7.4
+roasted_hazelnut,nut/seed/pulse,USDA,"Nuts, hazelnuts or filberts, dry roasted, without salt added",direct,646.016,15.03,62.4,17.6,9.4,4.89,0.0,0.0,0.0,755.0,123.0,4.38,310.0,2.5,381.0,0,-46.1
+roasted_meat,meat,USDA,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",proxy,270.777,25.75,17.82,0.0,0.0,0.0,0.0,91.0,75.0,304.0,24.0,2.48,194.0,6.25,506.0,0,7.4
+roasted_nut,nut/seed/pulse,USDA,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",proxy,593.965,17.3,51.45,25.35,9.0,4.06,0.0,0.0,12.0,597.0,70.0,3.7,435.0,3.8,796.0,1,-39.7
+roasted_peanut,nut/seed/pulse,USDA,"Peanuts, all types, dry-roasted, without salt",direct,585.043,23.68,49.66,21.51,8.0,4.18,0.0,0.0,6.0,658.0,54.0,2.26,358.0,3.31,16.0,0,-42.7
+roasted_pecan,nut/seed/pulse,USDA,"Nuts, pecans, dry roasted, without salt added",direct,709.804,9.5,74.27,13.55,9.4,4.06,0.0,0.0,1.0,424.0,72.0,2.8,293.0,5.07,44.0,0,-50.8
+roasted_pork,meat,USDA,"Pork, fresh, loin, whole, separable lean and fat, cooked, roasted",direct,248.044,27.09,14.65,0.0,0.0,0.0,0.0,82.0,59.0,408.0,19.0,0.99,242.0,2.32,549.0,0,7.8
+roasted_sesame_seed,nut/seed/pulse,USDA,"Seeds, sesame seeds, whole, roasted and toasted",direct,565.005,16.96,48.0,25.74,14.0,4.06,0.0,0.0,11.0,475.0,989.0,14.76,638.0,7.16,170.0,1,-37.8
+romano_cheese,dairy,USDA,"Cheese, romano",direct,386.856,31.8,26.94,3.63,0.0,0.73,0.0,104.0,1200.0,86.0,1064.0,0.77,760.0,2.58,631.0,0,2.7
+root,plant,,,none,,,,,,,,,,,,,,,,0,
+roquefort_cheese,dairy,USDA,"Cheese, roquefort",direct,369.012,21.54,30.64,2.0,0.0,0.845,0.0,90.0,1809.0,91.0,662.0,0.56,392.0,2.08,631.0,1,-0.9
+rose,flower,,,none,,,,,,,,,,,,,,,,0,
+rosemary,herb,USDA,"Rosemary, fresh",direct,130.988,3.31,5.86,20.7,14.1,0.87,0.0,0.0,26.0,668.0,317.0,6.65,66.0,0.93,159.0,1,-17.8
+rum,alcoholic beverage,USDA,"Alcoholic beverage, distilled, rum, 80 proof",direct,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.12,5.0,0.07,646.0,0,-2.7
+rutabaga,vegetable,USDA,"Rutabagas, raw",direct,36.045,1.2,0.2,8.13,2.5,5.6,0.0,0.0,14.0,192.5,26.5,0.32,33.0,0.22,28.0,0,-3.1
+rye_bread,cereal/crop,USDA,"Bread, rye",direct,257.944,8.5,3.3,48.3,5.8,3.85,0.0,0.0,660.0,166.0,73.0,2.83,125.0,1.14,837.0,0,1.0
+rye_flour,cereal/crop,USDA,"Rye flour, medium",direct,348.855,10.88,1.52,75.43,11.8,1.1,0.0,0.0,2.0,374.0,24.0,2.54,225.0,2.17,169.0,0,-10.1
+saffron,spice,USDA,"Spices, saffron",direct,310.115,11.43,5.85,65.37,3.9,2.315,0.0,0.0,148.0,1724.0,111.0,11.1,252.0,1.09,63.0,1,-49.7
+sage,herb,USDA,"Spices, sage, ground",direct,314.885,10.63,12.75,60.73,40.3,1.71,0.0,0.0,11.0,1070.0,1652.0,28.12,91.0,4.7,165.0,0,-85.3
+sake,alcoholic beverage,USDA,"Alcoholic beverage, rice (sake)",direct,134.041,0.5,0.0,5.0,0.0,0.0,8.058,0.0,2.0,25.0,5.0,0.1,6.0,0.02,763.0,0,55.6
+salmon,fish/seafood,USDA,"Fish, salmon, Atlantic, wild, raw",direct,141.985,19.84,6.34,0.0,0.0,0.0,0.0,55.0,44.0,490.0,12.0,0.8,200.0,0.64,465.0,0,5.6
+salmon_roe,fish/seafood,USDA,"Fish, roe, mixed species, raw",proxy,143.082,22.32,6.42,1.5,0.0,0.0,0.0,374.0,91.0,221.0,22.0,0.6,402.0,1.0,722.0,0,-10.0
+sassafras,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+sauerkraut,vegetable,USDA,"Sauerkraut, canned, solids and liquids",direct,18.821,0.91,0.14,4.28,2.9,1.78,0.0,0.0,661.0,170.0,30.0,1.47,20.0,0.19,30.0,0,-3.2
+savory,herb,USDA,"Spices, savory, ground",direct,271.994,6.73,5.91,68.73,45.7,0.87,0.0,0.0,24.0,1051.0,2132.0,37.88,140.0,4.3,167.0,1,-83.0
+scallion,vegetable,USDA,"Onions, spring or scallions (includes tops and bulb), raw",direct,32.133,1.83,0.19,7.34,2.6,2.33,0.0,0.0,16.0,276.0,72.0,1.48,37.0,0.39,5.0,0,-6.3
+scallop,fish/seafood,USDA,"Mollusks, scallop, mixed species, raw",direct,69.036,12.06,0.49,3.18,0.0,0.0,0.0,24.0,392.0,205.0,6.0,0.38,334.0,0.91,472.0,0,3.7
+sea_algae,vegetable,USDA,"Seaweed, wakame, raw",proxy,44.967,3.03,0.64,9.14,0.5,0.65,0.0,0.0,872.0,50.0,150.0,2.18,80.0,0.38,564.0,0,-9.5
+seaweed,fish/seafood,USDA,"Seaweed, wakame, raw",direct,44.967,3.03,0.64,9.14,0.5,0.65,0.0,0.0,872.0,50.0,150.0,2.18,80.0,0.38,564.0,0,-9.5
+seed,nut/seed/pulse,USDA,"Seeds, sunflower seed kernels, dried",proxy,584.185,20.78,51.46,20.0,8.6,2.62,0.0,0.0,9.0,645.0,78.0,5.25,660.0,5.0,86.0,0,-42.1
+sesame_oil,plant derivative,USDA,"Oil, sesame, salad or cooking",direct,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,170.0,0,-16.0
+sesame_seed,nut/seed/pulse,USDA,"Seeds, sesame seeds, whole, dried",direct,572.948,17.73,49.67,23.45,11.8,0.3,0.0,0.0,11.0,468.0,975.0,14.55,629.0,7.75,170.0,0,-38.8
+shallot,vegetable,USDA,"Shallots, raw",direct,71.97,2.5,0.1,16.8,3.2,7.87,0.0,0.0,12.0,334.0,37.0,1.2,60.0,0.4,243.0,0,-6.1
+sheep_cheese,dairy,USDA,"Cheese, romano",proxy,386.856,31.8,26.94,3.63,0.0,0.73,0.0,104.0,1200.0,86.0,1064.0,0.77,760.0,2.58,631.0,0,2.7
+shellfish,fish/seafood,USDA,"Crustaceans, shrimp, mixed species, raw",proxy,70.992,13.61,1.01,0.91,0.0,0.0,0.0,126.0,566.0,113.0,54.0,0.21,244.0,0.97,546.0,0,3.8
+sherry,alcoholic beverage,USDA,"Alcoholic beverage, wine, dessert, dry",proxy,152.243,0.2,0.0,11.67,0.0,1.09,15.3,0.0,9.0,92.0,8.0,0.24,9.0,0.07,626.0,0,-2.3
+shiitake,vegetable,USDA,"Mushrooms, shiitake, raw",direct,33.85,2.24,0.49,6.79,2.5,2.38,0.0,0.0,7.0,193.0,1.5,0.312,68.0,0.715,562.0,1,-6.7
+shrimp,fish/seafood,USDA,"Crustaceans, shrimp, mixed species, raw",direct,70.992,13.61,1.01,0.91,0.0,0.0,0.0,126.0,566.0,113.0,54.0,0.21,244.0,0.97,546.0,0,3.8
+smoke,plant derivative,,,none,,,,,,,,,,,,,,,,0,
+smoked_fish,fish/seafood,USDA,"Fish, haddock, smoked",proxy,115.959,25.23,0.96,0.0,0.0,0.0,0.0,77.0,763.0,415.0,49.0,1.4,251.0,0.5,379.0,0,6.4
+smoked_salmon,fish/seafood,USDA,"Fish, salmon, chinook, smoked",direct,117.056,18.28,4.32,0.0,0.0,0.0,0.0,23.0,784.0,175.0,11.0,0.85,164.0,0.31,464.0,0,5.1
+smoked_sausage,meat,USDA,"Smoked link sausage, pork",direct,306.822,11.98,28.23,0.18,0.0,0.94,0.0,61.0,827.0,483.0,11.0,0.59,157.0,1.31,671.0,0,4.1
+sour_cherry,fruit,USDA,"Cherries, sour, red, raw",direct,49.976,1.0,0.3,12.18,1.6,8.49,0.0,0.0,3.0,173.0,16.0,0.32,15.0,0.1,146.0,0,-5.4
+sour_milk,dairy,USDA,"Milk, buttermilk, fluid, cultured, lowfat",proxy,40.196,3.31,0.88,4.79,0.0,4.79,0.0,4.0,105.0,151.0,116.0,0.05,89.0,0.42,714.0,0,-0.1
+soy_sauce,plant derivative,USDA,Soy sauce made from soy and wheat (shoyu),direct,52.91,6.28,0.04,7.61,0.8,1.7,0.0,0.0,5637.0,217.0,19.0,1.93,125.0,0.52,716.0,0,-3.0
+soybean,vegetable,USDA,"Soybeans, mature seeds, raw",direct,445.992,36.49,19.94,30.16,9.3,7.33,0.0,0.0,2.0,1797.0,277.0,15.7,704.0,4.89,85.0,0,-0.1
+soybean_oil,plant derivative,USDA,"Oil, soybean, salad or cooking",direct,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.01,85.0,0,-16.0
+spearmint,herb,USDA,"Spearmint, fresh",direct,43.989,3.29,0.73,8.41,6.8,0.87,0.0,0.0,30.0,458.0,199.0,11.87,60.0,1.09,112.0,1,-9.4
+squash,vegetable,USDA,"Squash, winter, butternut, raw",proxy,44.967,1.0,0.1,11.69,2.0,2.2,0.0,0.0,4.0,352.0,48.0,0.7,33.0,0.15,321.0,0,-6.7
+squid,fish/seafood,USDA,"Mollusks, squid, mixed species, raw",direct,92.009,15.58,1.38,3.08,0.0,0.0,0.0,233.0,44.0,246.0,32.0,0.68,221.0,1.53,545.0,0,4.9
+star_anise,spice,USDA,"Spices, anise seed",proxy,337.119,17.6,15.9,50.02,14.6,2.315,0.0,0.0,16.0,1441.0,646.0,36.96,440.0,5.3,137.0,1,-76.5
+starch,plant derivative,USDA,Cornstarch,direct,380.988,0.26,0.05,91.27,0.9,0.0,0.0,0.0,9.0,3.0,2.0,0.47,13.0,0.06,205.0,0,14.4
+strawberry,fruit,USDA,"Strawberries, raw",direct,32.252,0.67,0.3,7.68,2.0,4.89,0.0,0.0,1.0,153.0,16.0,0.41,24.0,0.14,83.0,0,-3.8
+strawberry_jam,fruit,USDA,Jams and preserves,proxy,277.982,0.37,0.07,68.86,1.1,48.5,0.0,0.0,32.0,77.0,20.0,0.49,19.0,0.06,681.0,0,0.4
+strawberry_juice,fruit,USDA,"Strawberries, raw",proxy,32.252,0.67,0.3,7.68,2.0,4.89,0.0,0.0,1.0,153.0,16.0,0.41,24.0,0.14,83.0,0,-3.8
+sturgeon_caviar,fish/seafood,USDA,"Fish, caviar, black and red, granular",direct,264.051,24.6,17.9,4.0,0.0,0.0,0.0,588.0,1500.0,181.0,275.0,11.88,356.0,0.95,722.0,0,-11.4
+sumac,spice,,,none,,,,,,,,,,,,,,,,0,
+sunflower_oil,plant derivative,USDA,"Oil, sunflower, linoleic, (approx. 65%)",direct,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86.0,0,-16.0
+sweet_potato,vegetable,USDA,"Sweet potato, raw, unprepared",direct,85.902,1.57,0.05,20.12,3.0,4.18,0.0,0.0,55.0,337.0,30.0,0.61,47.0,0.3,92.0,0,-1.3
+swiss_cheese,dairy,USDA,"Cheese, swiss",direct,380.129,26.93,27.8,5.38,0.0,1.32,0.0,3.0,52.0,20.0,48.0,0.045,20.5,0.205,631.0,0,0.7
+tabasco_pepper,spice,USDA,"Sauce, ready-to-serve, pepper, TABASCO",direct,11.975,1.29,0.76,0.8,0.6,0.13,0.0,0.0,633.0,128.0,12.0,1.16,23.0,0.16,665.0,0,-3.2
+tamarind,spice,USDA,"Tamarinds, raw",direct,239.003,2.8,0.6,62.5,5.1,57.4,0.0,0.0,28.0,628.0,74.0,2.8,113.0,0.1,180.0,0,-27.6
+tangerine,fruit,USDA,"Tangerines, (mandarin oranges), raw",direct,53.149,0.81,0.31,13.34,1.8,10.58,0.0,0.0,2.0,99.5,23.25,0.1,11.25,0.04,56.0,0,-6.2
+tarragon,herb,USDA,"Spices, tarragon, dried",direct,295.206,22.77,7.24,50.22,7.4,0.87,0.0,0.0,62.0,3020.0,1139.0,32.3,313.0,3.9,19.0,1,-61.9
+tea,plant derivative,USDA,"Tea, black, brewed, prepared with tap water",direct,0.978,0.0,0.0,0.3,0.0,0.0,0.0,0.0,3.0,37.0,0.0,0.02,1.0,0.02,38.0,0,-0.2
+tequila,alcoholic beverage,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,231.059,0.0,0.0,0.0,0.0,0.0,33.4,0.0,1.0,2.0,0.0,0.04,4.0,0.04,279.0,0,-2.7
+thai_pepper,spice,USDA,"Peppers, hot chili, red, raw",proxy,39.837,1.87,0.44,8.81,1.5,5.3,0.0,0.0,9.0,322.0,14.0,1.03,43.0,0.26,40.0,0,-6.8
+thyme,herb,USDA,"Thyme, fresh",direct,101.05,5.56,1.68,24.45,14.0,0.87,0.0,0.0,9.0,609.0,405.0,17.45,106.0,1.81,183.0,1,-34.1
+tomato,vegetable,USDA,"Tomatoes, red, ripe, raw, year round average",direct,17.843,0.88,0.2,3.89,1.2,2.63,0.0,0.0,5.0,237.0,10.0,0.27,24.0,0.17,171.0,0,-3.0
+tomato_juice,vegetable,USDA,"Tomato juice, canned, without salt added",direct,17.224,0.76,0.05,4.24,0.4,3.56,0.0,0.0,10.0,229.0,10.0,0.43,18.0,0.15,171.0,0,-3.2
+truffle,vegetable,,,none,,,,,,,,,,,,,,,,0,
+tuna,fish/seafood,USDA,"Fish, tuna, fresh, yellowfin, raw",direct,108.754,24.4,0.49,0.0,0.0,0.0,0.0,20.0,36.75,244.25,2.25,0.842,151.25,0.215,522.0,0,6.7
+turkey,meat,DTU,"Turkey, flesh and skin, raw",direct,125.8,20.2,5.0,0.0,0.0,0.0,0.0,72.0,93.0,230.0,10.0,0.8,158.0,1.35,505.0,2,0.0
+turmeric,spice,USDA,"Spices, turmeric, ground",direct,353.984,7.83,9.88,64.93,21.1,3.21,0.0,0.0,32.5,2302.5,175.5,48.21,283.5,4.425,68.0,0,-26.0
+turnip,vegetable,USDA,"Turnips, raw",direct,27.982,0.9,0.1,6.43,1.8,3.8,0.0,0.0,67.0,191.0,30.0,0.3,27.0,0.27,36.0,0,-2.2
+vanilla,spice,USDA,Vanilla extract,direct,288.001,0.06,0.06,12.65,0.0,12.65,17.217,0.0,9.0,148.0,11.0,0.12,6.0,0.11,195.0,0,116.1
+veal,meat,USDA,"Veal, ground, raw",direct,143.941,19.35,6.77,0.0,0.0,0.0,0.0,82.0,82.0,315.0,15.0,0.83,203.0,3.06,506.0,0,5.6
+vegetable,vegetable,,,none,,,,,,,,,,,,,,,,0,
+vegetable_oil,plant derivative,USDA,"Oil, soybean, salad or cooking",proxy,884.041,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.01,85.0,0,-16.0
+vinegar,plant derivative,USDA,"Vinegar, distilled",direct,18.082,0.0,0.0,0.04,0.0,0.04,0.0,0.0,1.5,1.5,4.25,0.017,2.0,0.008,645.0,0,17.9
+violet,flower,,,none,,,,,,,,,,,,,,,,0,
+walnut,nut/seed/pulse,USDA,"Nuts, walnuts, english",direct,654.199,15.23,65.21,13.71,6.7,2.61,0.0,0.0,2.75,234.25,55.0,1.605,178.0,1.695,94.0,0,-48.5
+wasabi,vegetable,USDA,"Wasabi, root, raw",direct,108.993,4.8,0.63,23.54,7.8,2.04,0.0,0.0,12.5,322.0,68.5,0.58,40.25,1.41,509.0,1,-10.0
+watercress,vegetable,USDA,"Watercress, raw",direct,10.997,2.3,0.1,1.29,0.5,0.2,0.0,0.0,41.0,330.0,120.0,0.2,60.0,0.11,158.0,0,-4.3
+watermelon,fruit,USDA,"Watermelon, raw",direct,30.177,0.61,0.15,7.55,0.4,6.2,0.0,0.0,1.75,89.25,6.0,0.238,9.0,0.198,52.0,0,-3.8
+wheat,cereal/crop,USDA,"Wheat flour, whole-grain",proxy,340.172,13.21,2.5,71.97,10.7,0.41,0.0,0.0,2.0,363.0,34.0,3.6,357.0,2.6,575.0,0,-23.0
+wheat_bread,cereal/crop,USDA,"Bread, wheat",direct,270.158,10.37,3.44,49.46,4.2,6.08,0.0,0.0,519.0,182.0,138.0,3.52,153.0,1.18,836.0,0,-0.1
+whiskey,alcoholic beverage,USDA,"Alcoholic beverage, distilled, whiskey, 86 proof",direct,250.0,0.0,0.0,0.1,0.0,0.1,36.0,0.0,0.0,1.0,0.0,0.02,3.0,0.02,640.0,0,-2.4
+white_bread,cereal/crop,USDA,"Bread, white, commercially prepared (includes soft bread crumbs)",direct,264.79,9.15,3.19,49.06,2.7,5.07,0.0,0.0,301.0,74.5,221.25,2.358,74.5,0.555,836.0,0,3.2
+white_wine,alcoholic beverage,USDA,"Alcoholic beverage, wine, table, white",direct,81.87,0.07,0.0,2.6,0.0,0.96,10.3,0.0,5.0,71.0,9.0,0.27,18.0,0.12,626.0,0,-0.9
+whole_grain_wheat_flour,cereal/crop,USDA,"Wheat flour, whole-grain",direct,340.172,13.21,2.5,71.97,10.7,0.41,0.0,0.0,2.0,363.0,34.0,3.6,357.0,2.6,575.0,0,-23.0
+wine,alcoholic beverage,USDA,"Alcoholic beverage, wine, table, all",direct,82.967,0.07,0.0,2.72,0.0,0.79,10.4,0.0,5.0,99.0,8.0,0.37,20.0,0.13,626.0,0,-1.0
+wood,plant,,,none,,,,,,,,,,,,,,,,0,
+yam,vegetable,USDA,"Yam, raw",direct,118.034,1.53,0.17,27.88,4.1,0.5,0.0,0.0,9.0,816.0,17.0,0.54,55.0,0.24,519.0,0,-1.1
+yeast,plant,USDA,"Leavening agents, yeast, baker's, active dry",direct,325.143,40.44,7.61,41.22,26.9,0.0,0.0,0.0,51.0,955.0,30.0,2.17,637.0,7.94,682.0,0,-70.0
+yogurt,dairy,USDA,"Yogurt, plain, whole milk, 8 grams protein per 8 ounce",direct,61.212,3.47,3.25,4.66,0.0,4.66,0.0,13.0,46.0,155.0,121.0,0.05,95.0,0.59,634.0,0,-0.6
+zucchini,vegetable,USDA,"Squash, summer, zucchini, includes skin, raw",direct,16.865,1.21,0.32,3.11,1.0,2.5,0.0,0.0,8.0,261.0,16.0,0.37,38.0,0.32,66.0,0,-3.3

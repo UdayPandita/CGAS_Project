@@ -1,0 +1,382 @@
+ingredient,source,description,match_type,note
+egg,USDA,"Egg, whole, raw, fresh",direct,
+wheat,USDA,"Wheat flour, whole-grain",proxy,grain sold as flour
+butter,USDA,"Butter, without salt",direct,
+onion,USDA,"Onions, raw",direct,
+garlic,USDA,"Garlic, raw",direct,
+milk,USDA,"Milk, whole, 3.25% milkfat, with added vitamin D",direct,
+vegetable_oil,USDA,"Oil, soybean, salad or cooking",proxy,generic vegetable oil ~ soybean oil
+cream,USDA,"Cream, fluid, heavy whipping",direct,
+tomato,USDA,"Tomatoes, red, ripe, raw, year round average",direct,
+olive_oil,USDA,"Oil, olive, salad or cooking",direct,
+black_pepper,USDA,"Spices, pepper, black",direct,
+pepper,USDA,"Spices, pepper, black",proxy,recipe 'pepper' usually black pepper
+vanilla,USDA,Vanilla extract,direct,
+cayenne,USDA,"Spices, pepper, red or cayenne",direct,
+vinegar,USDA,"Vinegar, distilled",direct,
+cane_molasses,USDA,Molasses,direct,
+bell_pepper,USDA,"Peppers, sweet, red, raw",direct,
+cinnamon,USDA,"Spices, cinnamon, ground",direct,
+parsley,USDA,"Parsley, fresh",direct,
+chicken,DTU,"Chicken, flesh and skin, raw",direct,no raw chicken in FooDB USDA subset
+lemon_juice,USDA,"Lemon juice, raw",direct,
+beef,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",direct,
+cocoa,USDA,"Cocoa, dry powder, unsweetened",direct,
+corn,USDA,"Corn, sweet, yellow, raw",direct,
+bread,USDA,"Bread, white, commercially prepared (includes soft bread crumbs)",direct,
+scallion,USDA,"Onions, spring or scallions (includes tops and bulb), raw",direct,
+mustard,USDA,"Mustard, prepared, yellow",direct,
+ginger,USDA,"Ginger root, raw",direct,
+basil,USDA,"Basil, fresh",direct,
+celery,USDA,"Celery, raw",direct,
+carrot,USDA,"Carrots, raw",direct,
+potato,USDA,"Potatoes, white, flesh and skin, raw",direct,
+chicken_broth,USDA,"Soup, chicken broth, canned, prepared with equal volume water",direct,
+yeast,USDA,"Leavening agents, yeast, baker's, active dry",direct,
+rice,USDA,"Rice, white, long-grain, regular, raw, enriched",direct,
+mushroom,USDA,"Mushrooms, white, raw",direct,
+cheese,USDA,"Cheese, cheddar",proxy,generic cheese ~ cheddar
+soy_sauce,USDA,Soy sauce made from soy and wheat (shoyu),direct,
+cumin,USDA,"Spices, cumin seed",direct,
+oregano,USDA,"Spices, oregano, dried",direct,
+parmesan_cheese,USDA,"Cheese, parmesan, hard",direct,
+macaroni,USDA,"Macaroni, dry, enriched",direct,
+lard,USDA,Lard,direct,
+thyme,USDA,"Thyme, fresh",direct,
+cheddar_cheese,USDA,"Cheese, cheddar",direct,
+lemon,USDA,"Lemons, raw, without peel",direct,
+cream_cheese,USDA,"Cheese, cream",direct,
+walnut,USDA,"Nuts, walnuts, english",direct,
+starch,USDA,Cornstarch,direct,
+green_bell_pepper,USDA,"Peppers, sweet, green, raw",direct,
+nutmeg,USDA,"Spices, nutmeg, ground",direct,
+honey,USDA,Honey,direct,
+apple,USDA,"Apples, raw, with skin",direct,
+almond,USDA,"Nuts, almonds",direct,
+cilantro,USDA,"Coriander (cilantro) leaves, raw",direct,
+pecan,USDA,"Nuts, pecans",direct,
+white_wine,USDA,"Alcoholic beverage, wine, table, white",direct,
+bacon,USDA,"Pork, cured, bacon, raw",direct,
+pork,USDA,"Pork, fresh, ground, raw",direct,
+raisin,USDA,"Raisins, seedless",direct,
+bean,USDA,"Beans, snap, green, raw",proxy,generic bean ~ green beans
+rosemary,USDA,"Rosemary, fresh",direct,
+fish,USDA,"Fish, cod, Atlantic, raw",proxy,generic white fish
+cucumber,USDA,"Cucumber, with peel, raw",direct,
+olive,USDA,"Olives, ripe, canned (small-extra large)",direct,
+coconut,USDA,"Nuts, coconut meat, raw",direct,
+orange,USDA,"Oranges, raw, all commercial varieties",direct,
+orange_juice,USDA,"Orange juice, raw",direct,
+tamarind,USDA,"Tamarinds, raw",direct,
+vegetable,,,none,too generic
+buttermilk,USDA,"Milk, buttermilk, fluid, cultured, lowfat",direct,
+pineapple,USDA,"Pineapple, raw, all varieties",direct,
+shrimp,USDA,"Crustaceans, shrimp, mixed species, raw",direct,
+coriander,USDA,"Spices, coriander seed",direct,
+bay,USDA,"Spices, bay leaf",direct,
+lime_juice,USDA,"Lime juice, raw",direct,
+gelatin,USDA,"Gelatins, dry powder, unsweetened",direct,
+red_wine,USDA,"Alcoholic beverage, wine, table, red",direct,
+pork_sausage,USDA,"Pork sausage, fresh, raw",direct,
+sesame_oil,USDA,"Oil, sesame, salad or cooking",direct,
+chive,USDA,"Chives, raw",direct,
+seed,USDA,"Seeds, sunflower seed kernels, dried",proxy,generic seed
+ham,USDA,"Ham, sliced, regular (approximately 11% fat)",direct,
+mozzarella_cheese,USDA,"Cheese, mozzarella, whole milk",direct,
+oat,USDA,Oats,direct,
+turmeric,USDA,"Spices, turmeric, ground",direct,
+nut,USDA,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",proxy,generic nut mix
+shallot,USDA,"Shallots, raw",direct,
+lettuce,USDA,"Lettuce, green leaf, raw",direct,
+cider,USDA,"Alcoholic beverage, wine, table, white",proxy,hard cider not in USDA; dry white wine closest
+dill,USDA,"Dill weed, fresh",direct,
+pea,USDA,"Peas, green, raw",direct,
+zucchini,USDA,"Squash, summer, zucchini, includes skin, raw",direct,
+cherry,USDA,"Cherries, sweet, raw",direct,
+strawberry,USDA,"Strawberries, raw",direct,
+lime,USDA,"Limes, raw",direct,
+yogurt,USDA,"Yogurt, plain, whole milk, 8 grams protein per 8 ounce",direct,
+soybean,USDA,"Soybeans, mature seeds, raw",direct,
+celery_oil,,,none,essential oil
+peanut_butter,USDA,"Peanut butter, smooth style, without salt",direct,
+banana,USDA,"Bananas, raw",direct,
+meat,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",proxy,generic meat ~ ground beef
+tabasco_pepper,USDA,"Sauce, ready-to-serve, pepper, TABASCO",direct,
+milk_fat,USDA,"Butter oil, anhydrous",direct,
+cabbage,USDA,"Cabbage, raw",direct,
+mint,USDA,"Peppermint, fresh",proxy,
+cranberry,USDA,"Cranberries, raw",direct,
+fennel,USDA,"Fennel, bulb, raw",direct,
+sage,USDA,"Spices, sage, ground",direct,
+broccoli,USDA,"Broccoli, raw",direct,
+turkey,DTU,"Turkey, flesh and skin, raw",direct,no raw turkey in FooDB USDA subset
+wine,USDA,"Alcoholic beverage, wine, table, all",direct,
+fenugreek,USDA,"Spices, fenugreek seed",direct,
+beef_broth,USDA,"Soup, beef broth or bouillon canned, ready-to-serve",direct,
+grape_juice,USDA,"Grape juice, canned or bottled, unsweetened, without added ascorbic acid",direct,
+pumpkin,USDA,"Pumpkin, raw",direct,
+raspberry,USDA,"Raspberries, raw",direct,
+whole_grain_wheat_flour,USDA,"Wheat flour, whole-grain",direct,
+lemon_peel,USDA,"Lemon peel, raw",direct,
+coffee,USDA,"Coffee, brewed from grounds, prepared with tap water",direct,
+sesame_seed,USDA,"Seeds, sesame seeds, whole, dried",direct,
+avocado,USDA,"Avocados, raw, all commercial varieties",direct,
+sherry,USDA,"Alcoholic beverage, wine, dessert, dry",proxy,fortified wine
+sake,USDA,"Alcoholic beverage, rice (sake)",direct,
+feta_cheese,USDA,"Cheese, feta",direct,
+apricot,USDA,"Apricots, raw",direct,
+rum,USDA,"Alcoholic beverage, distilled, rum, 80 proof",direct,
+roasted_sesame_seed,USDA,"Seeds, sesame seeds, whole, roasted and toasted",direct,
+orange_peel,USDA,"Orange peel, raw",direct,
+squash,USDA,"Squash, winter, butternut, raw",proxy,generic squash
+crab,USDA,"Crustaceans, crab, blue, raw",direct,
+marjoram,USDA,"Spices, marjoram, dried",direct,
+peach,USDA,"Peaches, yellow, raw",direct,
+swiss_cheese,USDA,"Cheese, swiss",direct,
+sweet_potato,USDA,"Sweet potato, raw, unprepared",direct,
+shiitake,USDA,"Mushrooms, shiitake, raw",direct,
+radish,USDA,"Radishes, raw",direct,
+fruit,,,none,too generic
+tarragon,USDA,"Spices, tarragon, dried",direct,
+black_bean,USDA,"Beans, black, mature seeds, raw",direct,
+lamb,DTU,"Lamb, meat, average values, raw",direct,no raw lamb in FooDB USDA subset
+pear,USDA,"Pears, raw",direct,
+maple_syrup,USDA,"Syrups, maple",direct,
+blueberry,USDA,"Blueberries, raw",direct,
+clam,USDA,"Mollusks, clam, mixed species, raw",direct,
+smoke,,,none,not a food
+peanut,USDA,"Peanuts, all types, raw",direct,
+tuna,USDA,"Fish, tuna, fresh, yellowfin, raw",direct,
+kidney_bean,USDA,"Beans, kidney, red, mature seeds, raw",direct,
+asparagus,USDA,"Asparagus, raw",direct,
+salmon,USDA,"Fish, salmon, Atlantic, wild, raw",direct,
+leek,USDA,"Leeks, (bulb and lower leaf-portion), raw",direct,
+chickpea,USDA,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",direct,
+brandy,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+blue_cheese,USDA,"Cheese, blue",direct,
+artichoke,USDA,"Artichokes, (globe or french), raw",direct,
+mango,USDA,"Mangos, raw",direct,
+horseradish,USDA,"Horseradish, prepared",direct,
+date,USDA,"Dates, medjool",direct,
+white_bread,USDA,"Bread, white, commercially prepared (includes soft bread crumbs)",direct,
+cardamom,USDA,"Spices, cardamom",direct,
+oyster,USDA,"Mollusks, oyster, eastern, wild, raw",direct,
+cottage_cheese,USDA,"Cheese, cottage, creamed, large or small curd",direct,
+grape,USDA,"Grapes, red or green (European type, such as Thompson seedless), raw",direct,
+brown_rice,USDA,"Rice, brown, long-grain, raw",direct,
+cauliflower,USDA,"Cauliflower, raw",direct,
+cured_pork,USDA,"Pork, cured, salt pork, raw",direct,
+egg_noodle,USDA,"Noodles, egg, dry, enriched",direct,
+beer,USDA,"Alcoholic beverage, beer, regular, all",direct,
+hazelnut,USDA,"Nuts, hazelnuts or filberts",direct,
+mandarin,USDA,"Tangerines, (mandarin oranges), raw",direct,
+plum,USDA,"Plums, raw",direct,
+romano_cheese,USDA,"Cheese, romano",direct,
+pimento,USDA,"Pimento, canned",direct,
+scallop,USDA,"Mollusks, scallop, mixed species, raw",direct,
+smoked_sausage,USDA,"Smoked link sausage, pork",direct,
+goat_cheese,USDA,"Cheese, goat, soft type",direct,
+lentil,USDA,"Lentils, raw",direct,
+currant,USDA,"Currants, red and white, raw",direct,
+saffron,USDA,"Spices, saffron",direct,
+barley,USDA,"Barley, pearled, raw",direct,
+beet,USDA,"Beets, raw",direct,
+caraway,USDA,"Spices, caraway seed",direct,
+squid,USDA,"Mollusks, squid, mixed species, raw",direct,
+corn_flake,USDA,"Cereals ready-to-eat, corn flakes, low sodium",proxy,
+anise,USDA,"Spices, anise seed",direct,
+roasted_beef,USDA,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",proxy,cooked beef
+pistachio,USDA,"Nuts, pistachio nuts, raw",direct,
+peanut_oil,USDA,"Oil, peanut, salad or cooking",direct,
+cereal,USDA,"Cereals ready-to-eat, corn flakes, low sodium",proxy,generic breakfast cereal
+cashew,USDA,"Nuts, cashew nuts, raw",direct,
+veal,USDA,"Veal, ground, raw",direct,
+seaweed,USDA,"Seaweed, wakame, raw",direct,
+sauerkraut,USDA,"Sauerkraut, canned, solids and liquids",direct,
+turnip,USDA,"Turnips, raw",direct,
+berry,USDA,"Blueberries, raw",proxy,generic berry
+kelp,USDA,"Seaweed, kelp, raw",direct,
+tomato_juice,USDA,"Tomato juice, canned, without salt added",direct,
+cod,USDA,"Fish, cod, Atlantic, raw",direct,
+provolone_cheese,USDA,"Cheese, provolone",direct,
+rhubarb,USDA,"Rhubarb, raw",direct,
+roasted_peanut,USDA,"Peanuts, all types, dry-roasted, without salt",direct,
+blackberry,USDA,"Blackberries, raw",direct,
+mussel,USDA,"Mollusks, mussel, blue, raw",direct,
+corn_grit,USDA,"Cereals, corn grits, white, regular and quick, enriched, dry",direct,
+chinese_cabbage,USDA,"Cabbage, chinese (pe-tsai), raw",direct,
+citrus,USDA,"Oranges, raw, all commercial varieties",proxy,generic citrus
+bourbon_whiskey,USDA,"Alcoholic beverage, distilled, whiskey, 86 proof",direct,
+chicory,USDA,"Chicory greens, raw",direct,
+melon,USDA,"Melons, cantaloupe, raw",direct,
+lima_bean,USDA,"Lima beans, large, mature seeds, raw",direct,
+whiskey,USDA,"Alcoholic beverage, distilled, whiskey, 86 proof",direct,
+lovage,,,none,no USDA entry
+tequila,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+peppermint,USDA,"Peppermint, fresh",direct,
+parsnip,USDA,"Parsnips, raw",direct,
+fig,USDA,"Figs, raw",direct,
+lemongrass,USDA,"Lemon grass (citronella), raw",direct,
+watercress,USDA,"Watercress, raw",direct,
+rye_flour,USDA,"Rye flour, medium",direct,
+savory,USDA,"Spices, savory, ground",direct,
+lobster,USDA,"Crustaceans, lobster, northern, raw",direct,
+roasted_pork,USDA,"Pork, fresh, loin, whole, separable lean and fat, cooked, roasted",direct,
+mace,USDA,"Spices, mace, ground",direct,
+grapefruit,USDA,"Grapefruit, raw, pink and red, all areas",direct,
+endive,USDA,"Endive, raw",direct,
+brassica,USDA,"Cabbage, raw",proxy,generic brassica
+watermelon,USDA,"Watermelon, raw",direct,
+porcini,USDA,"Mushrooms, white, raw",proxy,no porcini entry
+enokidake,USDA,"Mushrooms, enoki, raw",direct,
+kiwi,USDA,"Kiwifruit, green, raw",direct,
+wasabi,USDA,"Wasabi, root, raw",direct,
+macadamia_nut,USDA,"Nuts, macadamia nuts, raw",direct,
+lime_peel_oil,,,none,essential oil
+okra,USDA,"Okra, raw",direct,
+popcorn,USDA,"Snacks, popcorn, air-popped",direct,
+smoked_salmon,USDA,"Fish, salmon, chinook, smoked",direct,
+tea,USDA,"Tea, black, brewed, prepared with tap water",direct,
+champagne_wine,USDA,"Alcoholic beverage, wine, table, white",proxy,sparkling white wine
+kale,USDA,"Kale, raw",direct,
+brussels_sprout,USDA,"Brussels sprouts, raw",direct,
+star_anise,USDA,"Spices, anise seed",proxy,
+rye_bread,USDA,"Bread, rye",direct,
+thai_pepper,USDA,"Peppers, hot chili, red, raw",proxy,
+anise_seed,USDA,"Spices, anise seed",direct,
+yam,USDA,"Yam, raw",direct,
+bitter_orange,USDA,"Oranges, raw, all commercial varieties",proxy,
+wheat_bread,USDA,"Bread, wheat",direct,
+root,,,none,too generic
+buckwheat,USDA,Buckwheat,direct,
+catfish,USDA,"Fish, catfish, channel, wild, raw",direct,
+gin,USDA,"Alcoholic beverage, distilled, gin, 90 proof",direct,
+cognac,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+nira,USDA,"Chives, raw",proxy,garlic chives
+potato_chip,USDA,"Snacks, potato chips, plain, salted",direct,
+rose,,,none,flower
+lavender,,,none,flower
+oatmeal,USDA,"Cereals, oats, regular and quick, not fortified, dry",direct,
+red_kidney_bean,USDA,"Beans, kidney, red, mature seeds, raw",direct,
+matsutake,USDA,"Mushrooms, white, raw",proxy,no matsutake entry
+truffle,,,none,no USDA entry
+chervil,USDA,"Spices, chervil, dried",direct,
+chicken_liver,DTU,"Liver, chicken (hen), raw",direct,
+nectarine,USDA,"Nectarines, raw",direct,
+katsuobushi,,,none,no USDA entry
+bone_oil,,,none,not a food ingredient
+port_wine,USDA,"Alcoholic beverage, wine, dessert, sweet",proxy,fortified sweet wine
+sour_cherry,USDA,"Cherries, sour, red, raw",direct,
+papaya,USDA,"Papayas, raw",direct,
+sour_milk,USDA,"Milk, buttermilk, fluid, cultured, lowfat",proxy,
+octopus,USDA,"Mollusks, octopus, common, raw",direct,
+mackerel,USDA,"Fish, mackerel, Atlantic, raw",direct,
+tangerine,USDA,"Tangerines, (mandarin oranges), raw",direct,
+gruyere_cheese,USDA,"Cheese, gruyere",direct,
+liver,USDA,"Beef, variety meats and by-products, liver, raw",proxy,
+palm,USDA,"Hearts of palm, raw",proxy,
+apple_brandy,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+malt,USDA,Barley malt flour,direct,
+black_tea,USDA,"Tea, black, brewed, prepared with tap water",direct,
+frankfurter,USDA,"Frankfurter, beef, unheated",direct,
+cacao,USDA,"Chocolate, dark, 70-85% cacao solids",proxy,
+rutabaga,USDA,"Rutabagas, raw",direct,
+galanga,USDA,"Ginger root, raw",proxy,related rhizome
+cherry_brandy,USDA,"Alcoholic beverage, liqueur, coffee, 53 proof",proxy,sweet liqueur
+red_bean,USDA,"Beans, kidney, red, mature seeds, raw",proxy,small red bean ~ red kidney bean
+wood,,,none,not a food
+juniper_berry,,,none,no USDA entry
+green_tea,USDA,"Tea, black, brewed, prepared with tap water",proxy,no green tea entry; brewed teas are near-identical nutritionally
+haddock,USDA,"Fish, haddock, raw",direct,
+flower,,,none,too generic
+black_mustard_seed_oil,,,none,essential oil
+munster_cheese,USDA,"Cheese, muenster",direct,
+shellfish,USDA,"Crustaceans, shrimp, mixed species, raw",proxy,generic shellfish
+kumquat,USDA,"Kumquats, raw",direct,
+chayote,USDA,"Chayote, fruit, raw",direct,
+black_sesame_seed,USDA,"Seeds, sesame seeds, whole, dried",proxy,
+prawn,USDA,"Crustaceans, shrimp, mixed species, raw",proxy,
+caviar,USDA,"Fish, caviar, black and red, granular",direct,
+quince,USDA,"Quinces, raw",direct,
+roquefort_cheese,USDA,"Cheese, roquefort",direct,
+bartlett_pear,USDA,"Pears, raw",proxy,
+cassava,USDA,"Cassava, raw",direct,
+passion_fruit,USDA,"Passion-fruit, (granadilla), purple, raw",direct,
+licorice,,,none,no USDA entry
+prickly_pear,USDA,"Prickly pears, raw",direct,
+eel,USDA,"Fish, eel, mixed species, raw",direct,
+mung_bean,USDA,"Mung beans, mature seeds, raw",direct,
+orange_flower,,,none,flower
+sassafras,,,none,no USDA entry
+cabernet_sauvignon_wine,USDA,"Alcoholic Beverage, wine, table, red, Cabernet Sauvignon",direct,
+coconut_oil,USDA,"Oil, coconut",direct,
+roasted_meat,USDA,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",proxy,cooked meat
+sumac,,,none,no USDA entry
+artemisia,,,none,no USDA entry
+guava,USDA,"Guavas, common, raw",direct,
+salmon_roe,USDA,"Fish, roe, mixed species, raw",proxy,
+camembert_cheese,USDA,"Cheese, camembert",direct,
+concord_grape,USDA,"Grapes, american type (slip skin), raw",direct,
+pear_brandy,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+japanese_plum,USDA,"Plums, raw",proxy,
+armagnac,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+herring,USDA,"Fish, herring, Atlantic, raw",direct,
+huckleberry,USDA,"Huckleberries, raw (Alaska Native)",direct,
+clove,USDA,"Spices, cloves, ground",direct,
+black_currant,USDA,"Currants, european black, raw",direct,
+beef_liver,USDA,"Beef, variety meats and by-products, liver, raw",direct,
+mandarin_peel,USDA,"Orange peel, raw",proxy,
+litchi,USDA,"Litchis, raw",direct,
+leaf,,,none,too generic
+condiment,,,none,too generic
+peppermint_oil,,,none,essential oil
+gardenia,,,none,flower
+ouzo,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+baked_potato,USDA,"Potatoes, baked, flesh and skin, with salt",direct,
+lingonberry,USDA,"Cranberries, raw",proxy,
+grape_brandy,USDA,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",proxy,distilled spirit
+sunflower_oil,USDA,"Oil, sunflower, linoleic, (approx. 65%)",direct,
+black_raspberry,USDA,"Raspberries, raw",proxy,
+bergamot,,,none,citrus used for oil
+carob,USDA,Carob flour,direct,
+jasmine,,,none,flower
+smoked_fish,USDA,"Fish, haddock, smoked",proxy,
+kohlrabi,USDA,"Kohlrabi, raw",direct,
+violet,,,none,flower
+elderberry,USDA,"Elderberries, raw",direct,
+pork_liver,USDA,"Pork, fresh, variety meats and by-products, liver, raw",direct,
+spearmint,USDA,"Spearmint, fresh",direct,
+sea_algae,USDA,"Seaweed, wakame, raw",proxy,
+citrus_peel,USDA,"Orange peel, raw",proxy,
+mutton,DTU,"Mutton, shoulder, raw",direct,
+roasted_almond,USDA,"Nuts, almonds, dry roasted, without salt added",direct,
+chamomile,USDA,"Tea, herb, chamomile, brewed",direct,
+carnation,,,none,flower
+blackberry_brandy,USDA,"Alcoholic beverage, liqueur, coffee, 53 proof",proxy,sweet liqueur
+rapeseed,USDA,"Oil, canola",proxy,
+balm,,,none,no USDA entry
+hop,,,none,no USDA entry
+soybean_oil,USDA,"Oil, soybean, salad or cooking",direct,
+laurel,USDA,"Spices, bay leaf",proxy,bay laurel
+holy_basil,USDA,"Basil, fresh",proxy,
+red_algae,USDA,"Seaweed, laver, raw",proxy,
+sheep_cheese,USDA,"Cheese, romano",proxy,pecorino-style
+strawberry_juice,USDA,"Strawberries, raw",proxy,
+raw_beef,USDA,"Beef, ground, 80% lean meat / 20% fat, raw",direct,
+pimenta,USDA,"Spices, allspice, ground",direct,
+muscat_grape,USDA,"Grapes, red or green (European type, such as Thompson seedless), raw",proxy,
+roasted_hazelnut,USDA,"Nuts, hazelnuts or filberts, dry roasted, without salt added",direct,
+strawberry_jam,USDA,Jams and preserves,proxy,
+lilac_flower_oil,,,none,essential oil
+roasted_nut,USDA,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",proxy,
+beech,,,none,not a food
+durian,USDA,"Durian, raw or frozen",direct,
+roasted_pecan,USDA,"Nuts, pecans, dry roasted, without salt added",direct,
+sturgeon_caviar,USDA,"Fish, caviar, black and red, granular",direct,
+emmental_cheese,USDA,"Cheese, swiss",proxy,emmental is the original swiss cheese
+jasmine_tea,USDA,"Tea, black, brewed, prepared with tap water",proxy,brewed tea
+mate,,,none,no USDA entry
+jamaican_rum,USDA,"Alcoholic beverage, distilled, rum, 80 proof",direct,
+pelargonium,,,none,flower
+geranium,,,none,flower
+angelica,,,none,no USDA entry
